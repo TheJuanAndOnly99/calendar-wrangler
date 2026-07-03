@@ -3328,7 +3328,7 @@ BEGIN:VEVENT
 UID:98802575145
 DTSTART;TZID=Europe/London:20260629T140000
 DTEND;TZID=Europe/London:20260629T144500
-CREATED:20260624T105545Z
+CREATED:20260703T151238Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  d Engineer Community\n\nAddressing diversity at the top of the engineering
   career ladder through mentoring\, allyship\, and inclusive practices — 
@@ -3345,13 +3345,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  8 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1
  099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 98802575145\n\nMeeting Pass
  code: 439455\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260624T105545Z
-LAST-MODIFIED:20260624T105545Z
+DTSTAMP:20260703T151238Z
+LAST-MODIFIED:20260703T151238Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98802575145?
  password=a123e00b-a189-41a1-9aa6-95a4dd7695f7
 ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20280101T000000Z;BYDAY=MO
-SEQUENCE:0
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=MO
+SEQUENCE:1
 SUMMARY:Inclusive Engineering Working group
 TZID:Europe/London
 TZNAME:Europe/London
