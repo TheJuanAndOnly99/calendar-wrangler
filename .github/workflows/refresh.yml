@@ -1,0 +1,55 @@
+name: Refresh cleaned LFX calendar
+
+on:
+  schedule:
+    # Every 3 hours, offset from :00 to be polite.
+    - cron: "17 */3 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "normalize.py"
+      - ".github/workflows/refresh.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-calendar
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Normalize LFX feed
+        env:
+          LFX_ICS_URL: ${{ secrets.LFX_ICS_URL }}
+        run: |
+          if [ -z "${LFX_ICS_URL}" ]; then
+            echo "::error::Secret LFX_ICS_URL is not set. See README.md for setup."
+            exit 1
+          fi
+          python normalize.py --output Calendar-clean.ics
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- Calendar-clean.ics; then
+            echo "No changes."
+            exit 0
+          fi
+          git add Calendar-clean.ics
+          git commit -m "chore: refresh Calendar-clean.ics ($(date -u +%FT%TZ))"
+          git push

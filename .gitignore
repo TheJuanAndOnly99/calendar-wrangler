@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Wrangler / Cloudflare local state
+.wrangler/
+node_modules/
+Calendar-clean.worker.ics
+
+# Ignore your original personal feed dump so the sub ID never ends up in git.
+Calendar.ics
