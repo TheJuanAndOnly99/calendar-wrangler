@@ -2934,7 +2934,7 @@ BEGIN:VEVENT
 UID:93988274402
 DTSTART;TZID=America/New_York:20260408T090000
 DTEND;TZID=America/New_York:20260408T100000
-CREATED:20260609T144430Z
+CREATED:20260707T162542Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\nWorking Group Background:
   https://github.com/finos/common-domain-model/issues/3432\n\nWays to join 
@@ -2950,14 +2950,17 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  20 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMe
  eting ID: 93988274402\n\nMeeting Passcode: 288107\n\n\nInternational numbe
  rs: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260609T144430Z
+DTSTAMP:20260707T162542Z
 EXDATE;TZID=America/New_York:20260513T090000
 EXDATE;TZID=America/New_York:20260610T090000
-LAST-MODIFIED:20260609T144430Z
+EXDATE;TZID=America/New_York:20260708T090000
+EXDATE;TZID=America/New_York:20260812T090000
+LAST-MODIFIED:20260707T162542Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/93988274402?
  password=cc529a12-6925-413d-a7a8-19ec7a37cfdc
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=+2WE
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+2WE
+SEQUENCE:2
 SUMMARY:CDM Physical Risk Working Group
 TZID:America/New_York
 TZNAME:America/New_York
