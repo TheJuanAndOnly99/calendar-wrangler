@@ -3817,33 +3817,31 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:94324343329:2026-01-06T16:00:00Z
-DTSTART;TZID=America/New_York:20260106T110000
-DTEND;TZID=America/New_York:20260106T120000
-CREATED:20260618T132936Z
+UID:94324343329:2026-03-31T15:00:00Z
+DTSTART;TZID=America/New_York:20260331T110000
+DTEND;TZID=America/New_York:20260331T120000
+CREATED:20260707T092514Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Fluxnova\n\n
- Weekly Fluxnova - AI Working Group Meeting\n\nWays to join meeting:\n\n1. 
- Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxf
- oundation.org/meeting/94324343329?password=4fd47917-b89f-4c7c-8925-a8a4e5b
- 54ab1\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,\,9
- 4324343329#\,\,\,\,*874153# or +13462487799\,\,94324343329#\,\,\,\,*874153
- #\nUS (Android): +12532158782\;94324343329#\;874153# or +13462487799\;9432
- 4343329#\;874153#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 or +
- 1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 or
-  877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 374 
- 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 80
- 9 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 94324
- 343329\n\nMeeting Passcode: 874153\n\n\nInternational numbers: https://zoo
- m.us/u/alwnPIaVT\n
-DTSTAMP:20260618T132936Z
-EXDATE;TZID=America/New_York:20260324T110000
-EXDATE;TZID=America/New_York:20260623T110000
-LAST-MODIFIED:20260618T132936Z
+ Fluxnova - AI Working Group Meeting\n\nWays to join meeting:\n\n1. Join fr
+ om PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundati
+ on.org/meeting/94324343329?password=4fd47917-b89f-4c7c-8925-a8a4e5b54ab1\n
+ \n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,\,94324343
+ 329#\,\,\,\,*874153# or +13462487799\,\,94324343329#\,\,\,\,*874153#\nUS (
+ Android): +12532158782\;94324343329#\;874153# or +13462487799\;94324343329
+ #\;874153#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 9
+ 00 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 36
+ 9 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 374 4685 or
+  +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 
+ or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 94324343329\
+ n\nMeeting Passcode: 874153\n\n\nInternational numbers: https://zoom.us/u/
+ alwnPIaVT\n
+DTSTAMP:20260707T092514Z
+LAST-MODIFIED:20260707T092514Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94324343329?
  password=4fd47917-b89f-4c7c-8925-a8a4e5b54ab1
 ORGANIZER;CN=Fluxnova:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;UNTIL=20260324T160000Z;BYDAY=TU
-SEQUENCE:1
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260623T160000Z;BYDAY=TU
+SEQUENCE:2
 SUMMARY:Fluxnova - AI Working Group Meeting
 TZID:America/New_York
 TZNAME:America/New_York
@@ -3898,10 +3896,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:94324343329:2026-03-31T15:00:00Z
-DTSTART;TZID=America/New_York:20260331T110000
-DTEND;TZID=America/New_York:20260331T120000
-CREATED:20260618T132936Z
+UID:94324343329:2026-07-07T15:00:00Z
+DTSTART;TZID=America/New_York:20260707T110000
+DTEND;TZID=America/New_York:20260707T120000
+CREATED:20260707T092514Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Fluxnova\n\n
  Fluxnova - AI Working Group Meeting\n\nWays to join meeting:\n\n1. Join fr
  om PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundati
@@ -3916,15 +3914,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Fluxnova\n\n
  or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 94324343329\
  n\nMeeting Passcode: 874153\n\n\nInternational numbers: https://zoom.us/u/
  alwnPIaVT\n
-DTSTAMP:20260618T132936Z
-EXDATE;TZID=America/New_York:20260324T110000
-EXDATE;TZID=America/New_York:20260623T110000
-LAST-MODIFIED:20260618T132936Z
+DTSTAMP:20260707T092514Z
+LAST-MODIFIED:20260707T092514Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94324343329?
  password=4fd47917-b89f-4c7c-8925-a8a4e5b54ab1
 ORGANIZER;CN=Fluxnova:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20280101T000000Z;BYDAY=TU
-SEQUENCE:1
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=TU
+SEQUENCE:2
 SUMMARY:Fluxnova - AI Working Group Meeting
 TZID:America/New_York
 TZNAME:America/New_York
