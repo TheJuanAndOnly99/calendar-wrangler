@@ -2646,7 +2646,7 @@ BEGIN:VEVENT
 UID:98579493833:2025-12-04T15:30:00Z
 DTSTART;TZID=America/New_York:20251204T103000
 DTEND;TZID=America/New_York:20251204T113000
-CREATED:20260616T170116Z
+CREATED:20260708T171106Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
  ation\n\nWeekly Architecture as Code Office Hours meeting.\n\nWays to join
   meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx
@@ -2661,16 +2661,17 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
  920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nM
  eeting ID: 98579493833\n\nMeeting Passcode: 169331\n\n\nInternational numb
  ers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260616T170116Z
+DTSTAMP:20260708T171106Z
 EXDATE;TZID=America/New_York:20251225T103000
 EXDATE;TZID=America/New_York:20260101T103000
 EXDATE;TZID=America/New_York:20260312T103000
 EXDATE;TZID=America/New_York:20260625T103000
-LAST-MODIFIED:20260616T170116Z
+LAST-MODIFIED:20260708T171106Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98579493833?
  password=2af32413-a2a4-4ada-b064-ae8544c64c85
 ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=TH
+RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;BYDAY=TH
+SEQUENCE:1
 SUMMARY:Architecture as Code Office Hours
 TZID:America/New_York
 TZNAME:America/New_York
