@@ -3183,7 +3183,7 @@ BEGIN:VEVENT
 UID:99354850498
 DTSTART;TZID=America/New_York:20260109T091500
 DTEND;TZID=America/New_York:20260109T100000
-CREATED:20260415T065758Z
+CREATED:20260709T144107Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Accessibilit
  y Theme Builder\n\nAccessibility Theme Builder project weekly meeting\n\nW
  ays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps
@@ -3198,13 +3198,15 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Accessibilit
  1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll
   Free)\n\nMeeting ID: 99354850498\n\nMeeting Passcode: 298461\n\n\nInterna
  tional numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260415T065758Z
+DTSTAMP:20260709T144107Z
 EXDATE;TZID=America/New_York:20260417T091500
-LAST-MODIFIED:20260415T065758Z
+EXDATE;TZID=America/New_York:20260710T091500
+LAST-MODIFIED:20260709T144107Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99354850498?
  password=2545922e-1c6b-41b9-a73f-16695a10c24e
 ORGANIZER;CN=Accessibility Theme Builder:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=FR
+RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;BYDAY=FR
+SEQUENCE:1
 SUMMARY:A11y Theme Builder Project Meeting
 TZID:America/New_York
 TZNAME:America/New_York
