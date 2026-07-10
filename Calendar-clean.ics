@@ -3823,10 +3823,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:94324343329:2026-03-31T15:00:00Z
-DTSTART;TZID=America/New_York:20260331T110000
-DTEND;TZID=America/New_York:20260331T120000
-CREATED:20260707T092514Z
+UID:94324343329:2026-07-07T15:00:00Z
+DTSTART;TZID=America/New_York:20260707T110000
+DTEND;TZID=America/New_York:20260707T120000
+CREATED:20260710T090609Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Fluxnova\n\n
  Fluxnova - AI Working Group Meeting\n\nWays to join meeting:\n\n1. Join fr
  om PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundati
@@ -3841,13 +3841,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Fluxnova\n\n
  or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 94324343329\
  n\nMeeting Passcode: 874153\n\n\nInternational numbers: https://zoom.us/u/
  alwnPIaVT\n
-DTSTAMP:20260707T092514Z
-LAST-MODIFIED:20260707T092514Z
+DTSTAMP:20260710T090609Z
+LAST-MODIFIED:20260710T090609Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94324343329?
  password=4fd47917-b89f-4c7c-8925-a8a4e5b54ab1
 ORGANIZER;CN=Fluxnova:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260623T160000Z;BYDAY=TU
-SEQUENCE:2
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260707T160000Z;BYDAY=TU
+SEQUENCE:3
 SUMMARY:Fluxnova - AI Working Group Meeting
 TZID:America/New_York
 TZNAME:America/New_York
@@ -3902,10 +3902,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:94324343329:2026-07-07T15:00:00Z
-DTSTART;TZID=America/New_York:20260707T110000
-DTEND;TZID=America/New_York:20260707T120000
-CREATED:20260707T092514Z
+UID:94324343329:2026-07-21T15:00:00Z
+DTSTART;TZID=America/New_York:20260721T110000
+DTEND;TZID=America/New_York:20260721T120000
+CREATED:20260710T090609Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Fluxnova\n\n
  Fluxnova - AI Working Group Meeting\n\nWays to join meeting:\n\n1. Join fr
  om PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundati
@@ -3920,13 +3920,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Fluxnova\n\n
  or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 94324343329\
  n\nMeeting Passcode: 874153\n\n\nInternational numbers: https://zoom.us/u/
  alwnPIaVT\n
-DTSTAMP:20260707T092514Z
-LAST-MODIFIED:20260707T092514Z
+DTSTAMP:20260710T090609Z
+LAST-MODIFIED:20260710T090609Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94324343329?
  password=4fd47917-b89f-4c7c-8925-a8a4e5b54ab1
 ORGANIZER;CN=Fluxnova:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=TU
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:Fluxnova - AI Working Group Meeting
 TZID:America/New_York
 TZNAME:America/New_York
