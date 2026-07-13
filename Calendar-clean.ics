@@ -1054,6 +1054,45 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
+UID:98479581224
+DTSTART;TZID=America/New_York:20260722T100000
+DTEND;TZID=America/New_York:20260722T110000
+CREATED:20260713T134958Z
+DESCRIPTION:\nYou have been invited to a meeting for CDM\n\nGitHub: https:/
+ /github.com/finos/common-domain-model\n\nWays to join meeting:\n\n1. Join 
+ from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfounda
+ tion.org/meeting/98479581224?password=d1b38bb9-8194-451f-a730-54daa3315494
+ \n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,\,984795
+ 81224#\,\,\,\,*145757# or +13462487799\,\,98479581224#\,\,\,\,*145757#\nUS
+  (Android): +12532158782\;98479581224#\;145757# or +13462487799\;984795812
+ 24#\;145757#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669
+  900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 
+ 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 374 4685 
+ or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 779
+ 9 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 9847958122
+ 4\n\nMeeting Passcode: 145757\n\n\nInternational numbers: https://zoom.us/
+ u/alwnPIaVT\n
+DTSTAMP:20260713T134958Z
+LAST-MODIFIED:20260713T134958Z
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98479581224?
+ password=d1b38bb9-8194-451f-a730-54daa3315494
+ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
+SEQUENCE:0
+SUMMARY:CDM Tokenized Assets Working Group
+TZID:America/New_York
+TZNAME:America/New_York
+URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/984795
+ 81224?password=d1b38bb9-8194-451f-a730-54daa3315494
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting reminder
+TRIGGER:-PT10M
+END:VALARM
+X-MEETING-ID:98479581224
+X-OCCURRENCE-ID:
+X-REGISTRANT-ID:
+END:VEVENT
+BEGIN:VEVENT
 UID:94448504669
 DTSTART;TZID=Europe/London:20250924T083000
 DTEND;TZID=Europe/London:20250924T110000
@@ -1221,7 +1260,7 @@ BEGIN:VEVENT
 UID:92172584188
 DTSTART;TZID=America/New_York:20260520T100000
 DTEND;TZID=America/New_York:20260520T110000
-CREATED:20260615T172514Z
+CREATED:20260713T134426Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -1236,14 +1275,16 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  92172584188\n\nMeeting Passcode: 886399\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260615T172514Z
+DTSTAMP:20260713T134426Z
 EXDATE;TZID=America/New_York:20260520T100000
 EXDATE;TZID=America/New_York:20260617T100000
-LAST-MODIFIED:20260615T172514Z
+EXDATE;TZID=America/New_York:20260715T100000
+LAST-MODIFIED:20260713T134426Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/92172584188?
  password=cf35c343-0e3e-49e3-9dae-117c6f6accb8
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=+3WE
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+3WE
+SEQUENCE:1
 SUMMARY:CDM Tokenized Assets Working Group
 TZID:America/New_York
 TZNAME:America/New_York
@@ -2850,7 +2891,7 @@ BEGIN:VEVENT
 UID:94271033159
 DTSTART;TZID=America/New_York:20260429T100000
 DTEND;TZID=America/New_York:20260429T110000
-CREATED:20260616T133957Z
+CREATED:20260713T135933Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -2865,14 +2906,16 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  94271033159\n\nMeeting Passcode: 531000\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260616T133957Z
+DTSTAMP:20260713T135933Z
 EXDATE;TZID=America/New_York:20260429T100000
 EXDATE;TZID=America/New_York:20260624T100000
-LAST-MODIFIED:20260616T133957Z
+EXDATE;TZID=America/New_York:20260729T100000
+LAST-MODIFIED:20260713T135933Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94271033159?
  password=0452bf20-88ad-423b-8b3b-a23c57524f09
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=-1WE
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=-1WE
+SEQUENCE:1
 SUMMARY:CDM Collateral Working Group
 TZID:America/New_York
 TZNAME:America/New_York
@@ -3344,7 +3387,7 @@ BEGIN:VEVENT
 UID:98802575145
 DTSTART;TZID=Europe/London:20260629T140000
 DTEND;TZID=Europe/London:20260629T144500
-CREATED:20260703T151238Z
+CREATED:20260713T123908Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  d Engineer Community\n\nAddressing diversity at the top of the engineering
   career ladder through mentoring\, allyship\, and inclusive practices — 
@@ -3361,13 +3404,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  8 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1
  099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 98802575145\n\nMeeting Pass
  code: 439455\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260703T151238Z
-LAST-MODIFIED:20260703T151238Z
+DTSTAMP:20260713T123908Z
+EXDATE;TZID=Europe/London:20260713T140000
+LAST-MODIFIED:20260713T123908Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98802575145?
  password=a123e00b-a189-41a1-9aa6-95a4dd7695f7
 ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=MO
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Inclusive Engineering Working group
 TZID:Europe/London
 TZNAME:Europe/London
