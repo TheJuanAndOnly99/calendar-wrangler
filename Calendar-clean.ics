@@ -1681,7 +1681,7 @@ BEGIN:VEVENT
 UID:94584131804
 DTSTART;TZID=America/New_York:20260407T100000
 DTEND;TZID=America/New_York:20260407T110000
-CREATED:20260619T215054Z
+CREATED:20260714T141932Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGithu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -1696,13 +1696,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGithu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  94584131804\n\nMeeting Passcode: 021040\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260619T215054Z
-LAST-MODIFIED:20260619T215054Z
+DTSTAMP:20260714T141932Z
+LAST-MODIFIED:20260714T141932Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94584131804?
  password=b7edff0a-9cc6-426f-b0d9-28eb4fb0de71
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20280101T000000Z;BYDAY=TU
-SEQUENCE:2
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=TU
+SEQUENCE:3
 SUMMARY:CDM Contribution Review Working Group
 TZID:America/New_York
 TZNAME:America/New_York
@@ -1719,104 +1719,30 @@ X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
 UID:94584131804
-RECURRENCE-ID;TZID=America/New_York:20260630T100000
-DTSTART;TZID=America/New_York:20260623T100000
-DTEND;TZID=America/New_York:20260623T110000
-CREATED:20260619T215054Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGithu
- b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
- \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
- inuxfoundation.org/meeting/94584131804?password=b7edff0a-9cc6-426f-b0d9-28
- eb4fb0de71\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782
- \,\,94584131804#\,\,\,\,*021040# or +13462487799\,\,94584131804#\,\,\,\,*0
- 21040#\nUS (Android): +12532158782\;94584131804#\;021040# or +13462487799\
- ;94584131804#\;021040#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799
-  or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 86
- 56 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647
-  374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 4
- 38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
- 94584131804\n\nMeeting Passcode: 021040\n\n\nInternational numbers: https:
- //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260619T215054Z
-LAST-MODIFIED:20260619T215054Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94584131804?
- password=b7edff0a-9cc6-426f-b0d9-28eb4fb0de71
-ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
-SEQUENCE:2
-SUMMARY:CDM Contribution Review Working Group
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/945841
- 31804?password=b7edff0a-9cc6-426f-b0d9-28eb4fb0de71
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:94584131804
-RECURRENCE-ID;TZID=America/New_York:20260714T100000
-DTSTART;TZID=America/New_York:20260707T100000
-DTEND;TZID=America/New_York:20260707T110000
-CREATED:20260619T215054Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGithu
- b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
- \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
- inuxfoundation.org/meeting/94584131804?password=b7edff0a-9cc6-426f-b0d9-28
- eb4fb0de71\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782
- \,\,94584131804#\,\,\,\,*021040# or +13462487799\,\,94584131804#\,\,\,\,*0
- 21040#\nUS (Android): +12532158782\;94584131804#\;021040# or +13462487799\
- ;94584131804#\;021040#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799
-  or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 86
- 56 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647
-  374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 4
- 38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
- 94584131804\n\nMeeting Passcode: 021040\n\n\nInternational numbers: https:
- //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260619T215054Z
-LAST-MODIFIED:20260619T215054Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94584131804?
- password=b7edff0a-9cc6-426f-b0d9-28eb4fb0de71
-ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
-SEQUENCE:2
-SUMMARY:CDM Contribution Review Working Group
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/945841
- 31804?password=b7edff0a-9cc6-426f-b0d9-28eb4fb0de71
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:94584131804
 RECURRENCE-ID;TZID=America/New_York:20260728T100000
 DTSTART;TZID=America/New_York:20260721T100000
 DTEND;TZID=America/New_York:20260721T110000
-CREATED:20260619T215054Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGithu
- b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
- \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
- inuxfoundation.org/meeting/94584131804?password=b7edff0a-9cc6-426f-b0d9-28
- eb4fb0de71\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782
- \,\,94584131804#\,\,\,\,*021040# or +13462487799\,\,94584131804#\,\,\,\,*0
- 21040#\nUS (Android): +12532158782\;94584131804#\;021040# or +13462487799\
- ;94584131804#\;021040#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799
-  or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 86
- 56 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647
-  374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 4
- 38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
- 94584131804\n\nMeeting Passcode: 021040\n\n\nInternational numbers: https:
- //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260619T215054Z
-LAST-MODIFIED:20260619T215054Z
+CREATED:20260714T141932Z
+DESCRIPTION:\nYou have been invited to a meeting for CDM\n\nGithub: https:/
+ /github.com/finos/common-domain-model\n\nWays to join meeting:\n\n1. Join 
+ from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfounda
+ tion.org/meeting/94584131804?password=b7edff0a-9cc6-426f-b0d9-28eb4fb0de71
+ \n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,\,945841
+ 31804#\,\,\,\,*021040# or +13462487799\,\,94584131804#\,\,\,\,*021040#\nUS
+  (Android): +12532158782\;94584131804#\;021040# or +13462487799\;945841318
+ 04#\;021040#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669
+  900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 
+ 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 374 4685 
+ or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 779
+ 9 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 9458413180
+ 4\n\nMeeting Passcode: 021040\n\n\nInternational numbers: https://zoom.us/
+ u/alwnPIaVT\n
+DTSTAMP:20260714T141932Z
+LAST-MODIFIED:20260714T141932Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94584131804?
  password=b7edff0a-9cc6-426f-b0d9-28eb4fb0de71
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:CDM Contribution Review Working Group
 TZID:America/New_York
 TZNAME:America/New_York
