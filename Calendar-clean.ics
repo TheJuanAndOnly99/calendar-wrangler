@@ -2220,7 +2220,7 @@ BEGIN:VEVENT
 UID:98061524600:2026-04-22T16:00:00Z
 DTSTART;TZID=America/New_York:20260422T120000
 DTEND;TZID=America/New_York:20260422T130000
-CREATED:20260629T180740Z
+CREATED:20260715T130804Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  intech Open Source Foundation)\n\nFINOS Technical Oversight Committee Publ
  ic Meeting\nMeeting Agenda Issues can be found on GitHub at https://github
@@ -2237,97 +2237,15 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  98061524600\n\nMeeting Passcode: 564940\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260629T180740Z
-LAST-MODIFIED:20260629T180740Z
+DTSTAMP:20260715T130804Z
+EXDATE;TZID=America/New_York:20260715T120000
+LAST-MODIFIED:20260715T130804Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98061524600?
  password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d
 ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
  .dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20280101T000000Z;BYDAY=WE
-SEQUENCE:1
-SUMMARY:FINOS Technical Oversight Committee Meeting
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/980615
- 24600?password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-X-MEETING-ID:98061524600
-X-OCCURRENCE-ID:
-X-REGISTRANT-ID:
-END:VEVENT
-BEGIN:VEVENT
-UID:98061524600:2026-04-22T16:00:00Z
-RECURRENCE-ID;TZID=America/New_York:20260701T120000
-DTSTART;TZID=America/New_York:20260702T120000
-DTEND;TZID=America/New_York:20260702T130000
-CREATED:20260629T180740Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
- intech Open Source Foundation)\n\nFINOS Technical Oversight Committee Publ
- ic Meeting\nMeeting Agenda Issues can be found on GitHub at https://github
- .com/finos/technical-oversight-committee/issues\n\nWays to join meeting:\n
- \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
- inuxfoundation.org/meeting/98061524600?password=e95afcc7-9e31-4ecd-b9da-c0
- a0d7cce15d\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782
- \,\,98061524600#\,\,\,\,*564940# or +13462487799\,\,98061524600#\,\,\,\,*5
- 64940#\nUS (Android): +12532158782\;98061524600#\;564940# or +13462487799\
- ;98061524600#\;564940#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799
-  or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 86
- 56 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647
-  374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 4
- 38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
- 98061524600\n\nMeeting Passcode: 564940\n\n\nInternational numbers: https:
- //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260629T180740Z
-LAST-MODIFIED:20260629T180740Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98061524600?
- password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d
-ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
- .dev
-SEQUENCE:1
-SUMMARY:FINOS Technical Oversight Committee Meeting
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/980615
- 24600?password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:98061524600
-DTSTART;TZID=America/New_York:20250528T120000
-DTEND;TZID=America/New_York:20250528T130000
-CREATED:20260629T180740Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
- intech Open Source Foundation)\n\nFINOS Technical Oversight Committee Publ
- ic Meeting\nMeeting Agenda Issues can be found on GitHub at https://github
- .com/finos/technical-oversight-committee/issues\n\nWays to join meeting:\n
- \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
- inuxfoundation.org/meeting/98061524600?password=e95afcc7-9e31-4ecd-b9da-c0
- a0d7cce15d\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782
- \,\,98061524600#\,\,\,\,*564940# or +13462487799\,\,98061524600#\,\,\,\,*5
- 64940#\nUS (Android): +12532158782\;98061524600#\;564940# or +13462487799\
- ;98061524600#\;564940#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799
-  or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 86
- 56 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647
-  374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 4
- 38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
- 98061524600\n\nMeeting Passcode: 564940\n\n\nInternational numbers: https:
- //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260629T180740Z
-LAST-MODIFIED:20260629T180740Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98061524600?
- password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d
-ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
- .dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260401T170000Z;BYDAY=WE
-SEQUENCE:1
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=WE
+SEQUENCE:2
 SUMMARY:FINOS Technical Oversight Committee Meeting
 TZID:America/New_York
 TZNAME:America/New_York
@@ -3707,30 +3625,31 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:98941494716:2026-05-20T14:00:00Z
-DTSTART;TZID=Europe/London:20260520T150000
-DTEND;TZID=Europe/London:20260520T163000
-CREATED:20260605T154843Z
+UID:98941494716:2026-07-15T14:00:00Z
+DTSTART;TZID=Europe/London:20260715T150000
+DTEND;TZID=Europe/London:20260715T163000
+CREATED:20260715T140730Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
- d Engineer Community\n\n\n\nWays to join meeting:\n\n1. Join from PC\, Mac
- \, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meet
- ing/98941494716?password=14fbd625-e747-41d5-b0f2-dc7ba43ec85a\n\n2. Join v
- ia audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,\,98941494716#\,\,\,\
- ,*029411# or +13462487799\,\,98941494716#\,\,\,\,*029411#\nUS (Android): +
- 12532158782\;98941494716#\;029411# or +13462487799\;98941494716#\;029411#\
- n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or 
- +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Tol
- l Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647 558
-  0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 3
- 28 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 98941494716\n\nMeeting 
- Passcode: 029411\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260605T154843Z
-EXDATE;TZID=Europe/London:20260617T150000
-LAST-MODIFIED:20260605T154843Z
+ d Engineer Community\n\nMonthly meeting of the Distinguished Engineer Comm
+ unity Monthly SIG \n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPa
+ d\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/98
+ 941494716?password=14fbd625-e747-41d5-b0f2-dc7ba43ec85a\n\n2. Join via aud
+ io\n\nOne tap mobile:\nUS (iOS): +12532158782\,\,98941494716#\,\,\,\,*0294
+ 11# or +13462487799\,\,98941494716#\,\,\,\,*029411#\nUS (Android): +125321
+ 58782\;98941494716#\;029411# or +13462487799\;98941494716#\;029411#\n\nOr 
+ dial:\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301
+  715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free
+ ) or 855 880 1246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 
+ or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 109
+ 9 or 855 703 8985 (Toll Free)\n\nMeeting ID: 98941494716\n\nMeeting Passco
+ de: 029411\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
+DTSTAMP:20260715T140730Z
+LAST-MODIFIED:20260715T140730Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98941494716?
  password=14fbd625-e747-41d5-b0f2-dc7ba43ec85a
 ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=+3WE
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+3WE
+SEQUENCE:1
 SUMMARY:Distinguished Engineer Community Monthly SIG Meeting
 TZID:Europe/London
 TZNAME:Europe/London
@@ -3827,10 +3746,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:98941494716:2026-01-21T15:00:00Z
-DTSTART;TZID=Europe/London:20260121T150000
-DTEND;TZID=Europe/London:20260121T163000
-CREATED:20260605T154843Z
+UID:98941494716:2026-05-20T14:00:00Z
+DTSTART;TZID=Europe/London:20260520T150000
+DTEND;TZID=Europe/London:20260520T163000
+CREATED:20260715T140730Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  d Engineer Community\n\n\n\nWays to join meeting:\n\n1. Join from PC\, Mac
  \, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meet
@@ -3844,13 +3763,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
   0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 3
  28 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 98941494716\n\nMeeting 
  Passcode: 029411\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260605T154843Z
-EXDATE;TZID=Europe/London:20260617T150000
-LAST-MODIFIED:20260605T154843Z
+DTSTAMP:20260715T140730Z
+LAST-MODIFIED:20260715T140730Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98941494716?
  password=14fbd625-e747-41d5-b0f2-dc7ba43ec85a
 ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20260415T153000Z;BYDAY=+3WE
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20260617T153000Z;BYDAY=+3WE
+SEQUENCE:1
 SUMMARY:Distinguished Engineer Community Monthly SIG Meeting
 TZID:Europe/London
 TZNAME:Europe/London
