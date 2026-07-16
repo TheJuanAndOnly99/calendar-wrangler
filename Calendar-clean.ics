@@ -827,7 +827,7 @@ BEGIN:VEVENT
 UID:96571699438
 DTSTART;TZID=America/New_York:20260414T110000
 DTEND;TZID=America/New_York:20260414T120000
-CREATED:20260413T132146Z
+CREATED:20260716T142109Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -842,12 +842,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  96571699438\n\nMeeting Passcode: 516671\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260413T132146Z
-LAST-MODIFIED:20260413T132146Z
+DTSTAMP:20260716T142109Z
+EXDATE;TZID=America/New_York:20260811T110000
+LAST-MODIFIED:20260716T142109Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96571699438?
  password=8a8b1c3f-2ccd-46ce-99b5-42e173e48c74
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=+2TU
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+2TU
+SEQUENCE:1
 SUMMARY:CDM Steering Working Group
 TZID:America/New_York
 TZNAME:America/New_York
