@@ -740,10 +740,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:95252800112:2026-02-16T14:30:00Z
-DTSTART;TZID=America/New_York:20260216T093000
-DTEND;TZID=America/New_York:20260216T100000
-CREATED:20260525T083148Z
+UID:95252800112:2026-03-30T13:00:00Z
+DTSTART;TZID=America/New_York:20260330T090000
+DTEND;TZID=America/New_York:20260330T100000
+CREATED:20260720T093321Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3 Sail\n\
  n\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\
  nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/95252800112?passwor
@@ -757,16 +757,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3 Sail\n\
  1 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985
   (Toll Free)\n\nMeeting ID: 95252800112\n\nMeeting Passcode: 001816\n\n\nI
  nternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260525T083148Z
-EXDATE;TZID=America/New_York:20260316T093000
-EXDATE;TZID=America/New_York:20260413T090000
-EXDATE;TZID=America/New_York:20260511T090000
-EXDATE;TZID=America/New_York:20260525T090000
-LAST-MODIFIED:20260525T083148Z
+DTSTAMP:20260720T093321Z
+LAST-MODIFIED:20260720T093321Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95252800112?
  password=90638454-991c-4ab0-8aed-791fc372623c
 ORGANIZER;CN=FDC3 Sail:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260316T140000Z;BYDAY=MO
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260706T140000Z;BYDAY=MO
+SEQUENCE:1
 SUMMARY:FDC3 Sail Project Meeting
 TZID:America/New_York
 TZNAME:America/New_York
@@ -782,33 +779,37 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:95252800112:2026-03-30T13:00:00Z
-DTSTART;TZID=America/New_York:20260330T090000
-DTEND;TZID=America/New_York:20260330T100000
-CREATED:20260525T083148Z
+UID:95252800112:2026-07-20T13:00:00Z
+DTSTART;TZID=America/New_York:20260720T090000
+DTEND;TZID=America/New_York:20260720T100000
+CREATED:20260720T093321Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3 Sail\n\
- n\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\
- nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/95252800112?passwor
- d=90638454-991c-4ab0-8aed-791fc372623c\n\n2. Join via audio\n\nOne tap mob
- ile:\nUS (iOS): +12532158782\,\,95252800112#\,\,\,\,*001816# or +134624877
- 99\,\,95252800112#\,\,\,\,*001816#\nUS (Android): +12532158782\;9525280011
- 2#\;001816# or +13462487799\;95252800112#\;001816#\n\nOr dial:\nUS: +1 253
-  215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 3
- 12 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246
-  (Toll Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 207
- 1 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985
-  (Toll Free)\n\nMeeting ID: 95252800112\n\nMeeting Passcode: 001816\n\n\nI
- nternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260525T083148Z
-EXDATE;TZID=America/New_York:20260316T093000
-EXDATE;TZID=America/New_York:20260413T090000
-EXDATE;TZID=America/New_York:20260511T090000
-EXDATE;TZID=America/New_York:20260525T090000
-LAST-MODIFIED:20260525T083148Z
+ nFDC3-Sail is FINOS's open source implementation of the FDC3 interoperabil
+ ity standard\, a browser based desktop agent that lets financial apps talk
+  to each other through intent resolution\, channel linking and directory s
+ earch.\nThis quarter our focus is moving Sail to v3\, and that will run th
+ rough most of what we cover. Come along to raise issues\, help shape the r
+ oadmap and share ideas so we get the most out of the project. Everyone wit
+ h an interest in FDC3-Sail is welcome to join.\n\nWays to join meeting:\n\
+ n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.li
+ nuxfoundation.org/meeting/95252800112?password=90638454-991c-4ab0-8aed-791
+ fc372623c\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\
+ ,\,95252800112#\,\,\,\,*001816# or +13462487799\,\,95252800112#\,\,\,\,*00
+ 1816#\nUS (Android): +12532158782\;95252800112#\;001816# or +13462487799\;
+ 95252800112#\;001816#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 
+ or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 865
+ 6 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 
+ 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 43
+ 8 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 9
+ 5252800112\n\nMeeting Passcode: 001816\n\n\nInternational numbers: https:/
+ /zoom.us/u/alwnPIaVT\n
+DTSTAMP:20260720T093321Z
+LAST-MODIFIED:20260720T093321Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95252800112?
  password=90638454-991c-4ab0-8aed-791fc372623c
 ORGANIZER;CN=FDC3 Sail:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20280101T000000Z;BYDAY=MO
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=MO
+SEQUENCE:1
 SUMMARY:FDC3 Sail Project Meeting
 TZID:America/New_York
 TZNAME:America/New_York
