@@ -2307,7 +2307,7 @@ BEGIN:VEVENT
 UID:91759523655
 DTSTART;TZID=America/New_York:20251218T120000
 DTEND;TZID=America/New_York:20251218T130000
-CREATED:20260617T074635Z
+CREATED:20260721T171629Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
  ation\n\nMonthly FINOS DevOps Automation - Special Interest Group meeting.
  \n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\n
@@ -2322,15 +2322,15 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
   or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 
  (Toll Free)\n\nMeeting ID: 91759523655\n\nMeeting Passcode: 102599\n\n\nIn
  ternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260617T074635Z
+DTSTAMP:20260721T171629Z
 EXDATE;TZID=America/New_York:20251218T120000
 EXDATE;TZID=America/New_York:20260618T120000
-LAST-MODIFIED:20260617T074635Z
+LAST-MODIFIED:20260721T171629Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/91759523655?
  password=2582c57a-491c-43de-af16-9d608b535afd
 ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=+3TH
-SEQUENCE:1
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+3TH
+SEQUENCE:2
 SUMMARY:FINOS DevOps Automation - Special Interest Group
 TZID:America/New_York
 TZNAME:America/New_York
