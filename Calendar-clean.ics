@@ -1306,7 +1306,7 @@ BEGIN:VEVENT
 UID:94786708589
 DTSTART;TZID=America/New_York:20260226T120000
 DTEND;TZID=America/New_York:20260226T123000
-CREATED:20260608T150947Z
+CREATED:20260722T155547Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   Controls\n\nThe mission of the Compliant Financial Infrastructure WG is t
  o help deliver implementations of the CCC standards across different compu
@@ -1327,14 +1327,16 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
  328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 94786708589\n\nMeeting
   Passcode: 086087\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\
  n
-DTSTAMP:20260608T150947Z
+DTSTAMP:20260722T155547Z
 EXDATE;TZID=America/New_York:20260528T120000
 EXDATE;TZID=America/New_York:20260625T120000
-LAST-MODIFIED:20260608T150947Z
+EXDATE;TZID=America/New_York:20260723T120000
+LAST-MODIFIED:20260722T155547Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94786708589?
  password=292562aa-0bc9-4742-a150-1dd7a7586392
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=+4TH
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+4TH
+SEQUENCE:1
 SUMMARY:CCC Working Group: Compliant Financial Infrastructure (NA/LATAM)
 TZID:America/New_York
 TZNAME:America/New_York
