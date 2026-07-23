@@ -2225,7 +2225,7 @@ BEGIN:VEVENT
 UID:98061524600:2026-04-22T16:00:00Z
 DTSTART;TZID=America/New_York:20260422T120000
 DTEND;TZID=America/New_York:20260422T130000
-CREATED:20260715T130804Z
+CREATED:20260723T123049Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  intech Open Source Foundation)\n\nFINOS Technical Oversight Committee Publ
  ic Meeting\nMeeting Agenda Issues can be found on GitHub at https://github
@@ -2242,15 +2242,15 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  98061524600\n\nMeeting Passcode: 564940\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260715T130804Z
+DTSTAMP:20260723T123049Z
 EXDATE;TZID=America/New_York:20260715T120000
-LAST-MODIFIED:20260715T130804Z
+LAST-MODIFIED:20260723T123049Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98061524600?
  password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d
 ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
  .dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=WE
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:FINOS Technical Oversight Committee Meeting
 TZID:America/New_York
 TZNAME:America/New_York
