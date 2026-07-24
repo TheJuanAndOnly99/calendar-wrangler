@@ -3066,6 +3066,45 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
+UID:94001587941
+DTSTART;TZID=America/New_York:20260817T150000
+DTEND;TZID=America/New_York:20260817T180000
+CREATED:20260724T091105Z
+DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
+ ation\n\n\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or An
+ droid\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/94001587941
+ ?password=e85f4fbd-7703-4628-b2b0-e454dcf966c8\n\n2. Join via audio\n\nOne
+  tap mobile:\nUS (iOS): +12532158782\,\,94001587941#\,\,\,\,*193574# or +1
+ 3462487799\,\,94001587941#\,\,\,\,*193574#\nUS (Android): +12532158782\;94
+ 001587941#\;193574# or +13462487799\;94001587941#\;193574#\n\nOr dial:\nUS
+ : +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592
+  or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 
+ 880 1246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778
+  907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 
+ 703 8985 (Toll Free)\n\nMeeting ID: 94001587941\n\nMeeting Passcode: 19357
+ 4\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
+DTSTAMP:20260724T091105Z
+LAST-MODIFIED:20260724T091105Z
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94001587941?
+ password=e85f4fbd-7703-4628-b2b0-e454dcf966c8
+ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
+RRULE:FREQ=WEEKLY;INTERVAL=4;WKST=SU;BYDAY=MO
+SEQUENCE:0
+SUMMARY:SDLC Governance Framework Working Group Meeting - Long Workshop
+TZID:America/New_York
+TZNAME:America/New_York
+URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/940015
+ 87941?password=e85f4fbd-7703-4628-b2b0-e454dcf966c8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting reminder
+TRIGGER:-PT10M
+END:VALARM
+X-MEETING-ID:94001587941
+X-OCCURRENCE-ID:
+X-REGISTRANT-ID:
+END:VEVENT
+BEGIN:VEVENT
 UID:99354850498
 DTSTART;TZID=America/New_York:20260109T091500
 DTEND;TZID=America/New_York:20260109T100000
@@ -3349,6 +3388,45 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
+UID:96292319760
+DTSTART;TZID=America/New_York:20250915T100000
+DTEND;TZID=America/New_York:20250915T110000
+CREATED:20260724T090403Z
+DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
+ ation\n\n\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or An
+ droid\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760
+ ?password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e\n\n2. Join via audio\n\nOne
+  tap mobile:\nUS (iOS): +12532158782\,\,96292319760#\,\,\,\,*289472# or +1
+ 3462487799\,\,96292319760#\,\,\,\,*289472#\nUS (Android): +12532158782\;96
+ 292319760#\;289472# or +13462487799\;96292319760#\;289472#\n\nOr dial:\nUS
+ : +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592
+  or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 
+ 880 1246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778
+  907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 
+ 703 8985 (Toll Free)\n\nMeeting ID: 96292319760\n\nMeeting Passcode: 28947
+ 2\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
+DTSTAMP:20260724T090403Z
+LAST-MODIFIED:20260724T090403Z
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760?
+ password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e
+ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260720T150000Z;BYDAY=MO
+SEQUENCE:1
+SUMMARY:SDLC Governance Framework Working Group Meeting - Short
+TZID:America/New_York
+TZNAME:America/New_York
+URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/962923
+ 19760?password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting reminder
+TRIGGER:-PT10M
+END:VALARM
+X-MEETING-ID:96292319760
+X-OCCURRENCE-ID:
+X-REGISTRANT-ID:
+END:VEVENT
+BEGIN:VEVENT
 UID:96162223887
 DTSTART;TZID=America/New_York:20260410T090000
 DTEND;TZID=America/New_York:20260410T100000
@@ -3386,10 +3464,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:96292319760
-DTSTART;TZID=America/New_York:20250915T100000
-DTEND;TZID=America/New_York:20250915T110000
-CREATED:20260608T072528Z
+UID:96292319760:2026-08-03T14:00:00Z
+DTSTART;TZID=America/New_York:20260803T100000
+DTEND;TZID=America/New_York:20260803T110000
+CREATED:20260724T090403Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
  ation\n\n\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or An
  droid\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760
@@ -3403,14 +3481,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
   907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 
  703 8985 (Toll Free)\n\nMeeting ID: 96292319760\n\nMeeting Passcode: 28947
  2\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260608T072528Z
-LAST-MODIFIED:20260608T072528Z
+DTSTAMP:20260724T090403Z
+LAST-MODIFIED:20260724T090403Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760?
  password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e
 ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20280101T000000Z;BYDAY=MO
-SUMMARY:SDLC Governance Framework Working Group Meeting - Dev Ops Automatio
- n
+RRULE:FREQ=WEEKLY;INTERVAL=4;WKST=SU;BYDAY=MO
+SEQUENCE:1
+SUMMARY:SDLC Governance Framework Working Group Meeting - Short
 TZID:America/New_York
 TZNAME:America/New_York
 URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/962923
