@@ -2269,7 +2269,7 @@ BEGIN:VEVENT
 UID:92954837989
 DTSTART;TZID=America/New_York:20260731T110000
 DTEND;TZID=America/New_York:20260731T120000
-CREATED:20260701T161048Z
+CREATED:20260728T131713Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Zenith\n\n\n
  \nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nht
  tps://zoom-lfx.platform.linuxfoundation.org/meeting/92954837989?password=1
@@ -2283,14 +2283,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Zenith\n\n\n
  r +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (T
  oll Free)\n\nMeeting ID: 92954837989\n\nMeeting Passcode: 124930\n\n\nInte
  rnational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260701T161048Z
-LAST-MODIFIED:20260701T161048Z
+DTSTAMP:20260728T131713Z
+LAST-MODIFIED:20260728T131713Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/92954837989?
  password=1c6fbd94-f68a-4236-b1e5-06da91399535
 ORGANIZER;CN=Zenith:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20260731T160000Z;BYSETPOS=-1;BY
- MONTHDAY=28,29,30,31
-SEQUENCE:1
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=-1FR
+SEQUENCE:2
 SUMMARY:XR in Finance
 TZID:America/New_York
 TZNAME:America/New_York
@@ -2344,45 +2343,6 @@ DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
 X-MEETING-ID:91759523655
-X-OCCURRENCE-ID:
-X-REGISTRANT-ID:
-END:VEVENT
-BEGIN:VEVENT
-UID:92954837989:2026-08-28T15:00:00Z
-DTSTART;TZID=America/New_York:20260828T110000
-DTEND;TZID=America/New_York:20260828T120000
-CREATED:20260701T161048Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for Zenith\n\n\n
- \nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nht
- tps://zoom-lfx.platform.linuxfoundation.org/meeting/92954837989?password=1
- c6fbd94-f68a-4236-b1e5-06da91399535\n\n2. Join via audio\n\nOne tap mobile
- :\nUS (iOS): +12532158782\,\,92954837989#\,\,\,\,*124930# or +13462487799\
- ,\,92954837989#\,\,\,\,*124930#\nUS (Android): +12532158782\;92954837989#\
- ;124930# or +13462487799\;92954837989#\;124930#\n\nOr dial:\nUS: +1 253 21
- 5 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 
- 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (T
- oll Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 o
- r +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (T
- oll Free)\n\nMeeting ID: 92954837989\n\nMeeting Passcode: 124930\n\n\nInte
- rnational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260701T161048Z
-LAST-MODIFIED:20260701T161048Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/92954837989?
- password=1c6fbd94-f68a-4236-b1e5-06da91399535
-ORGANIZER;CN=Zenith:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+4FR
-SEQUENCE:1
-SUMMARY:XR in Finance
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/929548
- 37989?password=1c6fbd94-f68a-4236-b1e5-06da91399535
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-X-MEETING-ID:92954837989
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
@@ -3547,7 +3507,7 @@ BEGIN:VEVENT
 UID:94159751957
 DTSTART;TZID=America/New_York:20260325T113000
 DTEND;TZID=America/New_York:20260325T123000
-CREATED:20260701T143456Z
+CREATED:20260728T125022Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -3562,14 +3522,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  94159751957\n\nMeeting Passcode: 208074\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260701T143456Z
+DTSTAMP:20260728T125022Z
 EXDATE;TZID=America/New_York:20260701T113000
-LAST-MODIFIED:20260701T143456Z
+LAST-MODIFIED:20260728T125022Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94159751957?
  password=8a54da8a-9f42-4448-a8a9-246e545279cb
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=WE
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:CDM Derivatives Working Group
 TZID:America/New_York
 TZNAME:America/New_York
