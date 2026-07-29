@@ -2534,7 +2534,7 @@ BEGIN:VEVENT
 UID:91459369501
 DTSTART;TZID=Europe/London:20250618T103000
 DTEND;TZID=Europe/London:20250618T110000
-CREATED:20260610T093831Z
+CREATED:20260729T104000Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Spring Bot\n
  \nWeekly Spring Bot project meeting\n\nWays to join meeting:\n\n1. Join fr
  om PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundati
@@ -2549,7 +2549,7 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Spring Bot\n
  or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 91459369501\
  n\nMeeting Passcode: 917791\n\n\nInternational numbers: https://zoom.us/u/
  alwnPIaVT\n
-DTSTAMP:20260610T093831Z
+DTSTAMP:20260729T104000Z
 EXDATE;TZID=Europe/London:20250827T103000
 EXDATE;TZID=Europe/London:20250924T103000
 EXDATE;TZID=Europe/London:20251112T103000
@@ -2563,11 +2563,15 @@ EXDATE;TZID=Europe/London:20260311T103000
 EXDATE;TZID=Europe/London:20260415T103000
 EXDATE;TZID=Europe/London:20260624T103000
 EXDATE;TZID=Europe/London:20260617T103000
-LAST-MODIFIED:20260610T093831Z
+EXDATE;TZID=Europe/London:20260805T103000
+EXDATE;TZID=Europe/London:20260812T103000
+EXDATE;TZID=Europe/London:20260819T103000
+LAST-MODIFIED:20260729T104000Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/91459369501?
  password=8e2f4c59-ed09-442a-8707-b2edc8d74a81
 ORGANIZER;CN=Spring Bot:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=WE
+RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;BYDAY=WE
+SEQUENCE:3
 SUMMARY:Spring Bot Project Meeting
 TZID:Europe/London
 TZNAME:Europe/London
