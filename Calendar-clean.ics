@@ -2399,7 +2399,7 @@ BEGIN:VEVENT
 UID:96950469863
 DTSTART;TZID=America/New_York:20251013T080000
 DTEND;TZID=America/New_York:20251013T090000
-CREATED:20250912T120033Z
+CREATED:20260729T173726Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Waltz\n\nWal
  tz monthly meeting\nGitHub: https://github.com/finos/waltz\n\nWays to join
   meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx
@@ -2414,17 +2414,23 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Waltz\n\nWal
  920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nM
  eeting ID: 96950469863\n\nMeeting Passcode: 180370\n\n\nInternational numb
  ers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20250912T120033Z
-LAST-MODIFIED:20250912T120033Z
+DTSTAMP:20260729T173726Z
+LAST-MODIFIED:20260729T173726Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96950469863?
  password=a4229b81-221e-4262-8d22-f7ba73ca007f
 ORGANIZER;CN=Waltz:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=+2MO
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+2MO
+SEQUENCE:1
 SUMMARY:Waltz Project Meeting
 TZID:America/New_York
 TZNAME:America/New_York
 URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/969504
  69863?password=a4229b81-221e-4262-8d22-f7ba73ca007f
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting reminder
+TRIGGER:-PT10M
+END:VALARM
 X-MEETING-ID:96950469863
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
