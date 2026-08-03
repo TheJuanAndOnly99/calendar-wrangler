@@ -3201,7 +3201,7 @@ BEGIN:VEVENT
 UID:99090239193
 DTSTART;TZID=America/New_York:20260106T110000
 DTEND;TZID=America/New_York:20260106T120000
-CREATED:20260706T143652Z
+CREATED:20260803T150531Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for AI Readiness
  \n\nAI Readiness SIG bi-weekly meeting\n\nWays to join meeting:\n\n1. Join
   from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfound
@@ -3216,17 +3216,18 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for AI Readiness
  99 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 990902391
  93\n\nMeeting Passcode: 092267\n\n\nInternational numbers: https://zoom.us
  /u/alwnPIaVT\n
-DTSTAMP:20260706T143652Z
+DTSTAMP:20260803T150531Z
 EXDATE;TZID=America/New_York:20260217T110000
 EXDATE;TZID=America/New_York:20260526T110000
 EXDATE;TZID=America/New_York:20260623T110000
 EXDATE;TZID=America/New_York:20260707T110000
-LAST-MODIFIED:20260706T143652Z
+EXDATE;TZID=America/New_York:20260804T110000
+LAST-MODIFIED:20260803T150531Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99090239193?
  password=f3797488-6467-44c9-8976-9b50e42cbdff
 ORGANIZER;CN=AI Readiness:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=TU
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:AI Readiness SIG
 TZID:America/New_York
 TZNAME:America/New_York
