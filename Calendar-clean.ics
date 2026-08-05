@@ -1300,7 +1300,7 @@ BEGIN:VEVENT
 UID:92172584188
 DTSTART;TZID=America/New_York:20260520T100000
 DTEND;TZID=America/New_York:20260520T110000
-CREATED:20260713T134426Z
+CREATED:20260805T130352Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -1315,16 +1315,17 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  92172584188\n\nMeeting Passcode: 886399\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260713T134426Z
+DTSTAMP:20260805T130352Z
 EXDATE;TZID=America/New_York:20260520T100000
 EXDATE;TZID=America/New_York:20260617T100000
 EXDATE;TZID=America/New_York:20260715T100000
-LAST-MODIFIED:20260713T134426Z
+EXDATE;TZID=America/New_York:20260819T100000
+LAST-MODIFIED:20260805T130352Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/92172584188?
  password=cf35c343-0e3e-49e3-9dae-117c6f6accb8
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
 RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+3WE
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:CDM Tokenized Assets Working Group
 TZID:America/New_York
 TZNAME:America/New_York
