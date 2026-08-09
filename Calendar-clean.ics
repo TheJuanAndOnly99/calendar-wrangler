@@ -3080,9 +3080,9 @@ X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
 UID:94001587941
-DTSTART;TZID=America/New_York:20260817T150000
-DTEND;TZID=America/New_York:20260817T180000
-CREATED:20260724T091105Z
+DTSTART;TZID=Europe/London:20260817T150000
+DTEND;TZID=Europe/London:20260817T180000
+CREATED:20260809T081429Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
  ation\n\n\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or An
  droid\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/94001587941
@@ -3096,16 +3096,16 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
   907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 
  703 8985 (Toll Free)\n\nMeeting ID: 94001587941\n\nMeeting Passcode: 19357
  4\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260724T091105Z
-LAST-MODIFIED:20260724T091105Z
+DTSTAMP:20260809T081429Z
+LAST-MODIFIED:20260809T081429Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94001587941?
  password=e85f4fbd-7703-4628-b2b0-e454dcf966c8
 ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=4;WKST=SU;BYDAY=MO
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:SDLC Governance Framework Working Group Meeting - Long Workshop
-TZID:America/New_York
-TZNAME:America/New_York
+TZID:Europe/London
+TZNAME:Europe/London
 URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/940015
  87941?password=e85f4fbd-7703-4628-b2b0-e454dcf966c8
 BEGIN:VALARM
