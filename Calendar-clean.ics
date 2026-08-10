@@ -1803,49 +1803,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:97158459687
-DTSTART;TZID=America/New_York:20251217T100000
-DTEND;TZID=America/New_York:20251217T110000
-CREATED:20260408T143802Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for AI Governanc
- e Framework\n\nAI Governance Framework Working Session\n\nWays to join mee
- ting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.pla
- tform.linuxfoundation.org/meeting/97158459687?password=62a83d0b-7b19-416d-
- 8250-e5bcf9f7640b\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +1253
- 2158782\,\,97158459687#\,\,\,\,*219072# or +13462487799\,\,97158459687#\,\
- ,\,\,*219072#\nUS (Android): +12532158782\;97158459687#\;219072# or +13462
- 487799\;97158459687#\;219072#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 2
- 48 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646
-  374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada:
-  +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 
- or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeti
- ng ID: 97158459687\n\nMeeting Passcode: 219072\n\n\nInternational numbers:
-  https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260408T143802Z
-LAST-MODIFIED:20260408T143802Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/97158459687?
- password=62a83d0b-7b19-416d-8250-e5bcf9f7640b
-ORGANIZER;CN=AI Governance Framework:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260114T160000Z;BYDAY=WE
-SUMMARY:AI Governance Framework Working Session
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/971584
- 59687?password=62a83d0b-7b19-416d-8250-e5bcf9f7640b
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-X-MEETING-ID:97158459687
-X-OCCURRENCE-ID:
-X-REGISTRANT-ID:
-END:VEVENT
-BEGIN:VEVENT
 UID:97158459687:2026-01-28T15:00:00Z
 DTSTART;TZID=America/New_York:20260128T100000
 DTEND;TZID=America/New_York:20260128T110000
-CREATED:20260408T143802Z
+CREATED:20260810T214416Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for AI Governanc
  e Framework\n\nAI Governance Framework Working Session\n\nWays to join mee
  ting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.pla
@@ -1860,12 +1821,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for AI Governanc
  or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeti
  ng ID: 97158459687\n\nMeeting Passcode: 219072\n\n\nInternational numbers:
   https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260408T143802Z
-LAST-MODIFIED:20260408T143802Z
+DTSTAMP:20260810T214416Z
+EXDATE;TZID=America/New_York:20260812T100000
+LAST-MODIFIED:20260810T214416Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/97158459687?
  password=62a83d0b-7b19-416d-8250-e5bcf9f7640b
 ORGANIZER;CN=AI Governance Framework:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20280101T000000Z;BYDAY=WE
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=WE
+SEQUENCE:1
 SUMMARY:AI Governance Framework Working Session
 TZID:America/New_York
 TZNAME:America/New_York
