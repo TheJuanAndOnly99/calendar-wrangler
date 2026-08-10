@@ -1099,7 +1099,7 @@ BEGIN:VEVENT
 UID:94448504669
 DTSTART;TZID=Europe/London:20250924T083000
 DTEND;TZID=Europe/London:20250924T110000
-CREATED:20260731T122800Z
+CREATED:20260810T134106Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  d Engineer Community\n\nDistinguished Engineer Community Quarterly SIG Mee
  ting\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android
@@ -1114,13 +1114,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8
  985 (Toll Free)\n\nMeeting ID: 94448504669\n\nMeeting Passcode: 576341\n\n
  \nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260731T122800Z
-LAST-MODIFIED:20260731T122800Z
+DTSTAMP:20260810T134106Z
+LAST-MODIFIED:20260810T134106Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?
  password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0
 ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
 RRULE:FREQ=MONTHLY;INTERVAL=3;WKST=SU;BYDAY=+4WE
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Distinguished Engineer Community Quarterly SIG Meeting
 TZID:Europe/London
 TZNAME:Europe/London
@@ -1138,9 +1138,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:94448504669
 RECURRENCE-ID;TZID=Europe/London:20260923T083000
-DTSTART;TZID=Europe/London:20260916T150000
-DTEND;TZID=Europe/London:20260916T170000
-CREATED:20260731T122800Z
+DTSTART;TZID=Europe/London:20260930T150000
+DTEND;TZID=Europe/London:20260930T170000
+CREATED:20260810T134106Z
 DESCRIPTION:\nYou have been invited to a meeting for Distinguished Engineer
   Community\n\nDistinguished Engineer Community Quarterly SIG Meeting\n\nWa
  ys to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps:
@@ -1155,12 +1155,12 @@ DESCRIPTION:\nYou have been invited to a meeting for Distinguished Engineer
   204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll 
  Free)\n\nMeeting ID: 94448504669\n\nMeeting Passcode: 576341\n\n\nInternat
  ional numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260731T122800Z
-LAST-MODIFIED:20260731T122800Z
+DTSTAMP:20260810T134106Z
+LAST-MODIFIED:20260810T134106Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?
  password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0
 ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Distinguished Engineer Community Quarterly SIG Meeting
 TZID:Europe/London
 TZNAME:Europe/London
@@ -2436,6 +2436,46 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
+UID:96292398629
+DTSTART;TZID=Europe/London:20260916T150000
+DTEND;TZID=Europe/London:20260916T163000
+CREATED:20260810T134501Z
+DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
+ d Engineer Community\n\nMonthly meeting of the Distinguished Engineer Comm
+ unity Monthly SIG\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad
+ \, or Android\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/962
+ 92398629?password=ebd5ebad-0f4f-490d-aceb-659d47455ae3\n\n2. Join via audi
+ o\n\nOne tap mobile:\nUS (iOS): +12532158782\,\,96292398629#\,\,\,\,*46130
+ 4# or +13462487799\,\,96292398629#\,\,\,\,*461304#\nUS (Android): +1253215
+ 8782\;96292398629#\;461304# or +13462487799\;96292398629#\;461304#\n\nOr d
+ ial:\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 
+ 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free)
+  or 855 880 1246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 o
+ r +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099
+  or 855 703 8985 (Toll Free)\n\nMeeting ID: 96292398629\n\nMeeting Passcod
+ e: 461304\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
+DTSTAMP:20260810T134501Z
+LAST-MODIFIED:20260810T134501Z
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96292398629?
+ password=ebd5ebad-0f4f-490d-aceb-659d47455ae3
+ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+3WE
+SEQUENCE:0
+SUMMARY:Distinguished Engineer Community Monthly SIG Meeting
+TZID:Europe/London
+TZNAME:Europe/London
+URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/962923
+ 98629?password=ebd5ebad-0f4f-490d-aceb-659d47455ae3
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting reminder
+TRIGGER:-PT10M
+END:VALARM
+X-MEETING-ID:96292398629
+X-OCCURRENCE-ID:
+X-REGISTRANT-ID:
+END:VEVENT
+BEGIN:VEVENT
 UID:96950469863
 DTSTART;TZID=America/New_York:20251013T080000
 DTEND;TZID=America/New_York:20251013T090000
@@ -3289,7 +3329,7 @@ BEGIN:VEVENT
 UID:98802575145
 DTSTART;TZID=Europe/London:20260629T140000
 DTEND;TZID=Europe/London:20260629T144500
-CREATED:20260713T123908Z
+CREATED:20260810T134033Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  d Engineer Community\n\nAddressing diversity at the top of the engineering
   career ladder through mentoring\, allyship\, and inclusive practices — 
@@ -3306,14 +3346,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  8 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1
  099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 98802575145\n\nMeeting Pass
  code: 439455\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260713T123908Z
+DTSTAMP:20260810T134033Z
 EXDATE;TZID=Europe/London:20260713T140000
-LAST-MODIFIED:20260713T123908Z
+LAST-MODIFIED:20260810T134033Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98802575145?
  password=a123e00b-a189-41a1-9aa6-95a4dd7695f7
 ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=MO
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:Inclusive Engineering Working group
 TZID:Europe/London
 TZNAME:Europe/London
