@@ -1472,10 +1472,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:98246819637:2026-06-30T18:00:00Z
-DTSTART;TZID=America/New_York:20260630T140000
-DTEND;TZID=America/New_York:20260630T150000
-CREATED:20260623T181103Z
+UID:98246819637
+DTSTART;TZID=America/New_York:20260616T140000
+DTEND;TZID=America/New_York:20260616T150000
+CREATED:20260811T140038Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for ACTivated In
  telligence\n\nACTivated Intelligence project meeting.\n\nWays to join meet
  ing:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.plat
@@ -1490,14 +1490,15 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for ACTivated In
  r +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeetin
  g ID: 98246819637\n\nMeeting Passcode: 108999\n\n\nInternational numbers: 
  https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260623T181103Z
+DTSTAMP:20260811T140038Z
 EXDATE;TZID=America/New_York:20260623T140000
-LAST-MODIFIED:20260623T181103Z
+EXDATE;TZID=America/New_York:20260811T140000
+LAST-MODIFIED:20260811T140038Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98246819637?
  password=7cf6933e-b260-479c-9dde-24a19a9c3363
 ORGANIZER;CN=ACTivated Intelligence:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20280101T000000Z;BYDAY=TU
-SEQUENCE:2
+RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;UNTIL=20260623T190000Z;BYDAY=TU
+SEQUENCE:3
 SUMMARY:ACTivated Intelligence Project
 TZID:America/New_York
 TZNAME:America/New_York
@@ -1639,10 +1640,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:98246819637
-DTSTART;TZID=America/New_York:20260616T140000
-DTEND;TZID=America/New_York:20260616T150000
-CREATED:20260623T181103Z
+UID:98246819637:2026-06-30T18:00:00Z
+DTSTART;TZID=America/New_York:20260630T140000
+DTEND;TZID=America/New_York:20260630T150000
+CREATED:20260811T140038Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for ACTivated In
  telligence\n\nACTivated Intelligence project meeting.\n\nWays to join meet
  ing:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.plat
@@ -1657,14 +1658,15 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for ACTivated In
  r +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeetin
  g ID: 98246819637\n\nMeeting Passcode: 108999\n\n\nInternational numbers: 
  https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260623T181103Z
+DTSTAMP:20260811T140038Z
 EXDATE;TZID=America/New_York:20260623T140000
-LAST-MODIFIED:20260623T181103Z
+EXDATE;TZID=America/New_York:20260811T140000
+LAST-MODIFIED:20260811T140038Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98246819637?
  password=7cf6933e-b260-479c-9dde-24a19a9c3363
 ORGANIZER;CN=ACTivated Intelligence:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;UNTIL=20260623T190000Z;BYDAY=TU
-SEQUENCE:2
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=TU
+SEQUENCE:3
 SUMMARY:ACTivated Intelligence Project
 TZID:America/New_York
 TZNAME:America/New_York
