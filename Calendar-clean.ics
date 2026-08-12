@@ -663,7 +663,7 @@ BEGIN:VEVENT
 UID:94905862800
 DTSTART;TZID=America/New_York:20250915T090000
 DTEND;TZID=America/New_York:20250915T100000
-CREATED:20260608T174814Z
+CREATED:20260811T230436Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  intech Open Source Foundation)\n\nAI DTCC Hackathon Winner CyberThirdEye T
  eam weekly call.\nGitHub: https://github.com/finos-labs/dtcch-2025-cypher-
@@ -679,15 +679,16 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
   907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 
  703 8985 (Toll Free)\n\nMeeting ID: 94905862800\n\nMeeting Passcode: 31432
  8\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260608T174814Z
+DTSTAMP:20260811T230436Z
 EXDATE;TZID=America/New_York:20251229T090000
 EXDATE;TZID=America/New_York:20260622T090000
-LAST-MODIFIED:20260608T174814Z
+LAST-MODIFIED:20260811T230436Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94905862800?
  password=5902a3ee-fc40-4347-876b-89a3973278bc
 ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
  .dev
-RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=MO
+RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;BYDAY=MO
+SEQUENCE:0
 SUMMARY:Labs - CyberThirdEye
 TZID:America/New_York
 TZNAME:America/New_York
@@ -1020,39 +1021,6 @@ DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
 X-MEETING-ID:95756611623
-X-OCCURRENCE-ID:
-X-REGISTRANT-ID:
-END:VEVENT
-BEGIN:VEVENT
-UID:98238045831
-DTSTART;TZID=America/Los_Angeles:20250423T074000
-DTEND;TZID=America/Los_Angeles:20250423T084000
-CREATED:20250423T143400Z
-DESCRIPTION:\nYou have been invited to a meeting for FINOS (The Fintech Ope
- n Source Foundation)\n\n\n\nWays to join meeting:\n\n1. Join from PC\, Mac
- \, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meet
- ing/98238045831?password=7003f01e-4b45-427f-ad3c-a1f331d5cfe6\n\n2. Join v
- ia audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,\,98238045831#\,\,\,\
- ,*368425# or +13462487799\,\,98238045831#\,\,\,\,*368425#\nUS (Android): +
- 12532158782\;98238045831#\;368425# or +13462487799\;98238045831#\;368425#\
- n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or 
- +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Tol
- l Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647 558
-  0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 3
- 28 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 98238045831\n\nMeeting 
- Passcode: 368425\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20250423T143400Z
-LAST-MODIFIED:20250423T143400Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98238045831?
- password=7003f01e-4b45-427f-ad3c-a1f331d5cfe6
-ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
- .dev
-SUMMARY:Test
-TZID:America/Los_Angeles
-TZNAME:America/Los_Angeles
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/982380
- 45831?password=7003f01e-4b45-427f-ad3c-a1f331d5cfe6
-X-MEETING-ID:98238045831
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
@@ -2233,7 +2201,7 @@ BEGIN:VEVENT
 UID:98061524600:2026-04-22T16:00:00Z
 DTSTART;TZID=America/New_York:20260422T120000
 DTEND;TZID=America/New_York:20260422T130000
-CREATED:20260806T193839Z
+CREATED:20260811T230435Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  intech Open Source Foundation)\n\nFINOS Technical Oversight Committee Publ
  ic Meeting\nMeeting Agenda Issues can be found on GitHub at https://github
@@ -2250,9 +2218,9 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  98061524600\n\nMeeting Passcode: 564940\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260806T193839Z
+DTSTAMP:20260811T230435Z
 EXDATE;TZID=America/New_York:20260715T120000
-LAST-MODIFIED:20260806T193839Z
+LAST-MODIFIED:20260811T230435Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98061524600?
  password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d
 ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
@@ -2715,7 +2683,7 @@ BEGIN:VEVENT
 UID:97499954668
 DTSTART;TZID=America/New_York:20250916T203000
 DTEND;TZID=America/New_York:20250916T213000
-CREATED:20260202T154041Z
+CREATED:20260811T230436Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  intech Open Source Foundation)\n\nA weekly working session for the Open Fi
  nancial LLM Leaderboard initiative. We discuss:\n- Progress updates on the
@@ -2733,13 +2701,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
   778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 
  855 703 8985 (Toll Free)\n\nMeeting ID: 97499954668\n\nMeeting Passcode: 9
  63765\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260202T154041Z
-LAST-MODIFIED:20260202T154041Z
+DTSTAMP:20260811T230436Z
+LAST-MODIFIED:20260811T230436Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/97499954668?
  password=dbeea8fb-9611-4d7b-a0f4-366b36207a2b
 ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
  .dev
-RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=TU
+RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;BYDAY=TU
+SEQUENCE:0
 SUMMARY:Open Financial LLM Leaderboard (OFLL) Working Session
 TZID:America/New_York
 TZNAME:America/New_York
@@ -3250,48 +3219,6 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:93365601230:2026-01-29T18:00:00Z
-DTSTART;TZID=America/New_York:20260129T130000
-DTEND;TZID=America/New_York:20260129T140000
-CREATED:20260212T194822Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
- intech Open Source Foundation)\n\nFINOS LLM Exploration Weekly Call\nLLM E
- xploration Initiative GitHub Repo (FINOS Labs):\nhttps://github.com/finos-
- labs/llm-exploration-project\n\nWays to join meeting:\n\n1. Join from PC\,
-  Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundation.org/
- meeting/93365601230?password=4ab2a8b6-6da5-400f-b56d-1b8f1f197b47\n\n2. Jo
- in via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,\,93365601230#\,\
- ,\,\,*160483# or +13462487799\,\,93365601230#\,\,\,\,*160483#\nUS (Android
- ): +12532158782\;93365601230#\;160483# or +13462487799\;93365601230#\;1604
- 83#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833
-  or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 
- (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647
-  558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 5
- 87 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 93365601230\n\nMeet
- ing Passcode: 160483\n\n\nInternational numbers: https://zoom.us/u/alwnPIa
- VT\n
-DTSTAMP:20260212T194822Z
-LAST-MODIFIED:20260212T194822Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/93365601230?
- password=4ab2a8b6-6da5-400f-b56d-1b8f1f197b47
-ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
- .dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260212T190000Z;BYDAY=TH
-SUMMARY:Applied GenAI bi-weekly call
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/933656
- 01230?password=4ab2a8b6-6da5-400f-b56d-1b8f1f197b47
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-X-MEETING-ID:93365601230
-X-OCCURRENCE-ID:
-X-REGISTRANT-ID:
-END:VEVENT
-BEGIN:VEVENT
 UID:98802575145:2026-08-10T13:00:00Z
 DTSTART;TZID=Europe/London:20260810T140000
 DTEND;TZID=Europe/London:20260810T144500
@@ -3381,7 +3308,7 @@ BEGIN:VEVENT
 UID:93365601230:2026-02-26T18:00:00Z
 DTSTART;TZID=America/New_York:20260226T130000
 DTEND;TZID=America/New_York:20260226T140000
-CREATED:20260212T194822Z
+CREATED:20260811T230436Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  intech Open Source Foundation)\n\nFINOS Applied GenAI bi-weekly call\nGitH
  ub Repo (FINOS Labs):\nhttps://github.com/finos-labs/llm-exploration-proje
@@ -3397,13 +3324,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  71 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 898
  5 (Toll Free)\n\nMeeting ID: 93365601230\n\nMeeting Passcode: 160483\n\n\n
  International numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260212T194822Z
-LAST-MODIFIED:20260212T194822Z
+DTSTAMP:20260811T230436Z
+LAST-MODIFIED:20260811T230436Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/93365601230?
  password=4ab2a8b6-6da5-400f-b56d-1b8f1f197b47
 ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
  .dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20280101T000000Z;BYDAY=TH
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=TH
+SEQUENCE:0
 SUMMARY:Applied GenAI bi-weekly call
 TZID:America/New_York
 TZNAME:America/New_York
