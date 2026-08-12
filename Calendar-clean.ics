@@ -1934,7 +1934,7 @@ BEGIN:VEVENT
 UID:92600977319
 DTSTART;TZID=America/New_York:20260212T100000
 DTEND;TZID=America/New_York:20260212T110000
-CREATED:20260209T190010Z
+CREATED:20260812T151352Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3\n\nThis
   meeting is for the new FDC3 Identity & Threat Modelling Workstream. \nhtt
  ps://github.com/finos/FDC3\n\nWays to join meeting:\n\n1. Join from PC\, M
@@ -1950,12 +1950,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3\n\nThis
   328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 92600977319\n\nMeetin
  g Passcode: 908625\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT
  \n
-DTSTAMP:20260209T190010Z
-LAST-MODIFIED:20260209T190010Z
+DTSTAMP:20260812T151352Z
+EXDATE;TZID=America/New_York:20260813T100000
+LAST-MODIFIED:20260812T151352Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/92600977319?
  password=17e9e8f8-7d4e-47b4-b8f0-8c68b02005de
 ORGANIZER;CN=FDC3:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=+2TH
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+2TH
+SEQUENCE:1
 SUMMARY:FDC3 Identity & Security Working Group
 TZID:America/New_York
 TZNAME:America/New_York
