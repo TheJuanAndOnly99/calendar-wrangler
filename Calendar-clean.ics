@@ -1696,7 +1696,7 @@ BEGIN:VEVENT
 UID:94584131804
 DTSTART;TZID=America/New_York:20260407T100000
 DTEND;TZID=America/New_York:20260407T110000
-CREATED:20260729T130618Z
+CREATED:20260813T141857Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGithu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -1711,13 +1711,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGithu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  94584131804\n\nMeeting Passcode: 021040\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260729T130618Z
-LAST-MODIFIED:20260729T130618Z
+DTSTAMP:20260813T141857Z
+LAST-MODIFIED:20260813T141857Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94584131804?
  password=b7edff0a-9cc6-426f-b0d9-28eb4fb0de71
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260721T150000Z;BYDAY=TU
-SEQUENCE:4
+SEQUENCE:5
 SUMMARY:CDM Contribution Review Working Group
 TZID:America/New_York
 TZNAME:America/New_York
@@ -1736,7 +1736,7 @@ BEGIN:VEVENT
 UID:94584131804:2026-08-04T14:00:00Z
 DTSTART;TZID=America/New_York:20260804T100000
 DTEND;TZID=America/New_York:20260804T110000
-CREATED:20260729T130618Z
+CREATED:20260813T141857Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGithu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -1751,13 +1751,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGithu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  94584131804\n\nMeeting Passcode: 021040\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260729T130618Z
-LAST-MODIFIED:20260729T130618Z
+DTSTAMP:20260813T141857Z
+LAST-MODIFIED:20260813T141857Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94584131804?
  password=b7edff0a-9cc6-426f-b0d9-28eb4fb0de71
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=TU
-SEQUENCE:4
+SEQUENCE:5
 SUMMARY:CDM Contribution Review Working Group
 TZID:America/New_York
 TZNAME:America/New_York
