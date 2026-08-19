@@ -832,7 +832,7 @@ BEGIN:VEVENT
 UID:95756611623
 DTSTART;TZID=America/New_York:20260305T120000
 DTEND;TZID=America/New_York:20260305T130000
-CREATED:20260710T100137Z
+CREATED:20260819T083234Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   Controls\n\nGitHub: https://github.com/finos/common-cloud-controls\n\nWay
  s to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps:/
@@ -847,13 +847,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
  204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll F
  ree)\n\nMeeting ID: 95756611623\n\nMeeting Passcode: 052748\n\n\nInternati
  onal numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260710T100137Z
-LAST-MODIFIED:20260710T100137Z
+DTSTAMP:20260819T083234Z
+EXDATE;TZID=America/New_York:20260820T110000
+LAST-MODIFIED:20260819T083234Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95756611623?
  password=64d02ae0-6cec-428f-87a0-cb8be5f39945
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260709T170000Z;BYDAY=TH
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:CCC - Working Group: Communications / All Hands
 TZID:America/New_York
 TZNAME:America/New_York
@@ -950,7 +951,7 @@ BEGIN:VEVENT
 UID:95756611623:2026-07-23T15:00:00Z
 DTSTART;TZID=America/New_York:20260723T110000
 DTEND;TZID=America/New_York:20260723T120000
-CREATED:20260710T100137Z
+CREATED:20260819T083234Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   Controls\n\nGitHub: https://github.com/finos/common-cloud-controls\n\nWay
  s to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps:/
@@ -965,13 +966,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
  204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll F
  ree)\n\nMeeting ID: 95756611623\n\nMeeting Passcode: 052748\n\n\nInternati
  onal numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260710T100137Z
-LAST-MODIFIED:20260710T100137Z
+DTSTAMP:20260819T083234Z
+EXDATE;TZID=America/New_York:20260820T110000
+LAST-MODIFIED:20260819T083234Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95756611623?
  password=64d02ae0-6cec-428f-87a0-cb8be5f39945
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=TH
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:CCC - Working Group: Communications / All Hands
 TZID:America/New_York
 TZNAME:America/New_York
