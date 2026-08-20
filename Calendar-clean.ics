@@ -1105,49 +1105,6 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:92023325319
-DTSTART;TZID=America/New_York:20251127T100000
-DTEND;TZID=America/New_York:20251127T110000
-CREATED:20260702T131004Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for AI Governanc
- e Framework\n\nThe purpose of this working session is to advance the AI Re
- ference Architecture Library\n\nWays to join meeting:\n\n1. Join from PC\,
-  Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundation.org/
- meeting/92023325319?password=b4d6a196-131b-48c4-a70d-00b906c73b66\n\n2. Jo
- in via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,\,92023325319#\,\
- ,\,\,*528998# or +13462487799\,\,92023325319#\,\,\,\,*528998#\nUS (Android
- ): +12532158782\;92023325319#\;528998# or +13462487799\;92023325319#\;5289
- 98#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833
-  or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 
- (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647
-  558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 5
- 87 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 92023325319\n\nMeet
- ing Passcode: 528998\n\n\nInternational numbers: https://zoom.us/u/alwnPIa
- VT\n
-DTSTAMP:20260702T131004Z
-EXDATE;TZID=America/New_York:20260625T100000
-EXDATE;TZID=America/New_York:20260702T100000
-LAST-MODIFIED:20260702T131004Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/92023325319?
- password=b4d6a196-131b-48c4-a70d-00b906c73b66
-ORGANIZER;CN=AI Governance Framework:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;UNTIL=20260528T150000Z;BYDAY=TH
-SEQUENCE:1
-SUMMARY:AI Reference Architecture Library weekly working session
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/920233
- 25319?password=b4d6a196-131b-48c4-a70d-00b906c73b66
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-X-MEETING-ID:92023325319
-X-OCCURRENCE-ID:
-X-REGISTRANT-ID:
-END:VEVENT
-BEGIN:VEVENT
 UID:99138676105:2026-01-21T16:00:00Z
 DTSTART;TZID=America/Los_Angeles:20260121T080000
 DTEND;TZID=America/Los_Angeles:20260121T090000
@@ -1318,49 +1275,6 @@ DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
 X-MEETING-ID:94786708589
-X-OCCURRENCE-ID:
-X-REGISTRANT-ID:
-END:VEVENT
-BEGIN:VEVENT
-UID:92023325319:2026-06-04T14:00:00Z
-DTSTART;TZID=America/New_York:20260604T100000
-DTEND;TZID=America/New_York:20260604T110000
-CREATED:20260702T131004Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for AI Governanc
- e Framework\n\nThe purpose of this working session is to advance the AI Re
- ference Architecture Library\n\nWays to join meeting:\n\n1. Join from PC\,
-  Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundation.org/
- meeting/92023325319?password=b4d6a196-131b-48c4-a70d-00b906c73b66\n\n2. Jo
- in via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,\,92023325319#\,\
- ,\,\,*528998# or +13462487799\,\,92023325319#\,\,\,\,*528998#\nUS (Android
- ): +12532158782\;92023325319#\;528998# or +13462487799\;92023325319#\;5289
- 98#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833
-  or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 
- (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647
-  558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 5
- 87 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 92023325319\n\nMeet
- ing Passcode: 528998\n\n\nInternational numbers: https://zoom.us/u/alwnPIa
- VT\n
-DTSTAMP:20260702T131004Z
-EXDATE;TZID=America/New_York:20260625T100000
-EXDATE;TZID=America/New_York:20260702T100000
-LAST-MODIFIED:20260702T131004Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/92023325319?
- password=b4d6a196-131b-48c4-a70d-00b906c73b66
-ORGANIZER;CN=AI Governance Framework:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;BYDAY=TH
-SEQUENCE:1
-SUMMARY:AI Reference Architecture Library weekly working session
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/920233
- 25319?password=b4d6a196-131b-48c4-a70d-00b906c73b66
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-X-MEETING-ID:92023325319
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
