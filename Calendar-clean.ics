@@ -3176,7 +3176,7 @@ BEGIN:VEVENT
 UID:99902967416
 DTSTART;TZID=America/New_York:20260410T100000
 DTEND;TZID=America/New_York:20260410T103000
-CREATED:20260612T124100Z
+CREATED:20260821T075401Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for OS-Climate\n
  \n\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n
  \nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/99902967416?passwo
@@ -3190,15 +3190,18 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for OS-Climate\n
  71 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 898
  5 (Toll Free)\n\nMeeting ID: 99902967416\n\nMeeting Passcode: 753316\n\n\n
  International numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260612T124100Z
+DTSTAMP:20260821T075401Z
 EXDATE;TZID=America/New_York:20260501T100000
 EXDATE;TZID=America/New_York:20260605T100000
 EXDATE;TZID=America/New_York:20260612T100000
-LAST-MODIFIED:20260612T124100Z
+EXDATE;TZID=America/New_York:20260821T100000
+EXDATE;TZID=America/New_York:20260828T100000
+LAST-MODIFIED:20260821T075401Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99902967416?
  password=2a353a40-77e6-40a6-86dd-87f3f62fa884
 ORGANIZER;CN=OS-Climate:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=FR
+RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;BYDAY=FR
+SEQUENCE:2
 SUMMARY:Data Commons
 TZID:America/New_York
 TZNAME:America/New_York
