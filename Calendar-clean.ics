@@ -3622,6 +3622,45 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
+UID:95173610154
+DTSTART;TZID=Europe/London:20260826T160000
+DTEND;TZID=Europe/London:20260826T170000
+CREATED:20260824T163107Z
+DESCRIPTION:\nYou have been invited to a meeting for Git Proxy\n\nSpecial m
+ eeting of the Git Proxy community and maintainers to discuss our roadmap\n
+ \nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nht
+ tps://zoom-lfx.platform.linuxfoundation.org/meeting/95173610154?password=4
+ 2652580-53eb-40b7-9535-ed4d49ee534e\n\n2. Join via audio\n\nOne tap mobile
+ :\nUS (iOS): +12532158782\,\,95173610154#\,\,\,\,*415841# or +13462487799\
+ ,\,95173610154#\,\,\,\,*415841#\nUS (Android): +12532158782\;95173610154#\
+ ;415841# or +13462487799\;95173610154#\;415841#\n\nOr dial:\nUS: +1 253 21
+ 5 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 
+ 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (T
+ oll Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 o
+ r +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (T
+ oll Free)\n\nMeeting ID: 95173610154\n\nMeeting Passcode: 415841\n\n\nInte
+ rnational numbers: https://zoom.us/u/alwnPIaVT\n
+DTSTAMP:20260824T163107Z
+LAST-MODIFIED:20260824T163107Z
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95173610154?
+ password=42652580-53eb-40b7-9535-ed4d49ee534e
+ORGANIZER;CN=Git Proxy:MAILTO:meetings@lfx.dev
+SEQUENCE:0
+SUMMARY:Git Proxy Roadmap meeting
+TZID:Europe/London
+TZNAME:Europe/London
+URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/951736
+ 10154?password=42652580-53eb-40b7-9535-ed4d49ee534e
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting reminder
+TRIGGER:-PT10M
+END:VALARM
+X-MEETING-ID:95173610154
+X-OCCURRENCE-ID:
+X-REGISTRANT-ID:
+END:VEVENT
+BEGIN:VEVENT
 UID:91949257192
 DTSTART;TZID=America/New_York:20251003T100000
 DTEND;TZID=America/New_York:20251003T103000
