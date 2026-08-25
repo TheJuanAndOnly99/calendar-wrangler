@@ -2405,7 +2405,7 @@ BEGIN:VEVENT
 UID:94271033159
 DTSTART;TZID=America/New_York:20260429T100000
 DTEND;TZID=America/New_York:20260429T110000
-CREATED:20260811T133258Z
+CREATED:20260825T085242Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -2420,17 +2420,17 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  94271033159\n\nMeeting Passcode: 531000\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260811T133258Z
+DTSTAMP:20260825T085242Z
 EXDATE;TZID=America/New_York:20260429T100000
 EXDATE;TZID=America/New_York:20260624T100000
 EXDATE;TZID=America/New_York:20260729T100000
 EXDATE;TZID=America/New_York:20260826T100000
-LAST-MODIFIED:20260811T133258Z
+LAST-MODIFIED:20260825T085242Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94271033159?
  password=0452bf20-88ad-423b-8b3b-a23c57524f09
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
 RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=-1WE
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:CDM Collateral Working Group
 TZID:America/New_York
 TZNAME:America/New_York
