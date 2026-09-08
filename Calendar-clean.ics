@@ -1067,7 +1067,7 @@ BEGIN:VEVENT
 UID:92172584188
 DTSTART;TZID=America/New_York:20260520T100000
 DTEND;TZID=America/New_York:20260520T110000
-CREATED:20260805T130352Z
+CREATED:20260908T161852Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -1082,17 +1082,18 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  92172584188\n\nMeeting Passcode: 886399\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260805T130352Z
+DTSTAMP:20260908T161852Z
 EXDATE;TZID=America/New_York:20260520T100000
 EXDATE;TZID=America/New_York:20260617T100000
 EXDATE;TZID=America/New_York:20260715T100000
 EXDATE;TZID=America/New_York:20260819T100000
-LAST-MODIFIED:20260805T130352Z
+EXDATE;TZID=America/New_York:20260916T100000
+LAST-MODIFIED:20260908T161852Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/92172584188?
  password=cf35c343-0e3e-49e3-9dae-117c6f6accb8
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
 RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+3WE
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:CDM Tokenized Assets Working Group
 TZID:America/New_York
 TZNAME:America/New_York
@@ -2529,7 +2530,7 @@ BEGIN:VEVENT
 UID:93988274402
 DTSTART;TZID=America/New_York:20260408T090000
 DTEND;TZID=America/New_York:20260408T100000
-CREATED:20260707T162542Z
+CREATED:20260908T161841Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\nWorking Group Background:
   https://github.com/finos/common-domain-model/issues/3432\n\nWays to join 
@@ -2545,17 +2546,18 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  20 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMe
  eting ID: 93988274402\n\nMeeting Passcode: 288107\n\n\nInternational numbe
  rs: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260707T162542Z
+DTSTAMP:20260908T161841Z
 EXDATE;TZID=America/New_York:20260513T090000
 EXDATE;TZID=America/New_York:20260610T090000
 EXDATE;TZID=America/New_York:20260708T090000
 EXDATE;TZID=America/New_York:20260812T090000
-LAST-MODIFIED:20260707T162542Z
+EXDATE;TZID=America/New_York:20260909T090000
+LAST-MODIFIED:20260908T161841Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/93988274402?
  password=cc529a12-6925-413d-a7a8-19ec7a37cfdc
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
 RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+2WE
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:CDM Physical Risk Working Group
 TZID:America/New_York
 TZNAME:America/New_York
