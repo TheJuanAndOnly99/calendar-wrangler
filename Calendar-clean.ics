@@ -1650,49 +1650,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:98835871246:2025-12-08T14:30:00Z
-DTSTART;TZID=America/New_York:20251208T093000
-DTEND;TZID=America/New_York:20251208T103000
-CREATED:20260213T094919Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for kdb+\n\nMont
- hly KDB project meeting. \nAgenda: https://github.com/finos/kdb/labels/mee
- ting\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android
- \n\nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/98835871246?pass
- word=a9b34d3e-5ddf-48a7-9748-c3b81326625d\n\n2. Join via audio\n\nOne tap 
- mobile:\nUS (iOS): +12532158782\,\,98835871246#\,\,\,\,*479905# or +134624
- 87799\,\,98835871246#\,\,\,\,*479905#\nUS (Android): +12532158782\;9883587
- 1246#\;479905# or +13462487799\;98835871246#\;479905#\n\nOr dial:\nUS: +1 
- 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +
- 1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1
- 246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 
- 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8
- 985 (Toll Free)\n\nMeeting ID: 98835871246\n\nMeeting Passcode: 479905\n\n
- \nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260213T094919Z
-LAST-MODIFIED:20260213T094919Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98835871246?
- password=a9b34d3e-5ddf-48a7-9748-c3b81326625d
-ORGANIZER;CN=kdb+:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20260112T153000Z;BYDAY=+2MO
-SUMMARY:KDB Project Meeting
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/988358
- 71246?password=a9b34d3e-5ddf-48a7-9748-c3b81326625d
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-X-MEETING-ID:98835871246
-X-OCCURRENCE-ID:
-X-REGISTRANT-ID:
-END:VEVENT
-BEGIN:VEVENT
 UID:98835871246:2026-02-09T14:30:00Z
 DTSTART;TZID=America/New_York:20260209T093000
 DTEND;TZID=America/New_York:20260209T103000
-CREATED:20260213T094919Z
+CREATED:20260911T221623Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for kdb+\n\nMont
  hly KDB project meeting. \nAgenda: https://github.com/finos/kdb/labels/mee
  ting\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android
@@ -1707,12 +1668,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for kdb+\n\nMont
  2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8
  985 (Toll Free)\n\nMeeting ID: 98835871246\n\nMeeting Passcode: 479905\n\n
  \nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260213T094919Z
-LAST-MODIFIED:20260213T094919Z
+DTSTAMP:20260911T221623Z
+LAST-MODIFIED:20260911T221623Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98835871246?
  password=a9b34d3e-5ddf-48a7-9748-c3b81326625d
 ORGANIZER;CN=kdb+:MAILTO:meetings@lfx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=+2MO
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+2MO
+SEQUENCE:1
 SUMMARY:KDB Project Meeting
 TZID:America/New_York
 TZNAME:America/New_York
@@ -1729,10 +1691,10 @@ X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
 UID:98835871246:2026-02-09T14:30:00Z
-RECURRENCE-ID;TZID=America/New_York:20260209T093000
-DTSTART;TZID=America/New_York:20260223T093000
-DTEND;TZID=America/New_York:20260223T103000
-CREATED:20260213T094919Z
+RECURRENCE-ID;TZID=America/New_York:20260914T093000
+DTSTART;TZID=America/New_York:20260921T093000
+DTEND;TZID=America/New_York:20260921T103000
+CREATED:20260911T221623Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for kdb+\n\nMont
  hly KDB project meeting. \nAgenda: https://github.com/finos/kdb/labels/mee
  ting\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android
@@ -1747,11 +1709,12 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for kdb+\n\nMont
  2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8
  985 (Toll Free)\n\nMeeting ID: 98835871246\n\nMeeting Passcode: 479905\n\n
  \nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260213T094919Z
-LAST-MODIFIED:20260213T094919Z
+DTSTAMP:20260911T221623Z
+LAST-MODIFIED:20260911T221623Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98835871246?
  password=a9b34d3e-5ddf-48a7-9748-c3b81326625d
 ORGANIZER;CN=kdb+:MAILTO:meetings@lfx.dev
+SEQUENCE:1
 SUMMARY:KDB Project Meeting
 TZID:America/New_York
 TZNAME:America/New_York
