@@ -2054,7 +2054,7 @@ BEGIN:VEVENT
 UID:96950469863
 DTSTART;TZID=America/New_York:20251013T080000
 DTEND;TZID=America/New_York:20251013T090000
-CREATED:20260729T173726Z
+CREATED:20260914T080757Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Waltz\n\nWal
  tz monthly meeting\nGitHub: https://github.com/finos/waltz\n\nWays to join
   meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx
@@ -2069,13 +2069,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Waltz\n\nWal
  920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nM
  eeting ID: 96950469863\n\nMeeting Passcode: 180370\n\n\nInternational numb
  ers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260729T173726Z
-LAST-MODIFIED:20260729T173726Z
+DTSTAMP:20260914T080757Z
+LAST-MODIFIED:20260914T080757Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96950469863?
  password=a4229b81-221e-4262-8d22-f7ba73ca007f
 ORGANIZER;CN=Waltz:MAILTO:meetings@lfx.dev
 RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+2MO
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Waltz Project Meeting
 TZID:America/New_York
 TZNAME:America/New_York
@@ -2089,6 +2089,43 @@ END:VALARM
 X-MEETING-ID:96950469863
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
+END:VEVENT
+BEGIN:VEVENT
+UID:96950469863
+RECURRENCE-ID;TZID=America/New_York:20260914T080000
+DTSTART;TZID=America/New_York:20260915T080000
+DTEND;TZID=America/New_York:20260915T090000
+CREATED:20260914T080757Z
+DESCRIPTION:\nYou have been invited to a meeting for Waltz\n\nWaltz monthly
+  meeting\nGitHub: https://github.com/finos/waltz\n\nWays to join meeting:\
+ n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.
+ linuxfoundation.org/meeting/96950469863?password=a4229b81-221e-4262-8d22-f
+ 7ba73ca007f\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +1253215878
+ 2\,\,96950469863#\,\,\,\,*180370# or +13462487799\,\,96950469863#\,\,\,\,*
+ 180370#\nUS (Android): +12532158782\;96950469863#\;180370# or +13462487799
+ \;96950469863#\;180370#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 779
+ 9 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8
+ 656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 64
+ 7 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 
+ 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID:
+  96950469863\n\nMeeting Passcode: 180370\n\n\nInternational numbers: https
+ ://zoom.us/u/alwnPIaVT\n
+DTSTAMP:20260914T080757Z
+LAST-MODIFIED:20260914T080757Z
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96950469863?
+ password=a4229b81-221e-4262-8d22-f7ba73ca007f
+ORGANIZER;CN=Waltz:MAILTO:meetings@lfx.dev
+SEQUENCE:2
+SUMMARY:Waltz Project Meeting
+TZID:America/New_York
+TZNAME:America/New_York
+URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/969504
+ 69863?password=a4229b81-221e-4262-8d22-f7ba73ca007f
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting reminder
+TRIGGER:-PT10M
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:97910431177
@@ -3700,48 +3737,6 @@ ACTION:DISPLAY
 DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:99097187457
-DTSTART;TZID=America/New_York:20260114T120000
-DTEND;TZID=America/New_York:20260114T130000
-CREATED:20260211T163219Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
- ation\n\nBi-weekly Evolution at Scale - DevOps Automation Working Group me
- eting.\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Andro
- id\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/99097187457?pa
- ssword=ec96279c-c93a-450b-bb3b-6d45672f11f8\n\n2. Join via audio\n\nOne ta
- p mobile:\nUS (iOS): +12532158782\,\,99097187457#\,\,\,\,*554329# or +1346
- 2487799\,\,99097187457#\,\,\,\,*554329#\nUS (Android): +12532158782\;99097
- 187457#\;554329# or +13462487799\;99097187457#\;554329#\n\nOr dial:\nUS: +
- 1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or
-  +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880
-  1246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 90
- 7 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703
-  8985 (Toll Free)\n\nMeeting ID: 99097187457\n\nMeeting Passcode: 554329\n
- \n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260211T163219Z
-EXDATE;TZID=America/New_York:20260114T120000
-EXDATE;TZID=America/New_York:20260128T120000
-EXDATE;TZID=America/New_York:20260211T120000
-LAST-MODIFIED:20260211T163219Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99097187457?
- password=ec96279c-c93a-450b-bb3b-6d45672f11f8
-ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20280101T000000Z;BYDAY=WE
-SUMMARY:Evolution at Scale - DevOps Automation Working Group
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/990971
- 87457?password=ec96279c-c93a-450b-bb3b-6d45672f11f8
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-X-MEETING-ID:99097187457
-X-OCCURRENCE-ID:
-X-REGISTRANT-ID:
 END:VEVENT
 END:VCALENDAR
 
