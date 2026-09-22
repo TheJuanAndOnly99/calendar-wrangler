@@ -3270,7 +3270,7 @@ BEGIN:VEVENT
 UID:94159751957
 DTSTART;TZID=America/New_York:20260325T113000
 DTEND;TZID=America/New_York:20260325T123000
-CREATED:20260909T143036Z
+CREATED:20260921T204723Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -3285,15 +3285,16 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  94159751957\n\nMeeting Passcode: 208074\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260909T143036Z
+DTSTAMP:20260921T204723Z
 EXDATE;TZID=America/New_York:20260701T113000
 EXDATE;TZID=America/New_York:20260909T113000
-LAST-MODIFIED:20260909T143036Z
+EXDATE;TZID=America/New_York:20260923T113000
+LAST-MODIFIED:20260921T204723Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94159751957?
  password=8a54da8a-9f42-4448-a8a9-246e545279cb
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=WE
-SEQUENCE:4
+SEQUENCE:5
 SUMMARY:CDM Derivatives Working Group
 TZID:America/New_York
 TZNAME:America/New_York
