@@ -707,10 +707,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:95756611623
-DTSTART;TZID=America/New_York:20260305T120000
-DTEND;TZID=America/New_York:20260305T130000
-CREATED:20260819T083234Z
+UID:95756611623:2026-07-23T15:00:00Z
+DTSTART;TZID=America/New_York:20260723T110000
+DTEND;TZID=America/New_York:20260723T120000
+CREATED:20260929T154140Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   Controls\n\nGitHub: https://github.com/finos/common-cloud-controls\n\nWay
  s to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps:/
@@ -725,14 +725,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
  204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll F
  ree)\n\nMeeting ID: 95756611623\n\nMeeting Passcode: 052748\n\n\nInternati
  onal numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260819T083234Z
-EXDATE;TZID=America/New_York:20260820T110000
-LAST-MODIFIED:20260819T083234Z
+DTSTAMP:20260929T154140Z
+LAST-MODIFIED:20260929T154140Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95756611623?
  password=64d02ae0-6cec-428f-87a0-cb8be5f39945
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260709T170000Z;BYDAY=TH
-SEQUENCE:2
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260917T160000Z;BYDAY=TH
+SEQUENCE:3
 SUMMARY:CCC - Working Group: Communications / All Hands
 TZID:America/New_York
 TZNAME:America/New_York
@@ -743,6 +742,25 @@ ACTION:DISPLAY
 DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
+X-ALT-DESC;FMTTYPE=text/html;VALUE=TEXT:<html><body><br>\nYou have been inv
+ ited to a recurring meeting for Common Cloud Controls<br>\n<br>\nGitHub: <
+ a href="https://github.com/finos/common-cloud-controls">https://github.com
+ /finos/common-cloud-controls</a><br>\n<br>\nWays to join meeting:<br>\n<br
+ >\n1. Join from PC\, Mac\, iPad\, or Android<br>\n<br>\n<a href="https://z
+ oom-lfx.platform.linuxfoundation.org/meeting/95756611623?password=64d02ae0
+ -6cec-428f-87a0-cb8be5f39945">https://zoom-lfx.platform.linuxfoundation.or
+ g/meeting/95756611623?password=64d02ae0-6cec-428f-87a0-cb8be5f39945</a><br
+ >\n<br>\n2. Join via audio<br>\n<br>\nOne tap mobile:<br>\nUS (iOS): +1253
+ 2158782\,\,95756611623#\,\,\,\,*052748# or +13462487799\,\,95756611623#\,\
+ ,\,\,*052748#<br>\nUS (Android): +12532158782\;95756611623#\;052748# or +1
+ 3462487799\;95756611623#\;052748#<br>\n<br>\nOr dial:<br>\nUS: +1 253 215 
+ 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 62
+ 6 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Tol
+ l Free)<br>\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071
+  or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 
+ (Toll Free)<br>\n<br>\nMeeting ID: 95756611623<br>\n<br>\nMeeting Passcode
+ : 052748<br>\n<br>\n<br>\nInternational numbers: <a href="https://zoom.us/
+ u/alwnPIaVT">https://zoom.us/u/alwnPIaVT</a><br>\n</body></html>
 X-MEETING-ID:95756611623
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
@@ -826,33 +844,33 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:95756611623:2026-07-23T15:00:00Z
-DTSTART;TZID=America/New_York:20260723T110000
-DTEND;TZID=America/New_York:20260723T120000
-CREATED:20260819T083234Z
+UID:95756611623:2026-10-01T15:00:00Z
+DTSTART;TZID=America/New_York:20261001T110000
+DTEND;TZID=America/New_York:20261001T120000
+CREATED:20260929T154140Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
-  Controls\n\nGitHub: https://github.com/finos/common-cloud-controls\n\nWay
- s to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps:/
- /zoom-lfx.platform.linuxfoundation.org/meeting/95756611623?password=64d02a
- e0-6cec-428f-87a0-cb8be5f39945\n\n2. Join via audio\n\nOne tap mobile:\nUS
-  (iOS): +12532158782\,\,95756611623#\,\,\,\,*052748# or +13462487799\,\,95
- 756611623#\,\,\,\,*052748#\nUS (Android): +12532158782\;95756611623#\;0527
- 48# or +13462487799\;95756611623#\;052748#\n\nOr dial:\nUS: +1 253 215 878
- 2 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6
- 799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll F
- ree)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 
- 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll F
- ree)\n\nMeeting ID: 95756611623\n\nMeeting Passcode: 052748\n\n\nInternati
- onal numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260819T083234Z
-EXDATE;TZID=America/New_York:20260820T110000
-LAST-MODIFIED:20260819T083234Z
+  Controls\n\nGeneral meeting for all things Common Cloud Controls\nSite: c
+ cc.finos.org\nGitHub: https://github.com/finos/common-cloud-controls\n\nWa
+ ys to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps:
+ //zoom-lfx.platform.linuxfoundation.org/meeting/95756611623?password=64d02
+ ae0-6cec-428f-87a0-cb8be5f39945\n\n2. Join via audio\n\nOne tap mobile:\nU
+ S (iOS): +12532158782\,\,95756611623#\,\,\,\,*052748# or +13462487799\,\,9
+ 5756611623#\,\,\,\,*052748#\nUS (Android): +12532158782\;95756611623#\;052
+ 748# or +13462487799\;95756611623#\;052748#\n\nOr dial:\nUS: +1 253 215 87
+ 82 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 
+ 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll 
+ Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1
+  204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll 
+ Free)\n\nMeeting ID: 95756611623\n\nMeeting Passcode: 052748\n\n\nInternat
+ ional numbers: https://zoom.us/u/alwnPIaVT\n
+DTSTAMP:20260929T154140Z
+LAST-MODIFIED:20260929T154140Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95756611623?
  password=64d02ae0-6cec-428f-87a0-cb8be5f39945
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=TH
-SEQUENCE:2
-SUMMARY:CCC - Working Group: Communications / All Hands
+SEQUENCE:3
+SUMMARY:CCC - Project Working Group (All Hands)
 TZID:America/New_York
 TZNAME:America/New_York
 URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/957566
@@ -862,6 +880,26 @@ ACTION:DISPLAY
 DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
+X-ALT-DESC;FMTTYPE=text/html;VALUE=TEXT:<html><body><br>\nYou have been inv
+ ited to a recurring meeting for Common Cloud Controls<br>\n<br>\nGeneral m
+ eeting for all things Common Cloud Controls<br>\nSite: ccc.finos.org<br>\n
+ GitHub: <a href="https://github.com/finos/common-cloud-controls">https://g
+ ithub.com/finos/common-cloud-controls</a><br>\n<br>\nWays to join meeting:
+ <br>\n<br>\n1. Join from PC\, Mac\, iPad\, or Android<br>\n<br>\n<a href="
+ https://zoom-lfx.platform.linuxfoundation.org/meeting/95756611623?password
+ =64d02ae0-6cec-428f-87a0-cb8be5f39945">https://zoom-lfx.platform.linuxfoun
+ dation.org/meeting/95756611623?password=64d02ae0-6cec-428f-87a0-cb8be5f399
+ 45</a><br>\n<br>\n2. Join via audio<br>\n<br>\nOne tap mobile:<br>\nUS (iO
+ S): +12532158782\,\,95756611623#\,\,\,\,*052748# or +13462487799\,\,957566
+ 11623#\,\,\,\,*052748#<br>\nUS (Android): +12532158782\;95756611623#\;0527
+ 48# or +13462487799\;95756611623#\;052748#<br>\n<br>\nOr dial:<br>\nUS: +1
+  253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or 
+ +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 
+ 1246 (Toll Free)<br>\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778
+  907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 
+ 703 8985 (Toll Free)<br>\n<br>\nMeeting ID: 95756611623<br>\n<br>\nMeeting
+  Passcode: 052748<br>\n<br>\n<br>\nInternational numbers: <a href="https:/
+ /zoom.us/u/alwnPIaVT">https://zoom.us/u/alwnPIaVT</a><br>\n</body></html>
 X-MEETING-ID:95756611623
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
@@ -909,7 +947,7 @@ BEGIN:VEVENT
 UID:94448504669
 DTSTART;TZID=Europe/London:20250924T083000
 DTEND;TZID=Europe/London:20250924T110000
-CREATED:20260810T134106Z
+CREATED:20260929T123013Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  d Engineer Community\n\nDistinguished Engineer Community Quarterly SIG Mee
  ting\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android
@@ -924,13 +962,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8
  985 (Toll Free)\n\nMeeting ID: 94448504669\n\nMeeting Passcode: 576341\n\n
  \nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260810T134106Z
-LAST-MODIFIED:20260810T134106Z
+DTSTAMP:20260929T123013Z
+EXDATE;TZID=Europe/London:20260923T083000
+LAST-MODIFIED:20260929T123013Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?
  password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0
 ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
 RRULE:FREQ=MONTHLY;INTERVAL=3;WKST=SU;BYDAY=+4WE
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:Distinguished Engineer Community Quarterly SIG Meeting
 TZID:Europe/London
 TZNAME:Europe/London
@@ -941,46 +980,28 @@ ACTION:DISPLAY
 DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
+X-ALT-DESC;FMTTYPE=text/html;VALUE=TEXT:<html><body><br>\nYou have been inv
+ ited to a recurring meeting for Distinguished Engineer Community<br>\n<br>
+ \nDistinguished Engineer Community Quarterly SIG Meeting<br>\n<br>\nWays t
+ o join meeting:<br>\n<br>\n1. Join from PC\, Mac\, iPad\, or Android<br>\n
+ <br>\n<a href="https://zoom-lfx.platform.linuxfoundation.org/meeting/94448
+ 504669?password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0">https://zoom-lfx.pla
+ tform.linuxfoundation.org/meeting/94448504669?password=eae95588-ef7e-4d50-
+ a03b-7e8c64fb14d0</a><br>\n<br>\n2. Join via audio<br>\n<br>\nOne tap mobi
+ le:<br>\nUS (iOS): +12532158782\,\,94448504669#\,\,\,\,*576341# or +134624
+ 87799\,\,94448504669#\,\,\,\,*576341#<br>\nUS (Android): +12532158782\;944
+ 48504669#\;576341# or +13462487799\;94448504669#\;576341#<br>\n<br>\nOr di
+ al:<br>\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 3
+ 01 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Fr
+ ee) or 855 880 1246 (Toll Free)<br>\nCanada: +1 647 374 4685 or +1 647 558
+  0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 3
+ 28 1099 or 855 703 8985 (Toll Free)<br>\n<br>\nMeeting ID: 94448504669<br>
+ \n<br>\nMeeting Passcode: 576341<br>\n<br>\n<br>\nInternational numbers: <
+ a href="https://zoom.us/u/alwnPIaVT">https://zoom.us/u/alwnPIaVT</a><br>\n
+ </body></html>
 X-MEETING-ID:94448504669
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
-END:VEVENT
-BEGIN:VEVENT
-UID:94448504669
-RECURRENCE-ID;TZID=Europe/London:20260923T083000
-DTSTART;TZID=Europe/London:20260930T150000
-DTEND;TZID=Europe/London:20260930T170000
-CREATED:20260810T134106Z
-DESCRIPTION:\nYou have been invited to a meeting for Distinguished Engineer
-  Community\n\nDistinguished Engineer Community Quarterly SIG Meeting\n\nWa
- ys to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps:
- //zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?password=eae95
- 588-ef7e-4d50-a03b-7e8c64fb14d0\n\n2. Join via audio\n\nOne tap mobile:\nU
- S (iOS): +12532158782\,\,94448504669#\,\,\,\,*576341# or +13462487799\,\,9
- 4448504669#\,\,\,\,*576341#\nUS (Android): +12532158782\;94448504669#\;576
- 341# or +13462487799\;94448504669#\;576341#\n\nOr dial:\nUS: +1 253 215 87
- 82 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 
- 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll 
- Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1
-  204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll 
- Free)\n\nMeeting ID: 94448504669\n\nMeeting Passcode: 576341\n\n\nInternat
- ional numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260810T134106Z
-LAST-MODIFIED:20260810T134106Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?
- password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0
-ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
-SEQUENCE:2
-SUMMARY:Distinguished Engineer Community Quarterly SIG Meeting
-TZID:Europe/London
-TZNAME:Europe/London
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/944485
- 04669?password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:99138676105:2026-01-21T16:00:00Z
