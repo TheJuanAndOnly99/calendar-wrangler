@@ -3425,7 +3425,7 @@ BEGIN:VEVENT
 UID:99902967416
 DTSTART;TZID=America/New_York:20260410T100000
 DTEND;TZID=America/New_York:20260410T103000
-CREATED:20260824T074336Z
+CREATED:20261001T141917Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for OS-Climate\n
  \n\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n
  \nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/99902967416?passwo
@@ -3439,18 +3439,19 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for OS-Climate\n
  71 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 898
  5 (Toll Free)\n\nMeeting ID: 99902967416\n\nMeeting Passcode: 753316\n\n\n
  International numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260824T074336Z
+DTSTAMP:20261001T141917Z
 EXDATE;TZID=America/New_York:20260501T100000
 EXDATE;TZID=America/New_York:20260605T100000
 EXDATE;TZID=America/New_York:20260612T100000
 EXDATE;TZID=America/New_York:20260821T100000
 EXDATE;TZID=America/New_York:20260828T100000
-LAST-MODIFIED:20260824T074336Z
+EXDATE;TZID=America/New_York:20261002T100000
+LAST-MODIFIED:20261001T141917Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99902967416?
  password=2a353a40-77e6-40a6-86dd-87f3f62fa884
 ORGANIZER;CN=OS-Climate:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;BYDAY=FR
-SEQUENCE:3
+SEQUENCE:4
 SUMMARY:Data Commons
 TZID:America/New_York
 TZNAME:America/New_York
@@ -3461,6 +3462,24 @@ ACTION:DISPLAY
 DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
+X-ALT-DESC;FMTTYPE=text/html;VALUE=TEXT:<html><body><br>\nYou have been inv
+ ited to a recurring meeting for OS-Climate<br>\n<br>\n<br>\n<br>\nWays to 
+ join meeting:<br>\n<br>\n1. Join from PC\, Mac\, iPad\, or Android<br>\n<b
+ r>\n<a href="https://zoom-lfx.platform.linuxfoundation.org/meeting/9990296
+ 7416?password=2a353a40-77e6-40a6-86dd-87f3f62fa884">https://zoom-lfx.platf
+ orm.linuxfoundation.org/meeting/99902967416?password=2a353a40-77e6-40a6-86
+ dd-87f3f62fa884</a><br>\n<br>\n2. Join via audio<br>\n<br>\nOne tap mobile
+ :<br>\nUS (iOS): +12532158782\,\,99902967416#\,\,\,\,*753316# or +13462487
+ 799\,\,99902967416#\,\,\,\,*753316#<br>\nUS (Android): +12532158782\;99902
+ 967416#\;753316# or +13462487799\;99902967416#\;753316#<br>\n<br>\nOr dial
+ :<br>\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301
+  715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free
+ ) or 855 880 1246 (Toll Free)<br>\nCanada: +1 647 374 4685 or +1 647 558 0
+ 588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328
+  1099 or 855 703 8985 (Toll Free)<br>\n<br>\nMeeting ID: 99902967416<br>\n
+ <br>\nMeeting Passcode: 753316<br>\n<br>\n<br>\nInternational numbers: <a 
+ href="https://zoom.us/u/alwnPIaVT">https://zoom.us/u/alwnPIaVT</a><br>\n</
+ body></html>
 X-MEETING-ID:99902967416
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
