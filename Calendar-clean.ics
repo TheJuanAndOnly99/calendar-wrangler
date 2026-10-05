@@ -2907,31 +2907,33 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:94001587941
-DTSTART;TZID=Europe/London:20260817T150000
-DTEND;TZID=Europe/London:20260817T180000
-CREATED:20260928T212759Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
- ation\n\n\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or An
- droid\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/94001587941
- ?password=e85f4fbd-7703-4628-b2b0-e454dcf966c8\n\n2. Join via audio\n\nOne
-  tap mobile:\nUS (iOS): +12532158782\,\,94001587941#\,\,\,\,*193574# or +1
- 3462487799\,\,94001587941#\,\,\,\,*193574#\nUS (Android): +12532158782\;94
- 001587941#\;193574# or +13462487799\;94001587941#\;193574#\n\nOr dial:\nUS
- : +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592
-  or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 
- 880 1246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778
-  907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 
- 703 8985 (Toll Free)\n\nMeeting ID: 94001587941\n\nMeeting Passcode: 19357
- 4\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260928T212759Z
-LAST-MODIFIED:20260928T212759Z
+UID:94001587941:2026-10-12T14:00:00Z
+DTSTART;TZID=Europe/London:20261012T150000
+DTEND;TZID=Europe/London:20261012T180000
+CREATED:20261005T112923Z
+DESCRIPTION:\nYou have been invited to a recurring meeting for Software Dev
+ elopment Lifecycle Common Control Catalog\n\n\n\nWays to join meeting:\n\n
+ 1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.lin
+ uxfoundation.org/meeting/94001587941?password=e85f4fbd-7703-4628-b2b0-e454
+ dcf966c8\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,
+ \,94001587941#\,\,\,\,*193574# or +13462487799\,\,94001587941#\,\,\,\,*193
+ 574#\nUS (Android): +12532158782\;94001587941#\;193574# or +13462487799\;9
+ 4001587941#\;193574#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 o
+ r +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656
+  or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 3
+ 74 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438
+  809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 94
+ 001587941\n\nMeeting Passcode: 193574\n\n\nInternational numbers: https://
+ zoom.us/u/alwnPIaVT\n
+DTSTAMP:20261005T112923Z
+LAST-MODIFIED:20261005T112923Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94001587941?
  password=e85f4fbd-7703-4628-b2b0-e454dcf966c8
-ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
+ORGANIZER;CN=Software Development Lifecycle Common Control Catalog:MAILTO:m
+ eetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=4;WKST=SU;BYDAY=MO
-SEQUENCE:2
-SUMMARY:SDLC Governance Framework Working Group Meeting - Long Workshop
+SEQUENCE:3
+SUMMARY:SDLC Common Controls Catalog Working Group Meeting - Long Workshop
 TZID:Europe/London
 TZNAME:Europe/London
 URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/940015
@@ -2942,23 +2944,82 @@ DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
 X-ALT-DESC;FMTTYPE=text/html;VALUE=TEXT:<html><body><br>\nYou have been inv
- ited to a recurring meeting for DevOps Automation<br>\n<br>\n<br>\n<br>\nW
- ays to join meeting:<br>\n<br>\n1. Join from PC\, Mac\, iPad\, or Android<
- br>\n<br>\n<a href="https://zoom-lfx.platform.linuxfoundation.org/meeting/
- 94001587941?password=e85f4fbd-7703-4628-b2b0-e454dcf966c8">https://zoom-lf
- x.platform.linuxfoundation.org/meeting/94001587941?password=e85f4fbd-7703-
- 4628-b2b0-e454dcf966c8</a><br>\n<br>\n2. Join via audio<br>\n<br>\nOne tap
-  mobile:<br>\nUS (iOS): +12532158782\,\,94001587941#\,\,\,\,*193574# or +1
- 3462487799\,\,94001587941#\,\,\,\,*193574#<br>\nUS (Android): +12532158782
- \;94001587941#\;193574# or +13462487799\;94001587941#\;193574#<br>\n<br>\n
- Or dial:<br>\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or
-  +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (To
- ll Free) or 855 880 1246 (Toll Free)<br>\nCanada: +1 647 374 4685 or +1 64
- 7 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 
- 587 328 1099 or 855 703 8985 (Toll Free)<br>\n<br>\nMeeting ID: 9400158794
- 1<br>\n<br>\nMeeting Passcode: 193574<br>\n<br>\n<br>\nInternational numbe
- rs: <a href="https://zoom.us/u/alwnPIaVT">https://zoom.us/u/alwnPIaVT</a><
- br>\n</body></html>
+ ited to a recurring meeting for Software Development Lifecycle Common Cont
+ rol Catalog<br>\n<br>\n<br>\n<br>\nWays to join meeting:<br>\n<br>\n1. Joi
+ n from PC\, Mac\, iPad\, or Android<br>\n<br>\n<a href="https://zoom-lfx.p
+ latform.linuxfoundation.org/meeting/94001587941?password=e85f4fbd-7703-462
+ 8-b2b0-e454dcf966c8">https://zoom-lfx.platform.linuxfoundation.org/meeting
+ /94001587941?password=e85f4fbd-7703-4628-b2b0-e454dcf966c8</a><br>\n<br>\n
+ 2. Join via audio<br>\n<br>\nOne tap mobile:<br>\nUS (iOS): +12532158782\,
+ \,94001587941#\,\,\,\,*193574# or +13462487799\,\,94001587941#\,\,\,\,*193
+ 574#<br>\nUS (Android): +12532158782\;94001587941#\;193574# or +1346248779
+ 9\;94001587941#\;193574#<br>\n<br>\nOr dial:<br>\nUS: +1 253 215 8782 or +
+ 1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or
+  +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)<b
+ r>\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 20
+ 4 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Fre
+ e)<br>\n<br>\nMeeting ID: 94001587941<br>\n<br>\nMeeting Passcode: 193574<
+ br>\n<br>\n<br>\nInternational numbers: <a href="https://zoom.us/u/alwnPIa
+ VT">https://zoom.us/u/alwnPIaVT</a><br>\n</body></html>
+X-MEETING-ID:94001587941
+X-OCCURRENCE-ID:
+X-REGISTRANT-ID:
+END:VEVENT
+BEGIN:VEVENT
+UID:94001587941
+DTSTART;TZID=Europe/London:20260817T150000
+DTEND;TZID=Europe/London:20260817T180000
+CREATED:20261005T112923Z
+DESCRIPTION:\nYou have been invited to a recurring meeting for Software Dev
+ elopment Lifecycle Common Control Catalog\n\n\n\nWays to join meeting:\n\n
+ 1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.lin
+ uxfoundation.org/meeting/94001587941?password=e85f4fbd-7703-4628-b2b0-e454
+ dcf966c8\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,
+ \,94001587941#\,\,\,\,*193574# or +13462487799\,\,94001587941#\,\,\,\,*193
+ 574#\nUS (Android): +12532158782\;94001587941#\;193574# or +13462487799\;9
+ 4001587941#\;193574#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 o
+ r +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656
+  or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 3
+ 74 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438
+  809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 94
+ 001587941\n\nMeeting Passcode: 193574\n\n\nInternational numbers: https://
+ zoom.us/u/alwnPIaVT\n
+DTSTAMP:20261005T112923Z
+LAST-MODIFIED:20261005T112923Z
+LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94001587941?
+ password=e85f4fbd-7703-4628-b2b0-e454dcf966c8
+ORGANIZER;CN=Software Development Lifecycle Common Control Catalog:MAILTO:m
+ eetings@lfx.dev
+RRULE:FREQ=WEEKLY;INTERVAL=4;WKST=SU;UNTIL=20260914T170000Z;BYDAY=MO
+SEQUENCE:3
+SUMMARY:SDLC Common Controls Catalog Working Group Meeting - Long Workshop
+TZID:Europe/London
+TZNAME:Europe/London
+URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/940015
+ 87941?password=e85f4fbd-7703-4628-b2b0-e454dcf966c8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Meeting reminder
+TRIGGER:-PT10M
+END:VALARM
+X-ALT-DESC;FMTTYPE=text/html;VALUE=TEXT:<html><body><br>\nYou have been inv
+ ited to a recurring meeting for Software Development Lifecycle Common Cont
+ rol Catalog<br>\n<br>\n<br>\n<br>\nWays to join meeting:<br>\n<br>\n1. Joi
+ n from PC\, Mac\, iPad\, or Android<br>\n<br>\n<a href="https://zoom-lfx.p
+ latform.linuxfoundation.org/meeting/94001587941?password=e85f4fbd-7703-462
+ 8-b2b0-e454dcf966c8">https://zoom-lfx.platform.linuxfoundation.org/meeting
+ /94001587941?password=e85f4fbd-7703-4628-b2b0-e454dcf966c8</a><br>\n<br>\n
+ 2. Join via audio<br>\n<br>\nOne tap mobile:<br>\nUS (iOS): +12532158782\,
+ \,94001587941#\,\,\,\,*193574# or +13462487799\,\,94001587941#\,\,\,\,*193
+ 574#<br>\nUS (Android): +12532158782\;94001587941#\;193574# or +1346248779
+ 9\;94001587941#\;193574#<br>\n<br>\nOr dial:<br>\nUS: +1 253 215 8782 or +
+ 1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or
+  +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)<b
+ r>\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 20
+ 4 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Fre
+ e)<br>\n<br>\nMeeting ID: 94001587941<br>\n<br>\nMeeting Passcode: 193574<
+ br>\n<br>\n<br>\nInternational numbers: <a href="https://zoom.us/u/alwnPIa
+ VT">https://zoom.us/u/alwnPIaVT</a><br>\n</body></html>
 X-MEETING-ID:94001587941
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
@@ -3271,30 +3332,32 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:96292319760
-DTSTART;TZID=America/New_York:20250915T100000
-DTEND;TZID=America/New_York:20250915T110000
-CREATED:20260928T212846Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
- ation\n\n\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or An
- droid\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760
- ?password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e\n\n2. Join via audio\n\nOne
-  tap mobile:\nUS (iOS): +12532158782\,\,96292319760#\,\,\,\,*289472# or +1
- 3462487799\,\,96292319760#\,\,\,\,*289472#\nUS (Android): +12532158782\;96
- 292319760#\;289472# or +13462487799\;96292319760#\;289472#\n\nOr dial:\nUS
- : +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592
-  or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 
- 880 1246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778
-  907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 
- 703 8985 (Toll Free)\n\nMeeting ID: 96292319760\n\nMeeting Passcode: 28947
- 2\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260928T212846Z
-LAST-MODIFIED:20260928T212846Z
+UID:96292319760:2026-08-03T14:00:00Z
+DTSTART;TZID=America/New_York:20260803T100000
+DTEND;TZID=America/New_York:20260803T110000
+CREATED:20261005T112947Z
+DESCRIPTION:\nYou have been invited to a recurring meeting for Software Dev
+ elopment Lifecycle Common Control Catalog\n\n\n\nWays to join meeting:\n\n
+ 1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.lin
+ uxfoundation.org/meeting/96292319760?password=a023f03e-c2aa-46fb-aae3-5d93
+ c9d9664e\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,
+ \,96292319760#\,\,\,\,*289472# or +13462487799\,\,96292319760#\,\,\,\,*289
+ 472#\nUS (Android): +12532158782\;96292319760#\;289472# or +13462487799\;9
+ 6292319760#\;289472#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 o
+ r +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656
+  or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 3
+ 74 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438
+  809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 96
+ 292319760\n\nMeeting Passcode: 289472\n\n\nInternational numbers: https://
+ zoom.us/u/alwnPIaVT\n
+DTSTAMP:20261005T112947Z
+LAST-MODIFIED:20261005T112947Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760?
  password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e
-ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=4;WKST=SU;UNTIL=20260720T150000Z;BYDAY=MO
-SEQUENCE:2
+ORGANIZER;CN=Software Development Lifecycle Common Control Catalog:MAILTO:m
+ eetings@lfx.dev
+RRULE:FREQ=WEEKLY;INTERVAL=4;WKST=SU;UNTIL=20260928T150000Z;BYDAY=MO
+SEQUENCE:3
 SUMMARY:SDLC Governance Framework Working Group Meeting - Short
 TZID:America/New_York
 TZNAME:America/New_York
@@ -3306,23 +3369,23 @@ DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
 X-ALT-DESC;FMTTYPE=text/html;VALUE=TEXT:<html><body><br>\nYou have been inv
- ited to a recurring meeting for DevOps Automation<br>\n<br>\n<br>\n<br>\nW
- ays to join meeting:<br>\n<br>\n1. Join from PC\, Mac\, iPad\, or Android<
- br>\n<br>\n<a href="https://zoom-lfx.platform.linuxfoundation.org/meeting/
- 96292319760?password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e">https://zoom-lf
- x.platform.linuxfoundation.org/meeting/96292319760?password=a023f03e-c2aa-
- 46fb-aae3-5d93c9d9664e</a><br>\n<br>\n2. Join via audio<br>\n<br>\nOne tap
-  mobile:<br>\nUS (iOS): +12532158782\,\,96292319760#\,\,\,\,*289472# or +1
- 3462487799\,\,96292319760#\,\,\,\,*289472#<br>\nUS (Android): +12532158782
- \;96292319760#\;289472# or +13462487799\;96292319760#\;289472#<br>\n<br>\n
- Or dial:<br>\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or
-  +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (To
- ll Free) or 855 880 1246 (Toll Free)<br>\nCanada: +1 647 374 4685 or +1 64
- 7 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 
- 587 328 1099 or 855 703 8985 (Toll Free)<br>\n<br>\nMeeting ID: 9629231976
- 0<br>\n<br>\nMeeting Passcode: 289472<br>\n<br>\n<br>\nInternational numbe
- rs: <a href="https://zoom.us/u/alwnPIaVT">https://zoom.us/u/alwnPIaVT</a><
- br>\n</body></html>
+ ited to a recurring meeting for Software Development Lifecycle Common Cont
+ rol Catalog<br>\n<br>\n<br>\n<br>\nWays to join meeting:<br>\n<br>\n1. Joi
+ n from PC\, Mac\, iPad\, or Android<br>\n<br>\n<a href="https://zoom-lfx.p
+ latform.linuxfoundation.org/meeting/96292319760?password=a023f03e-c2aa-46f
+ b-aae3-5d93c9d9664e">https://zoom-lfx.platform.linuxfoundation.org/meeting
+ /96292319760?password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e</a><br>\n<br>\n
+ 2. Join via audio<br>\n<br>\nOne tap mobile:<br>\nUS (iOS): +12532158782\,
+ \,96292319760#\,\,\,\,*289472# or +13462487799\,\,96292319760#\,\,\,\,*289
+ 472#<br>\nUS (Android): +12532158782\;96292319760#\;289472# or +1346248779
+ 9\;96292319760#\;289472#<br>\n<br>\nOr dial:<br>\nUS: +1 253 215 8782 or +
+ 1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or
+  +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)<b
+ r>\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 20
+ 4 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Fre
+ e)<br>\n<br>\nMeeting ID: 96292319760<br>\n<br>\nMeeting Passcode: 289472<
+ br>\n<br>\n<br>\nInternational numbers: <a href="https://zoom.us/u/alwnPIa
+ VT">https://zoom.us/u/alwnPIaVT</a><br>\n</body></html>
 X-MEETING-ID:96292319760
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
@@ -3365,31 +3428,33 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:96292319760:2026-08-03T14:00:00Z
-DTSTART;TZID=America/New_York:20260803T100000
-DTEND;TZID=America/New_York:20260803T110000
-CREATED:20260928T212846Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
- ation\n\n\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or An
- droid\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760
- ?password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e\n\n2. Join via audio\n\nOne
-  tap mobile:\nUS (iOS): +12532158782\,\,96292319760#\,\,\,\,*289472# or +1
- 3462487799\,\,96292319760#\,\,\,\,*289472#\nUS (Android): +12532158782\;96
- 292319760#\;289472# or +13462487799\;96292319760#\;289472#\n\nOr dial:\nUS
- : +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592
-  or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 
- 880 1246 (Toll Free)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778
-  907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 
- 703 8985 (Toll Free)\n\nMeeting ID: 96292319760\n\nMeeting Passcode: 28947
- 2\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260928T212846Z
-LAST-MODIFIED:20260928T212846Z
+UID:96292319760:2026-10-26T14:00:00Z
+DTSTART;TZID=America/New_York:20261026T100000
+DTEND;TZID=America/New_York:20261026T110000
+CREATED:20261005T112947Z
+DESCRIPTION:\nYou have been invited to a recurring meeting for Software Dev
+ elopment Lifecycle Common Control Catalog\n\n\n\nWays to join meeting:\n\n
+ 1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.lin
+ uxfoundation.org/meeting/96292319760?password=a023f03e-c2aa-46fb-aae3-5d93
+ c9d9664e\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,
+ \,96292319760#\,\,\,\,*289472# or +13462487799\,\,96292319760#\,\,\,\,*289
+ 472#\nUS (Android): +12532158782\;96292319760#\;289472# or +13462487799\;9
+ 6292319760#\;289472#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 o
+ r +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656
+  or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 3
+ 74 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438
+  809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 96
+ 292319760\n\nMeeting Passcode: 289472\n\n\nInternational numbers: https://
+ zoom.us/u/alwnPIaVT\n
+DTSTAMP:20261005T112947Z
+LAST-MODIFIED:20261005T112947Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760?
  password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e
-ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
+ORGANIZER;CN=Software Development Lifecycle Common Control Catalog:MAILTO:m
+ eetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=4;WKST=SU;BYDAY=MO
-SEQUENCE:2
-SUMMARY:SDLC Governance Framework Working Group Meeting - Short
+SEQUENCE:3
+SUMMARY:SDLC Common Controls Catalog Working Group Meeting - Short
 TZID:America/New_York
 TZNAME:America/New_York
 URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/962923
@@ -3400,23 +3465,23 @@ DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
 X-ALT-DESC;FMTTYPE=text/html;VALUE=TEXT:<html><body><br>\nYou have been inv
- ited to a recurring meeting for DevOps Automation<br>\n<br>\n<br>\n<br>\nW
- ays to join meeting:<br>\n<br>\n1. Join from PC\, Mac\, iPad\, or Android<
- br>\n<br>\n<a href="https://zoom-lfx.platform.linuxfoundation.org/meeting/
- 96292319760?password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e">https://zoom-lf
- x.platform.linuxfoundation.org/meeting/96292319760?password=a023f03e-c2aa-
- 46fb-aae3-5d93c9d9664e</a><br>\n<br>\n2. Join via audio<br>\n<br>\nOne tap
-  mobile:<br>\nUS (iOS): +12532158782\,\,96292319760#\,\,\,\,*289472# or +1
- 3462487799\,\,96292319760#\,\,\,\,*289472#<br>\nUS (Android): +12532158782
- \;96292319760#\;289472# or +13462487799\;96292319760#\;289472#<br>\n<br>\n
- Or dial:<br>\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or
-  +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (To
- ll Free) or 855 880 1246 (Toll Free)<br>\nCanada: +1 647 374 4685 or +1 64
- 7 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 
- 587 328 1099 or 855 703 8985 (Toll Free)<br>\n<br>\nMeeting ID: 9629231976
- 0<br>\n<br>\nMeeting Passcode: 289472<br>\n<br>\n<br>\nInternational numbe
- rs: <a href="https://zoom.us/u/alwnPIaVT">https://zoom.us/u/alwnPIaVT</a><
- br>\n</body></html>
+ ited to a recurring meeting for Software Development Lifecycle Common Cont
+ rol Catalog<br>\n<br>\n<br>\n<br>\nWays to join meeting:<br>\n<br>\n1. Joi
+ n from PC\, Mac\, iPad\, or Android<br>\n<br>\n<a href="https://zoom-lfx.p
+ latform.linuxfoundation.org/meeting/96292319760?password=a023f03e-c2aa-46f
+ b-aae3-5d93c9d9664e">https://zoom-lfx.platform.linuxfoundation.org/meeting
+ /96292319760?password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e</a><br>\n<br>\n
+ 2. Join via audio<br>\n<br>\nOne tap mobile:<br>\nUS (iOS): +12532158782\,
+ \,96292319760#\,\,\,\,*289472# or +13462487799\,\,96292319760#\,\,\,\,*289
+ 472#<br>\nUS (Android): +12532158782\;96292319760#\;289472# or +1346248779
+ 9\;96292319760#\;289472#<br>\n<br>\nOr dial:<br>\nUS: +1 253 215 8782 or +
+ 1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or
+  +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)<b
+ r>\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 20
+ 4 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Fre
+ e)<br>\n<br>\nMeeting ID: 96292319760<br>\n<br>\nMeeting Passcode: 289472<
+ br>\n<br>\n<br>\nInternational numbers: <a href="https://zoom.us/u/alwnPIa
+ VT">https://zoom.us/u/alwnPIaVT</a><br>\n</body></html>
 X-MEETING-ID:96292319760
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
