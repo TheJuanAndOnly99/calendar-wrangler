@@ -3130,7 +3130,7 @@ BEGIN:VEVENT
 UID:99090239193
 DTSTART;TZID=America/New_York:20260106T110000
 DTEND;TZID=America/New_York:20260106T120000
-CREATED:20260928T201054Z
+CREATED:20261012T151729Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for AI Readiness
  \n\nAI Readiness SIG bi-weekly meeting\n\nWays to join meeting:\n\n1. Join
   from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfound
@@ -3145,7 +3145,7 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for AI Readiness
  99 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 990902391
  93\n\nMeeting Passcode: 092267\n\n\nInternational numbers: https://zoom.us
  /u/alwnPIaVT\n
-DTSTAMP:20260928T201054Z
+DTSTAMP:20261012T151729Z
 EXDATE;TZID=America/New_York:20260217T110000
 EXDATE;TZID=America/New_York:20260526T110000
 EXDATE;TZID=America/New_York:20260623T110000
@@ -3154,12 +3154,13 @@ EXDATE;TZID=America/New_York:20260804T110000
 EXDATE;TZID=America/New_York:20260818T110000
 EXDATE;TZID=America/New_York:20260901T110000
 EXDATE;TZID=America/New_York:20260929T110000
-LAST-MODIFIED:20260928T201054Z
+EXDATE;TZID=America/New_York:20261013T110000
+LAST-MODIFIED:20261012T151729Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99090239193?
  password=f3797488-6467-44c9-8976-9b50e42cbdff
 ORGANIZER;CN=AI Readiness:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=TU
-SEQUENCE:6
+SEQUENCE:7
 SUMMARY:AI Readiness SIG
 TZID:America/New_York
 TZNAME:America/New_York
