@@ -1486,7 +1486,7 @@ BEGIN:VEVENT
 UID:91492872876
 DTSTART;TZID=America/New_York:20260108T100000
 DTEND;TZID=America/New_York:20260108T110000
-CREATED:20260622T131701Z
+CREATED:20261015T005759Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Zenith\n\nZe
  nith - Emerging Technologies SIG bi-weekly meeting\n\nWays to join meeting
  :\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platfor
@@ -1501,16 +1501,17 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Zenith\n\nZe
  1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting I
  D: 91492872876\n\nMeeting Passcode: 745965\n\n\nInternational numbers: htt
  ps://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260622T131701Z
+DTSTAMP:20261015T005759Z
 EXDATE;TZID=America/New_York:20260416T100000
 EXDATE;TZID=America/New_York:20260528T100000
 EXDATE;TZID=America/New_York:20260625T100000
-LAST-MODIFIED:20260622T131701Z
+EXDATE;TZID=America/New_York:20261015T100000
+LAST-MODIFIED:20261015T005759Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/91492872876?
  password=af9079e0-fb86-418d-803b-1373ec1fb143
 ORGANIZER;CN=Zenith:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20280101T000000Z;BYDAY=TH
-SEQUENCE:1
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=TH
+SEQUENCE:2
 SUMMARY:Zenith - Emerging Technologies SIG
 TZID:America/New_York
 TZNAME:America/New_York
@@ -1521,6 +1522,24 @@ ACTION:DISPLAY
 DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
+X-ALT-DESC;FMTTYPE=text/html;VALUE=TEXT:<html><body><br>\nYou have been inv
+ ited to a recurring meeting for Zenith<br>\n<br>\nZenith - Emerging Techno
+ logies SIG bi-weekly meeting<br>\n<br>\nWays to join meeting:<br>\n<br>\n1
+ . Join from PC\, Mac\, iPad\, or Android<br>\n<br>\n<a href="https://zoom-
+ lfx.platform.linuxfoundation.org/meeting/91492872876?password=af9079e0-fb8
+ 6-418d-803b-1373ec1fb143">https://zoom-lfx.platform.linuxfoundation.org/me
+ eting/91492872876?password=af9079e0-fb86-418d-803b-1373ec1fb143</a><br>\n<
+ br>\n2. Join via audio<br>\n<br>\nOne tap mobile:<br>\nUS (iOS): +12532158
+ 782\,\,91492872876#\,\,\,\,*745965# or +13462487799\,\,91492872876#\,\,\,\
+ ,*745965#<br>\nUS (Android): +12532158782\;91492872876#\;745965# or +13462
+ 487799\;91492872876#\;745965#<br>\n<br>\nOr dial:<br>\nUS: +1 253 215 8782
+  or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 67
+ 99 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Fr
+ ee)<br>\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 or 
+ +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Tol
+ l Free)<br>\n<br>\nMeeting ID: 91492872876<br>\n<br>\nMeeting Passcode: 74
+ 5965<br>\n<br>\n<br>\nInternational numbers: <a href="https://zoom.us/u/al
+ wnPIaVT">https://zoom.us/u/alwnPIaVT</a><br>\n</body></html>
 X-MEETING-ID:91492872876
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
