@@ -1380,51 +1380,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:99544858218
-DTSTART;TZID=America/New_York:20260514T113000
-DTEND;TZID=America/New_York:20260514T120000
-CREATED:20260731T090002Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
-  Controls\n\nGitHub: https://github.com/finos/common-cloud-controls\n\nWay
- s to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps:/
- /zoom-lfx.platform.linuxfoundation.org/meeting/99544858218?password=18b1e0
- 2c-7903-4eb6-a0d5-63284ae5af3b\n\n2. Join via audio\n\nOne tap mobile:\nUS
-  (iOS): +12532158782\,\,99544858218#\,\,\,\,*883975# or +13462487799\,\,99
- 544858218#\,\,\,\,*883975#\nUS (Android): +12532158782\;99544858218#\;8839
- 75# or +13462487799\;99544858218#\;883975#\n\nOr dial:\nUS: +1 253 215 878
- 2 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6
- 799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll F
- ree)\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 
- 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll F
- ree)\n\nMeeting ID: 99544858218\n\nMeeting Passcode: 883975\n\n\nInternati
- onal numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260731T090002Z
-EXDATE;TZID=America/New_York:20260813T113000
-LAST-MODIFIED:20260731T090002Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99544858218?
- password=18b1e02c-7903-4eb6-a0d5-63284ae5af3b
-ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20260709T160000Z;BYDAY=TH
-SEQUENCE:2
-SUMMARY:CCC - Working Group: Website Improvement
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/995448
- 58218?password=18b1e02c-7903-4eb6-a0d5-63284ae5af3b
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-X-MEETING-ID:99544858218
-X-OCCURRENCE-ID:
-X-REGISTRANT-ID:
-END:VEVENT
-BEGIN:VEVENT
 UID:99544858218:2026-07-16T15:30:00Z
 DTSTART;TZID=America/New_York:20260716T113000
 DTEND;TZID=America/New_York:20260716T120000
-CREATED:20260731T090002Z
+CREATED:20261019T150901Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   Controls\n\nGitHub: https://github.com/finos/common-cloud-controls\n\nWay
  s to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps:/
@@ -1439,14 +1398,15 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
  204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll F
  ree)\n\nMeeting ID: 99544858218\n\nMeeting Passcode: 883975\n\n\nInternati
  onal numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260731T090002Z
+DTSTAMP:20261019T150901Z
 EXDATE;TZID=America/New_York:20260813T113000
-LAST-MODIFIED:20260731T090002Z
+EXDATE;TZID=America/New_York:20261105T113000
+LAST-MODIFIED:20261019T150901Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99544858218?
  password=18b1e02c-7903-4eb6-a0d5-63284ae5af3b
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=TH
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:CCC - Working Group: Website Improvement
 TZID:America/New_York
 TZNAME:America/New_York
@@ -1457,6 +1417,25 @@ ACTION:DISPLAY
 DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
+X-ALT-DESC;FMTTYPE=text/html;VALUE=TEXT:<html><body><br>\nYou have been inv
+ ited to a recurring meeting for Common Cloud Controls<br>\n<br>\nGitHub: <
+ a href="https://github.com/finos/common-cloud-controls">https://github.com
+ /finos/common-cloud-controls</a><br>\n<br>\nWays to join meeting:<br>\n<br
+ >\n1. Join from PC\, Mac\, iPad\, or Android<br>\n<br>\n<a href="https://z
+ oom-lfx.platform.linuxfoundation.org/meeting/99544858218?password=18b1e02c
+ -7903-4eb6-a0d5-63284ae5af3b">https://zoom-lfx.platform.linuxfoundation.or
+ g/meeting/99544858218?password=18b1e02c-7903-4eb6-a0d5-63284ae5af3b</a><br
+ >\n<br>\n2. Join via audio<br>\n<br>\nOne tap mobile:<br>\nUS (iOS): +1253
+ 2158782\,\,99544858218#\,\,\,\,*883975# or +13462487799\,\,99544858218#\,\
+ ,\,\,*883975#<br>\nUS (Android): +12532158782\;99544858218#\;883975# or +1
+ 3462487799\;99544858218#\;883975#<br>\n<br>\nOr dial:<br>\nUS: +1 253 215 
+ 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 62
+ 6 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Tol
+ l Free)<br>\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071
+  or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 
+ (Toll Free)<br>\n<br>\nMeeting ID: 99544858218<br>\n<br>\nMeeting Passcode
+ : 883975<br>\n<br>\n<br>\nInternational numbers: <a href="https://zoom.us/
+ u/alwnPIaVT">https://zoom.us/u/alwnPIaVT</a><br>\n</body></html>
 X-MEETING-ID:99544858218
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
@@ -2208,51 +2187,6 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:95780953406
-DTSTART;TZID=America/New_York:20260312T060000
-DTEND;TZID=America/New_York:20260312T063000
-CREATED:20260917T100355Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
-  Controls\n\nThe mission of the Compliant Financial Infrastructure WG is t
- o help deliver implementations of the CCC standards across different compu
- ting environments (e.g. cloud infrastructure).\nThe purpose of this group 
- is to help ensure uniformity\, quality and discoverability of the implemen
- tations\, and ensure that they are passing automated checks designed to te
- st their compliance with the CCC standards.\n\nWays to join meeting:\n\n1.
-  Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linux
- foundation.org/meeting/95780953406?password=4be05216-d763-4eb3-8288-8fbb69
- ed298f\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,\,
- 95780953406#\,\,\,\,*424978# or +13462487799\,\,95780953406#\,\,\,\,*42497
- 8#\nUS (Android): +12532158782\;95780953406#\;424978# or +13462487799\;957
- 80953406#\;424978#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 or 
- +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 o
- r 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 374
-  4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 8
- 09 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 9578
- 0953406\n\nMeeting Passcode: 424978\n\n\nInternational numbers: https://zo
- om.us/u/alwnPIaVT\n
-DTSTAMP:20260917T100355Z
-LAST-MODIFIED:20260917T100355Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95780953406?
- password=4be05216-d763-4eb3-8288-8fbb69ed298f
-ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;UNTIL=20260702T103000Z;BYDAY=TH
-SEQUENCE:2
-SUMMARY:CCC- Working Group: Compliant Financial Infrastructure (EU/APAC)
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/957809
- 53406?password=4be05216-d763-4eb3-8288-8fbb69ed298f
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-X-MEETING-ID:95780953406
-X-OCCURRENCE-ID:
-X-REGISTRANT-ID:
-END:VEVENT
-BEGIN:VEVENT
 UID:92852768369
 DTSTART;TZID=Europe/London:20260629T140000
 DTEND;TZID=Europe/London:20260629T150000
@@ -2922,55 +2856,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:95780953406:2026-07-09T10:00:00Z
-DTSTART;TZID=America/New_York:20260709T060000
-DTEND;TZID=America/New_York:20260709T063000
-CREATED:20260917T100355Z
-DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
-  Controls\n\nThe mission of the Compliant Financial Infrastructure WG is t
- o help deliver implementations of the CCC standards across different compu
- ting environments (e.g. cloud infrastructure).\nThe purpose of this group 
- is to help ensure uniformity\, quality and discoverability of the implemen
- tations\, and ensure that they are passing automated checks designed to te
- st their compliance with the CCC standards.\n\nWays to join meeting:\n\n1.
-  Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linux
- foundation.org/meeting/95780953406?password=4be05216-d763-4eb3-8288-8fbb69
- ed298f\n\n2. Join via audio\n\nOne tap mobile:\nUS (iOS): +12532158782\,\,
- 95780953406#\,\,\,\,*424978# or +13462487799\,\,95780953406#\,\,\,\,*42497
- 8#\nUS (Android): +12532158782\;95780953406#\;424978# or +13462487799\;957
- 80953406#\;424978#\n\nOr dial:\nUS: +1 253 215 8782 or +1 346 248 7799 or 
- +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8656 o
- r 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)\nCanada: +1 647 374
-  4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 8
- 09 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 9578
- 0953406\n\nMeeting Passcode: 424978\n\n\nInternational numbers: https://zo
- om.us/u/alwnPIaVT\n
-DTSTAMP:20260917T100355Z
-LAST-MODIFIED:20260917T100355Z
-LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95780953406?
- password=4be05216-d763-4eb3-8288-8fbb69ed298f
-ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;UNTIL=20260917T103000Z;BYDAY=TH
-SEQUENCE:2
-SUMMARY:CCC- Working Group: Compliant Financial Infrastructure (EU/APAC)
-TZID:America/New_York
-TZNAME:America/New_York
-URL;VALUE=TEXT:https://zoom-lfx.platform.linuxfoundation.org/meeting/957809
- 53406?password=4be05216-d763-4eb3-8288-8fbb69ed298f
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Meeting reminder
-TRIGGER:-PT10M
-END:VALARM
-X-MEETING-ID:95780953406
-X-OCCURRENCE-ID:
-X-REGISTRANT-ID:
-END:VEVENT
-BEGIN:VEVENT
 UID:95780953406:2026-09-24T10:30:00Z
 DTSTART;TZID=America/New_York:20260924T063000
 DTEND;TZID=America/New_York:20260924T070000
-CREATED:20260917T100355Z
+CREATED:20261019T150907Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   Controls\n\nThe mission of the Compliant Financial Infrastructure WG is t
  o help deliver implementations of the CCC standards across different compu
@@ -2990,13 +2879,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
  09 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 9578
  0953406\n\nMeeting Passcode: 424978\n\n\nInternational numbers: https://zo
  om.us/u/alwnPIaVT\n
-DTSTAMP:20260917T100355Z
-LAST-MODIFIED:20260917T100355Z
+DTSTAMP:20261019T150907Z
+EXDATE;TZID=America/New_York:20261105T063000
+LAST-MODIFIED:20261019T150907Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95780953406?
  password=4be05216-d763-4eb3-8288-8fbb69ed298f
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;BYDAY=TH
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:CCC- Working Group: Compliant Financial Infrastructure (EU/APAC)
 TZID:America/New_York
 TZNAME:America/New_York
@@ -3007,6 +2897,29 @@ ACTION:DISPLAY
 DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
+X-ALT-DESC;FMTTYPE=text/html;VALUE=TEXT:<html><body><br>\nYou have been inv
+ ited to a recurring meeting for Common Cloud Controls<br>\n<br>\nThe missi
+ on of the Compliant Financial Infrastructure WG is to help deliver impleme
+ ntations of the CCC standards across different computing environments (e.g
+ . cloud infrastructure).<br>\nThe purpose of this group is to help ensure 
+ uniformity\, quality and discoverability of the implementations\, and ensu
+ re that they are passing automated checks designed to test their complianc
+ e with the CCC standards.<br>\n<br>\nWays to join meeting:<br>\n<br>\n1. J
+ oin from PC\, Mac\, iPad\, or Android<br>\n<br>\n<a href="https://zoom-lfx
+ .platform.linuxfoundation.org/meeting/95780953406?password=4be05216-d763-4
+ eb3-8288-8fbb69ed298f">https://zoom-lfx.platform.linuxfoundation.org/meeti
+ ng/95780953406?password=4be05216-d763-4eb3-8288-8fbb69ed298f</a><br>\n<br>
+ \n2. Join via audio<br>\n<br>\nOne tap mobile:<br>\nUS (iOS): +12532158782
+ \,\,95780953406#\,\,\,\,*424978# or +13462487799\,\,95780953406#\,\,\,\,*4
+ 24978#<br>\nUS (Android): +12532158782\;95780953406#\;424978# or +13462487
+ 799\;95780953406#\;424978#<br>\n<br>\nOr dial:<br>\nUS: +1 253 215 8782 or
+  +1 346 248 7799 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 
+ or +1 646 374 8656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)
+ <br>\nCanada: +1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 
+ 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll F
+ ree)<br>\n<br>\nMeeting ID: 95780953406<br>\n<br>\nMeeting Passcode: 42497
+ 8<br>\n<br>\n<br>\nInternational numbers: <a href="https://zoom.us/u/alwnP
+ IaVT">https://zoom.us/u/alwnPIaVT</a><br>\n</body></html>
 X-MEETING-ID:95780953406
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
@@ -4097,7 +4010,7 @@ BEGIN:VEVENT
 UID:99536057059
 DTSTART;TZID=America/New_York:20260204T100000
 DTEND;TZID=America/New_York:20260204T110000
-CREATED:20260121T154505Z
+CREATED:20261019T150718Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Open Source 
  Readiness Special Interest Group\n\nFINOS Open Source Readiness Special In
  terest Group.\nGithub: https://github.com/finos/open-source-readiness/issu
@@ -4113,13 +4026,15 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Open Source
  71 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 898
  5 (Toll Free)\n\nMeeting ID: 99536057059\n\nMeeting Passcode: 372322\n\n\n
  International numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260121T154505Z
-LAST-MODIFIED:20260121T154505Z
+DTSTAMP:20261019T150718Z
+EXDATE;TZID=America/New_York:20261104T100000
+LAST-MODIFIED:20261019T150718Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99536057059?
  password=2a772de5-8e26-4f8e-b026-97da76952ad6
 ORGANIZER;CN=Open Source Readiness Special Interest Group:MAILTO:meetings@l
  fx.dev
-RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;UNTIL=20280101T000000Z;BYDAY=+1WE
+RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+1WE
+SEQUENCE:1
 SUMMARY:Open Source Readiness SIG
 TZID:America/New_York
 TZNAME:America/New_York
@@ -4130,6 +4045,27 @@ ACTION:DISPLAY
 DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
+X-ALT-DESC;FMTTYPE=text/html;VALUE=TEXT:<html><body><br>\nYou have been inv
+ ited to a recurring meeting for Open Source Readiness Special Interest Gro
+ up<br>\n<br>\nFINOS Open Source Readiness Special Interest Group.<br>\nGit
+ hub: <a href="https://github.com/finos/open-source-readiness/issues">https
+ ://github.com/finos/open-source-readiness/issues</a><br>\n<br>\nWays to jo
+ in meeting:<br>\n<br>\n1. Join from PC\, Mac\, iPad\, or Android<br>\n<br>
+ \n<a href="https://zoom-lfx.platform.linuxfoundation.org/meeting/995360570
+ 59?password=2a772de5-8e26-4f8e-b026-97da76952ad6">https://zoom-lfx.platfor
+ m.linuxfoundation.org/meeting/99536057059?password=2a772de5-8e26-4f8e-b026
+ -97da76952ad6</a><br>\n<br>\n2. Join via audio<br>\n<br>\nOne tap mobile:<
+ br>\nUS (iOS): +12532158782\,\,99536057059#\,\,\,\,*372322# or +1346248779
+ 9\,\,99536057059#\,\,\,\,*372322#<br>\nUS (Android): +12532158782\;9953605
+ 7059#\;372322# or +13462487799\;99536057059#\;372322#<br>\n<br>\nOr dial:<
+ br>\nUS: +1 253 215 8782 or +1 346 248 7799 or +1 669 900 6833 or +1 301 7
+ 15 8592 or +1 312 626 6799 or +1 646 374 8656 or 877 369 0926 (Toll Free) 
+ or 855 880 1246 (Toll Free)<br>\nCanada: +1 647 374 4685 or +1 647 558 058
+ 8 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1
+ 099 or 855 703 8985 (Toll Free)<br>\n<br>\nMeeting ID: 99536057059<br>\n<b
+ r>\nMeeting Passcode: 372322<br>\n<br>\n<br>\nInternational numbers: <a hr
+ ef="https://zoom.us/u/alwnPIaVT">https://zoom.us/u/alwnPIaVT</a><br>\n</bo
+ dy></html>
 X-MEETING-ID:99536057059
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
