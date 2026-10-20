@@ -1143,7 +1143,7 @@ BEGIN:VEVENT
 UID:92172584188
 DTSTART;TZID=America/New_York:20260520T100000
 DTEND;TZID=America/New_York:20260520T110000
-CREATED:20260908T161852Z
+CREATED:20261020T134626Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -1158,18 +1158,19 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  92172584188\n\nMeeting Passcode: 886399\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20260908T161852Z
+DTSTAMP:20261020T134626Z
 EXDATE;TZID=America/New_York:20260520T100000
 EXDATE;TZID=America/New_York:20260617T100000
 EXDATE;TZID=America/New_York:20260715T100000
 EXDATE;TZID=America/New_York:20260819T100000
 EXDATE;TZID=America/New_York:20260916T100000
-LAST-MODIFIED:20260908T161852Z
+EXDATE;TZID=America/New_York:20261021T100000
+LAST-MODIFIED:20261020T134626Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/92172584188?
  password=cf35c343-0e3e-49e3-9dae-117c6f6accb8
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
 RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+3WE
-SEQUENCE:3
+SEQUENCE:4
 SUMMARY:CDM Tokenized Assets Working Group
 TZID:America/New_York
 TZNAME:America/New_York
@@ -1180,6 +1181,25 @@ ACTION:DISPLAY
 DESCRIPTION:Meeting reminder
 TRIGGER:-PT10M
 END:VALARM
+X-ALT-DESC;FMTTYPE=text/html;VALUE=TEXT:<html><body><br>\nYou have been inv
+ ited to a recurring meeting for CDM<br>\n<br>\nGitHub: <a href="https://gi
+ thub.com/finos/common-domain-model">https://github.com/finos/common-domain
+ -model</a><br>\n<br>\nWays to join meeting:<br>\n<br>\n1. Join from PC\, M
+ ac\, iPad\, or Android<br>\n<br>\n<a href="https://zoom-lfx.platform.linux
+ foundation.org/meeting/92172584188?password=cf35c343-0e3e-49e3-9dae-117c6f
+ 6accb8">https://zoom-lfx.platform.linuxfoundation.org/meeting/92172584188?
+ password=cf35c343-0e3e-49e3-9dae-117c6f6accb8</a><br>\n<br>\n2. Join via a
+ udio<br>\n<br>\nOne tap mobile:<br>\nUS (iOS): +12532158782\,\,92172584188
+ #\,\,\,\,*886399# or +13462487799\,\,92172584188#\,\,\,\,*886399#<br>\nUS 
+ (Android): +12532158782\;92172584188#\;886399# or +13462487799\;9217258418
+ 8#\;886399#<br>\n<br>\nOr dial:<br>\nUS: +1 253 215 8782 or +1 346 248 779
+ 9 or +1 669 900 6833 or +1 301 715 8592 or +1 312 626 6799 or +1 646 374 8
+ 656 or 877 369 0926 (Toll Free) or 855 880 1246 (Toll Free)<br>\nCanada: +
+ 1 647 374 4685 or +1 647 558 0588 or +1 778 907 2071 or +1 204 272 7920 or
+  +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)<br>\n<br>\
+ nMeeting ID: 92172584188<br>\n<br>\nMeeting Passcode: 886399<br>\n<br>\n<b
+ r>\nInternational numbers: <a href="https://zoom.us/u/alwnPIaVT">https://z
+ oom.us/u/alwnPIaVT</a><br>\n</body></html>
 X-MEETING-ID:92172584188
 X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
