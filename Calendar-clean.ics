@@ -1400,10 +1400,10 @@ X-OCCURRENCE-ID:
 X-REGISTRANT-ID:
 END:VEVENT
 BEGIN:VEVENT
-UID:99544858218:2026-07-16T15:30:00Z
-DTSTART;TZID=America/New_York:20260716T113000
-DTEND;TZID=America/New_York:20260716T120000
-CREATED:20261019T150901Z
+UID:99544858218
+DTSTART;TZID=America/New_York:20261022T113000
+DTEND;TZID=America/New_York:20261022T120000
+CREATED:20261022T153910Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   Controls\n\nGitHub: https://github.com/finos/common-cloud-controls\n\nWay
  s to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps:/
@@ -1418,15 +1418,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
  204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll F
  ree)\n\nMeeting ID: 99544858218\n\nMeeting Passcode: 883975\n\n\nInternati
  onal numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261019T150901Z
-EXDATE;TZID=America/New_York:20260813T113000
+DTSTAMP:20261022T153910Z
 EXDATE;TZID=America/New_York:20261105T113000
-LAST-MODIFIED:20261019T150901Z
+LAST-MODIFIED:20261022T153910Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99544858218?
  password=18b1e02c-7903-4eb6-a0d5-63284ae5af3b
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
-RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=TH
-SEQUENCE:3
+RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;UNTIL=20261022T160000Z;BYDAY=TH
+SEQUENCE:4
 SUMMARY:CCC - Working Group: Website Improvement
 TZID:America/New_York
 TZNAME:America/New_York
