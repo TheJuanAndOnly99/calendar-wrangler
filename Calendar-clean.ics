@@ -1425,7 +1425,7 @@ BEGIN:VEVENT
 UID:94632795756
 DTSTART;TZID=America/New_York:20260107T120000
 DTEND;TZID=America/New_York:20260107T130000
-CREATED:20261103T004633Z
+CREATED:20261103T181412Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Open Source 
  Talent Acceleration Special Interest Group\n\nSEE AGENDA here:\nhttps://gi
  thub.com/finos/open-source-talent-acceleration/issues\nFor more informatio
@@ -1442,15 +1442,16 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Open Source
  1 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985
   (Toll Free)\n\nMeeting ID: 94632795756\n\nMeeting Passcode: 710199\n\n\nI
  nternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261103T004633Z
+DTSTAMP:20261103T181412Z
 EXDATE;TZID=America/New_York:20260401T120000
-LAST-MODIFIED:20261103T004633Z
+EXDATE;TZID=America/New_York:20261104T120000
+LAST-MODIFIED:20261103T181412Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94632795756?
  password=4954c4ab-bf76-4e17-be6a-3e681e77172e
 ORGANIZER;CN=Open Source Talent Acceleration Special Interest Group:MAILTO:
  meetings@lfx.dev
 RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+1WE
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Open Source Talent Acceleration SIG - Monthly Meeting
 TZID:America/New_York
 TZNAME:America/New_York
