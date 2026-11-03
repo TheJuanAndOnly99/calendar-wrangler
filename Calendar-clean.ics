@@ -499,7 +499,7 @@ BEGIN:VEVENT
 UID:94905862800
 DTSTART;TZID=America/New_York:20250915T090000
 DTEND;TZID=America/New_York:20250915T100000
-CREATED:20261102T193824Z
+CREATED:20261103T004528Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  intech Open Source Foundation)\n\nAI DTCC Hackathon Winner CyberThirdEye T
  eam weekly call.\nGitHub: https://github.com/finos-labs/dtcch-2025-cypher-
@@ -515,10 +515,10 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
   907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 
  703 8985 (Toll Free)\n\nMeeting ID: 94905862800\n\nMeeting Passcode: 31432
  8\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193824Z
+DTSTAMP:20261103T004528Z
 EXDATE;TZID=America/New_York:20251229T090000
 EXDATE;TZID=America/New_York:20260622T090000
-LAST-MODIFIED:20261102T193824Z
+LAST-MODIFIED:20261103T004528Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94905862800?
  password=5902a3ee-fc40-4347-876b-89a3973278bc
 ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
@@ -564,7 +564,7 @@ BEGIN:VEVENT
 UID:95252800112:2026-07-20T13:00:00Z
 DTSTART;TZID=America/New_York:20260720T090000
 DTEND;TZID=America/New_York:20260720T100000
-CREATED:20261102T193748Z
+CREATED:20261103T004629Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3 Sail\n\
  nFDC3-Sail is FINOS's open source implementation of the FDC3 interoperabil
  ity standard\, a browser based desktop agent that lets financial apps talk
@@ -585,8 +585,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3 Sail\n\
  8 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 9
  5252800112\n\nMeeting Passcode: 001816\n\n\nInternational numbers: https:/
  /zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193748Z
-LAST-MODIFIED:20261102T193748Z
+DTSTAMP:20261103T004629Z
+LAST-MODIFIED:20261103T004629Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95252800112?
  password=90638454-991c-4ab0-8aed-791fc372623c
 ORGANIZER;CN=FDC3 Sail:MAILTO:meetings@lfx.dev
@@ -634,7 +634,7 @@ BEGIN:VEVENT
 UID:96571699438
 DTSTART;TZID=America/New_York:20260414T110000
 DTEND;TZID=America/New_York:20260414T120000
-CREATED:20261102T193950Z
+CREATED:20261103T004622Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -649,8 +649,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  96571699438\n\nMeeting Passcode: 516671\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193950Z
-LAST-MODIFIED:20261102T193950Z
+DTSTAMP:20261103T004622Z
+LAST-MODIFIED:20261103T004622Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96571699438?
  password=8a8b1c3f-2ccd-46ce-99b5-42e173e48c74
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
@@ -694,7 +694,7 @@ UID:96571699438
 RECURRENCE-ID;TZID=America/New_York:20261110T110000
 DTSTART;TZID=America/New_York:20261111T110000
 DTEND;TZID=America/New_York:20261111T120000
-CREATED:20261102T193950Z
+CREATED:20261103T004622Z
 DESCRIPTION:\nYou have been invited to a meeting for CDM\n\nGitHub: https:/
  /github.com/finos/common-domain-model\n\nWays to join meeting:\n\n1. Join 
  from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfounda
@@ -709,8 +709,8 @@ DESCRIPTION:\nYou have been invited to a meeting for CDM\n\nGitHub: https:/
  9 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 9657169943
  8\n\nMeeting Passcode: 516671\n\n\nInternational numbers: https://zoom.us/
  u/alwnPIaVT\n
-DTSTAMP:20261102T193950Z
-LAST-MODIFIED:20261102T193950Z
+DTSTAMP:20261103T004622Z
+LAST-MODIFIED:20261103T004622Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96571699438?
  password=8a8b1c3f-2ccd-46ce-99b5-42e173e48c74
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
@@ -749,7 +749,7 @@ BEGIN:VEVENT
 UID:96826203663:2026-04-16T14:00:00Z
 DTSTART;TZID=America/New_York:20260416T100000
 DTEND;TZID=America/New_York:20260416T110000
-CREATED:20261102T193800Z
+CREATED:20261103T004513Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Morphir\n\nB
  i-weekly Morphir project meeting.\n\nWays to join meeting:\n\n1. Join from
   PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundation
@@ -764,8 +764,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Morphir\n\nB
   +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 96826203663\n\
  nMeeting Passcode: 256199\n\n\nInternational numbers: https://zoom.us/u/al
  wnPIaVT\n
-DTSTAMP:20261102T193800Z
-LAST-MODIFIED:20261102T193800Z
+DTSTAMP:20261103T004513Z
+LAST-MODIFIED:20261103T004513Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96826203663?
  password=32129227-1c0f-47a4-b71a-26b87aa7c2a9
 ORGANIZER;CN=Morphir:MAILTO:meetings@lfx.dev
@@ -807,7 +807,7 @@ BEGIN:VEVENT
 UID:95756611623:2026-10-01T15:00:00Z
 DTSTART;TZID=America/New_York:20261001T110000
 DTEND;TZID=America/New_York:20261001T120000
-CREATED:20261102T193829Z
+CREATED:20261103T004641Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   Controls\n\nGeneral meeting for all things Common Cloud Controls\nSite: c
  cc.finos.org\nGitHub: https://github.com/finos/common-cloud-controls\n\nWa
@@ -823,8 +823,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll 
  Free)\n\nMeeting ID: 95756611623\n\nMeeting Passcode: 052748\n\n\nInternat
  ional numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193829Z
-LAST-MODIFIED:20261102T193829Z
+DTSTAMP:20261103T004641Z
+LAST-MODIFIED:20261103T004641Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95756611623?
  password=64d02ae0-6cec-428f-87a0-cb8be5f39945
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
@@ -868,7 +868,7 @@ BEGIN:VEVENT
 UID:94448504669
 DTSTART;TZID=Europe/London:20250924T083000
 DTEND;TZID=Europe/London:20250924T110000
-CREATED:20261102T193834Z
+CREATED:20261103T004732Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  d Engineer Community\n\nDistinguished Engineer Community Quarterly SIG Mee
  ting\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android
@@ -883,8 +883,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8
  985 (Toll Free)\n\nMeeting ID: 94448504669\n\nMeeting Passcode: 576341\n\n
  \nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193834Z
-LAST-MODIFIED:20261102T193834Z
+DTSTAMP:20261103T004732Z
+LAST-MODIFIED:20261103T004732Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?
  password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0
 ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
@@ -928,7 +928,7 @@ UID:94448504669
 RECURRENCE-ID;TZID=Europe/London:20261223T083000
 DTSTART;TZID=Europe/London:20261211T143000
 DTEND;TZID=Europe/London:20261211T160000
-CREATED:20261102T193834Z
+CREATED:20261103T004732Z
 DESCRIPTION:\nYou have been invited to a meeting for Distinguished Engineer
   Community\n\nDistinguished Engineer Community Quarterly SIG Meeting\n\nWa
  ys to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps:
@@ -943,8 +943,8 @@ DESCRIPTION:\nYou have been invited to a meeting for Distinguished Engineer
   204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll 
  Free)\n\nMeeting ID: 94448504669\n\nMeeting Passcode: 576341\n\n\nInternat
  ional numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193834Z
-LAST-MODIFIED:20261102T193834Z
+DTSTAMP:20261103T004732Z
+LAST-MODIFIED:20261103T004732Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?
  password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0
 ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
@@ -983,7 +983,7 @@ BEGIN:VEVENT
 UID:99138676105:2026-01-21T16:00:00Z
 DTSTART;TZID=America/Los_Angeles:20260121T080000
 DTEND;TZID=America/Los_Angeles:20260121T090000
-CREATED:20261102T193826Z
+CREATED:20261103T004444Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for OS-Climate\n
  \n\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n
  \nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/99138676105?passwo
@@ -997,8 +997,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for OS-Climate\n
  71 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 898
  5 (Toll Free)\n\nMeeting ID: 99138676105\n\nMeeting Passcode: 840604\n\n\n
  International numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193826Z
-LAST-MODIFIED:20261102T193826Z
+DTSTAMP:20261103T004444Z
+LAST-MODIFIED:20261103T004444Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99138676105?
  password=b1dc5618-5eba-404f-b44e-8d5d6de122e6
 ORGANIZER;CN=OS-Climate:MAILTO:meetings@lfx.dev
@@ -1040,7 +1040,7 @@ BEGIN:VEVENT
 UID:97317265591
 DTSTART;TZID=America/New_York:20260317T100000
 DTEND;TZID=America/New_York:20260317T110000
-CREATED:20261102T193831Z
+CREATED:20261103T004502Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3\n\nFDC3
   General Meeting\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\
  , or Android\n\nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/9731
@@ -1054,13 +1054,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3\n\nFDC3
   +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 
  or 855 703 8985 (Toll Free)\n\nMeeting ID: 97317265591\n\nMeeting Passcode
  : 589226\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193831Z
+DTSTAMP:20261103T004502Z
 EXDATE;TZID=America/New_York:20260616T100000
 EXDATE;TZID=America/New_York:20261215T100000
 EXDATE;TZID=America/New_York:20270615T100000
 EXDATE;TZID=America/New_York:20271221T100000
 EXDATE;TZID=America/New_York:20280620T100000
-LAST-MODIFIED:20261102T193831Z
+LAST-MODIFIED:20261103T004502Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/97317265591?
  password=9dfb7027-5eff-41dd-8ce9-61e9c7da2f44
 ORGANIZER;CN=FDC3:MAILTO:meetings@lfx.dev
@@ -1102,7 +1102,7 @@ BEGIN:VEVENT
 UID:92172584188
 DTSTART;TZID=America/New_York:20260520T100000
 DTEND;TZID=America/New_York:20260520T110000
-CREATED:20261102T193811Z
+CREATED:20261103T004600Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -1117,14 +1117,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  92172584188\n\nMeeting Passcode: 886399\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193811Z
+DTSTAMP:20261103T004600Z
 EXDATE;TZID=America/New_York:20260520T100000
 EXDATE;TZID=America/New_York:20260617T100000
 EXDATE;TZID=America/New_York:20260715T100000
 EXDATE;TZID=America/New_York:20260819T100000
 EXDATE;TZID=America/New_York:20260916T100000
 EXDATE;TZID=America/New_York:20261021T100000
-LAST-MODIFIED:20261102T193811Z
+LAST-MODIFIED:20261103T004600Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/92172584188?
  password=cf35c343-0e3e-49e3-9dae-117c6f6accb8
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
@@ -1167,7 +1167,7 @@ BEGIN:VEVENT
 UID:94786708589
 DTSTART;TZID=America/New_York:20260226T120000
 DTEND;TZID=America/New_York:20260226T123000
-CREATED:20261102T193802Z
+CREATED:20261103T004637Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   Controls\n\nThe mission of the Compliant Financial Infrastructure WG is t
  o help deliver implementations of the CCC standards across different compu
@@ -1188,11 +1188,11 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
  328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 94786708589\n\nMeeting
   Passcode: 086087\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\
  n
-DTSTAMP:20261102T193802Z
+DTSTAMP:20261103T004637Z
 EXDATE;TZID=America/New_York:20260528T120000
 EXDATE;TZID=America/New_York:20260625T120000
 EXDATE;TZID=America/New_York:20260723T120000
-LAST-MODIFIED:20261102T193802Z
+LAST-MODIFIED:20261103T004637Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94786708589?
  password=292562aa-0bc9-4742-a150-1dd7a7586392
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
@@ -1241,7 +1241,7 @@ BEGIN:VEVENT
 UID:95777542144
 DTSTART;TZID=America/New_York:20261027T100000
 DTEND;TZID=America/New_York:20261027T110000
-CREATED:20261102T193928Z
+CREATED:20261103T004713Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for AI Evaluatio
  n Framework\n\nStanding agenda:\n- Introductions and community updates\n- 
  Review of previous minutes\n- Current areas of interest and discussion\n- 
@@ -1259,8 +1259,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for AI Evaluatio
  809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 957
  77542144\n\nMeeting Passcode: 682073\n\n\nInternational numbers: https://z
  oom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193928Z
-LAST-MODIFIED:20261102T193928Z
+DTSTAMP:20261103T004713Z
+LAST-MODIFIED:20261103T004713Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95777542144?
  password=2d510837-3202-45cc-bf02-b84028fcc64b
 ORGANIZER;CN=AI Evaluation Framework:MAILTO:meetings@lfx.dev
@@ -1306,7 +1306,7 @@ BEGIN:VEVENT
 UID:95550011535
 DTSTART;TZID=America/New_York:20260409T090000
 DTEND;TZID=America/New_York:20260409T100000
-CREATED:20261102T193748Z
+CREATED:20261103T004618Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -1321,8 +1321,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  95550011535\n\nMeeting Passcode: 074429\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193748Z
-LAST-MODIFIED:20261102T193748Z
+DTSTAMP:20261103T004618Z
+LAST-MODIFIED:20261103T004618Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95550011535?
  password=26d713be-93a8-45ee-b497-9e88f0dc10d0
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
@@ -1365,7 +1365,7 @@ BEGIN:VEVENT
 UID:99544858218
 DTSTART;TZID=America/New_York:20261022T113000
 DTEND;TZID=America/New_York:20261022T120000
-CREATED:20261102T193826Z
+CREATED:20261103T004648Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   Controls\n\nGitHub: https://github.com/finos/common-cloud-controls\n\nWay
  s to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps:/
@@ -1380,9 +1380,9 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
  204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll F
  ree)\n\nMeeting ID: 99544858218\n\nMeeting Passcode: 883975\n\n\nInternati
  onal numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193826Z
+DTSTAMP:20261103T004648Z
 EXDATE;TZID=America/New_York:20261105T113000
-LAST-MODIFIED:20261102T193826Z
+LAST-MODIFIED:20261103T004648Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99544858218?
  password=18b1e02c-7903-4eb6-a0d5-63284ae5af3b
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
@@ -1425,7 +1425,7 @@ BEGIN:VEVENT
 UID:94632795756
 DTSTART;TZID=America/New_York:20260107T120000
 DTEND;TZID=America/New_York:20260107T130000
-CREATED:20261102T193739Z
+CREATED:20261103T004633Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Open Source 
  Talent Acceleration Special Interest Group\n\nSEE AGENDA here:\nhttps://gi
  thub.com/finos/open-source-talent-acceleration/issues\nFor more informatio
@@ -1442,9 +1442,9 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Open Source
  1 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985
   (Toll Free)\n\nMeeting ID: 94632795756\n\nMeeting Passcode: 710199\n\n\nI
  nternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193739Z
+DTSTAMP:20261103T004633Z
 EXDATE;TZID=America/New_York:20260401T120000
-LAST-MODIFIED:20261102T193739Z
+LAST-MODIFIED:20261103T004633Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94632795756?
  password=4954c4ab-bf76-4e17-be6a-3e681e77172e
 ORGANIZER;CN=Open Source Talent Acceleration Special Interest Group:MAILTO:
@@ -1491,7 +1491,7 @@ BEGIN:VEVENT
 UID:98246819637:2026-06-30T18:00:00Z
 DTSTART;TZID=America/New_York:20260630T140000
 DTEND;TZID=America/New_York:20260630T150000
-CREATED:20261102T193839Z
+CREATED:20261103T004652Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for ACTivated In
  telligence\n\nACTivated Intelligence project meeting.\n\nWays to join meet
  ing:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.plat
@@ -1506,10 +1506,10 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for ACTivated In
  r +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeetin
  g ID: 98246819637\n\nMeeting Passcode: 108999\n\n\nInternational numbers: 
  https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193839Z
+DTSTAMP:20261103T004652Z
 EXDATE;TZID=America/New_York:20260623T140000
 EXDATE;TZID=America/New_York:20260811T140000
-LAST-MODIFIED:20261102T193839Z
+LAST-MODIFIED:20261103T004652Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98246819637?
  password=7cf6933e-b260-479c-9dde-24a19a9c3363
 ORGANIZER;CN=ACTivated Intelligence:MAILTO:meetings@lfx.dev
@@ -1551,7 +1551,7 @@ BEGIN:VEVENT
 UID:91492872876
 DTSTART;TZID=America/New_York:20260108T100000
 DTEND;TZID=America/New_York:20260108T110000
-CREATED:20261102T193926Z
+CREATED:20261103T004717Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Zenith\n\nZe
  nith - Emerging Technologies SIG bi-weekly meeting\n\nWays to join meeting
  :\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platfor
@@ -1566,12 +1566,12 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Zenith\n\nZe
  1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting I
  D: 91492872876\n\nMeeting Passcode: 745965\n\n\nInternational numbers: htt
  ps://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193926Z
+DTSTAMP:20261103T004717Z
 EXDATE;TZID=America/New_York:20260416T100000
 EXDATE;TZID=America/New_York:20260528T100000
 EXDATE;TZID=America/New_York:20260625T100000
 EXDATE;TZID=America/New_York:20261015T100000
-LAST-MODIFIED:20261102T193926Z
+LAST-MODIFIED:20261103T004717Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/91492872876?
  password=af9079e0-fb86-418d-803b-1373ec1fb143
 ORGANIZER;CN=Zenith:MAILTO:meetings@lfx.dev
@@ -1613,7 +1613,7 @@ BEGIN:VEVENT
 UID:94584131804:2026-08-04T14:00:00Z
 DTSTART;TZID=America/New_York:20260804T100000
 DTEND;TZID=America/New_York:20260804T110000
-CREATED:20261102T193836Z
+CREATED:20261103T004615Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGithu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -1628,8 +1628,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGithu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  94584131804\n\nMeeting Passcode: 021040\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193836Z
-LAST-MODIFIED:20261102T193836Z
+DTSTAMP:20261103T004615Z
+LAST-MODIFIED:20261103T004615Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94584131804?
  password=b7edff0a-9cc6-426f-b0d9-28eb4fb0de71
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
@@ -1672,7 +1672,7 @@ BEGIN:VEVENT
 UID:97158459687:2026-01-28T15:00:00Z
 DTSTART;TZID=America/New_York:20260128T100000
 DTEND;TZID=America/New_York:20260128T110000
-CREATED:20261102T193819Z
+CREATED:20261103T004743Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for AI Governanc
  e Framework\n\nAI Governance Framework Working Session\n\nWays to join mee
  ting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.pla
@@ -1687,9 +1687,9 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for AI Governanc
  or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeti
  ng ID: 97158459687\n\nMeeting Passcode: 219072\n\n\nInternational numbers:
   https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193819Z
+DTSTAMP:20261103T004743Z
 EXDATE;TZID=America/New_York:20260812T100000
-LAST-MODIFIED:20261102T193819Z
+LAST-MODIFIED:20261103T004743Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/97158459687?
  password=62a83d0b-7b19-416d-8250-e5bcf9f7640b
 ORGANIZER;CN=AI Governance Framework:MAILTO:meetings@lfx.dev
@@ -1731,7 +1731,7 @@ BEGIN:VEVENT
 UID:91001005768
 DTSTART;TZID=America/New_York:20260205T100000
 DTEND;TZID=America/New_York:20260205T110000
-CREATED:20261102T193838Z
+CREATED:20261103T004451Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3\n\nWelc
  ome to the "Use Cases and Workflows" discussion group for FDC3. The remit 
  of this discussion group is: \n - talking about existing or potential fina
@@ -1754,8 +1754,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3\n\nWelc
  +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 91001005768\n\n
  Meeting Passcode: 402734\n\n\nInternational numbers: https://zoom.us/u/alw
  nPIaVT\n
-DTSTAMP:20261102T193838Z
-LAST-MODIFIED:20261102T193838Z
+DTSTAMP:20261103T004451Z
+LAST-MODIFIED:20261103T004451Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/91001005768?
  password=0c878e0c-b8a4-42d3-9786-e8c1524d6d1c
 ORGANIZER;CN=FDC3:MAILTO:meetings@lfx.dev
@@ -1805,7 +1805,7 @@ BEGIN:VEVENT
 UID:98835871246:2026-02-09T14:30:00Z
 DTSTART;TZID=America/New_York:20260209T093000
 DTEND;TZID=America/New_York:20260209T103000
-CREATED:20261102T193826Z
+CREATED:20261103T004509Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for kdb+\n\nMont
  hly KDB project meeting. \nAgenda: https://github.com/finos/kdb/labels/mee
  ting\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android
@@ -1820,8 +1820,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for kdb+\n\nMont
  2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8
  985 (Toll Free)\n\nMeeting ID: 98835871246\n\nMeeting Passcode: 479905\n\n
  \nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193826Z
-LAST-MODIFIED:20261102T193826Z
+DTSTAMP:20261103T004509Z
+LAST-MODIFIED:20261103T004509Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98835871246?
  password=a9b34d3e-5ddf-48a7-9748-c3b81326625d
 ORGANIZER;CN=kdb+:MAILTO:meetings@lfx.dev
@@ -1865,7 +1865,7 @@ BEGIN:VEVENT
 UID:96839365264
 DTSTART;TZID=America/New_York:20260226T100000
 DTEND;TZID=America/New_York:20260226T110000
-CREATED:20261102T193814Z
+CREATED:20261103T004458Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3\n\nhttp
  s://github.com/finos/FDC3\n\nWays to join meeting:\n\n1. Join from PC\, Ma
  c\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundation.org/mee
@@ -1880,9 +1880,9 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3\n\nhttp
  328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 96839365264\n\nMeeting
   Passcode: 180840\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\
  n
-DTSTAMP:20261102T193814Z
+DTSTAMP:20261103T004458Z
 EXDATE;TZID=America/New_York:20260625T100000
-LAST-MODIFIED:20261102T193814Z
+LAST-MODIFIED:20261103T004458Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96839365264?
  password=b5c2bc6a-bc47-43a5-bc49-7be3e0b422c3
 ORGANIZER;CN=FDC3:MAILTO:meetings@lfx.dev
@@ -1925,7 +1925,7 @@ BEGIN:VEVENT
 UID:95612628024:2025-12-23T16:00:00Z
 DTSTART;TZID=America/New_York:20251223T110000
 DTEND;TZID=America/New_York:20251223T120000
-CREATED:20261102T193909Z
+CREATED:20261103T004550Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
  ation\n\nMonthly Architecture as Code Working Group - DevOps Automation me
  eting.\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Andro
@@ -1940,11 +1940,11 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
  7 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703
   8985 (Toll Free)\n\nMeeting ID: 95612628024\n\nMeeting Passcode: 661526\n
  \n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193909Z
+DTSTAMP:20261103T004550Z
 EXDATE;TZID=America/New_York:20251223T110000
 EXDATE;TZID=America/New_York:20260623T110000
 EXDATE;TZID=America/New_York:20260922T110000
-LAST-MODIFIED:20261102T193909Z
+LAST-MODIFIED:20261103T004550Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95612628024?
  password=bd0f263c-4fad-490f-8b36-56ff98932456
 ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
@@ -1987,7 +1987,7 @@ BEGIN:VEVENT
 UID:98061524600:2026-04-22T16:00:00Z
 DTSTART;TZID=America/New_York:20260422T120000
 DTEND;TZID=America/New_York:20260422T130000
-CREATED:20261102T193914Z
+CREATED:20261103T004535Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  intech Open Source Foundation)\n\nFINOS Technical Oversight Committee Publ
  ic Meeting\nMeeting Agenda Issues can be found on GitHub at https://github
@@ -2004,8 +2004,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  98061524600\n\nMeeting Passcode: 564940\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193914Z
-LAST-MODIFIED:20261102T193914Z
+DTSTAMP:20261103T004535Z
+LAST-MODIFIED:20261103T004535Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98061524600?
  password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d
 ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
@@ -2052,7 +2052,7 @@ UID:98061524600:2026-04-22T16:00:00Z
 RECURRENCE-ID;TZID=America/New_York:20261104T120000
 DTSTART;TZID=America/New_York:20261111T120000
 DTEND;TZID=America/New_York:20261111T130000
-CREATED:20261102T193914Z
+CREATED:20261103T004535Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  intech Open Source Foundation)\n\nFINOS Technical Oversight Committee Publ
  ic Meeting\nMeeting Agenda Issues can be found on GitHub at https://github
@@ -2069,8 +2069,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  98061524600\n\nMeeting Passcode: 564940\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193914Z
-LAST-MODIFIED:20261102T193914Z
+DTSTAMP:20261103T004535Z
+LAST-MODIFIED:20261103T004535Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98061524600?
  password=e95afcc7-9e31-4ecd-b9da-c0a0d7cce15d
 ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
@@ -2112,7 +2112,7 @@ BEGIN:VEVENT
 UID:92954837989
 DTSTART;TZID=America/New_York:20260731T110000
 DTEND;TZID=America/New_York:20260731T120000
-CREATED:20261102T193836Z
+CREATED:20261103T004721Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Zenith\n\n\n
  \nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nht
  tps://zoom-lfx.platform.linuxfoundation.org/meeting/92954837989?password=1
@@ -2126,8 +2126,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Zenith\n\n\n
  r +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (T
  oll Free)\n\nMeeting ID: 92954837989\n\nMeeting Passcode: 124930\n\n\nInte
  rnational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193836Z
-LAST-MODIFIED:20261102T193836Z
+DTSTAMP:20261103T004721Z
+LAST-MODIFIED:20261103T004721Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/92954837989?
  password=1c6fbd94-f68a-4236-b1e5-06da91399535
 ORGANIZER;CN=Zenith:MAILTO:meetings@lfx.dev
@@ -2169,7 +2169,7 @@ BEGIN:VEVENT
 UID:91759523655
 DTSTART;TZID=America/New_York:20251218T120000
 DTEND;TZID=America/New_York:20251218T130000
-CREATED:20261102T193759Z
+CREATED:20261103T004546Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
  ation\n\nMonthly FINOS DevOps Automation - Special Interest Group meeting.
  \n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\n
@@ -2184,10 +2184,10 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
   or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 
  (Toll Free)\n\nMeeting ID: 91759523655\n\nMeeting Passcode: 102599\n\n\nIn
  ternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193759Z
+DTSTAMP:20261103T004546Z
 EXDATE;TZID=America/New_York:20251218T120000
 EXDATE;TZID=America/New_York:20260618T120000
-LAST-MODIFIED:20261102T193759Z
+LAST-MODIFIED:20261103T004546Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/91759523655?
  password=2582c57a-491c-43de-af16-9d608b535afd
 ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
@@ -2230,7 +2230,7 @@ BEGIN:VEVENT
 UID:92852768369
 DTSTART;TZID=Europe/London:20260629T140000
 DTEND;TZID=Europe/London:20260629T150000
-CREATED:20261102T193935Z
+CREATED:20261103T004557Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for InnerSource 
  Special Interest Group\n\nA weekly meeting for members to share updates\, 
  case studies\, and best practices for adopting InnerSource within organisa
@@ -2250,10 +2250,10 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for InnerSource
  +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 92852768369\n\n
  Meeting Passcode: 327669\n\n\nInternational numbers: https://zoom.us/u/alw
  nPIaVT\n
-DTSTAMP:20261102T193935Z
+DTSTAMP:20261103T004557Z
 EXDATE;TZID=Europe/London:20260629T140000
 EXDATE;TZID=Europe/London:20260928T140000
-LAST-MODIFIED:20261102T193935Z
+LAST-MODIFIED:20261103T004557Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/92852768369?
  password=9ffd3106-34d9-42bc-b530-8c7866386826
 ORGANIZER;CN=InnerSource Special Interest Group:MAILTO:meetings@lfx.dev
@@ -2300,7 +2300,7 @@ BEGIN:VEVENT
 UID:96292398629
 DTSTART;TZID=Europe/London:20260916T150000
 DTEND;TZID=Europe/London:20260916T163000
-CREATED:20261102T193800Z
+CREATED:20261103T004735Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  d Engineer Community\n\nMonthly meeting of the Distinguished Engineer Comm
  unity Monthly SIG\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad
@@ -2315,8 +2315,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  r +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099
   or 855 703 8985 (Toll Free)\n\nMeeting ID: 96292398629\n\nMeeting Passcod
  e: 461304\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193800Z
-LAST-MODIFIED:20261102T193800Z
+DTSTAMP:20261103T004735Z
+LAST-MODIFIED:20261103T004735Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96292398629?
  password=ebd5ebad-0f4f-490d-aceb-659d47455ae3
 ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
@@ -2359,7 +2359,7 @@ BEGIN:VEVENT
 UID:96950469863
 DTSTART;TZID=America/New_York:20251013T080000
 DTEND;TZID=America/New_York:20251013T090000
-CREATED:20261102T193743Z
+CREATED:20261103T004506Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Waltz\n\nWal
  tz monthly meeting\nGitHub: https://github.com/finos/waltz\n\nWays to join
   meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx
@@ -2374,8 +2374,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Waltz\n\nWal
  920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nM
  eeting ID: 96950469863\n\nMeeting Passcode: 180370\n\n\nInternational numb
  ers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193743Z
-LAST-MODIFIED:20261102T193743Z
+DTSTAMP:20261103T004506Z
+LAST-MODIFIED:20261103T004506Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96950469863?
  password=a4229b81-221e-4262-8d22-f7ba73ca007f
 ORGANIZER;CN=Waltz:MAILTO:meetings@lfx.dev
@@ -2418,7 +2418,7 @@ BEGIN:VEVENT
 UID:98579493833:2025-12-04T15:30:00Z
 DTSTART;TZID=America/New_York:20251204T103000
 DTEND;TZID=America/New_York:20251204T113000
-CREATED:20261102T193701Z
+CREATED:20261103T004553Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
  ation\n\nWeekly Architecture as Code Office Hours meeting.\n\nWays to join
   meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx
@@ -2433,12 +2433,12 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
  920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nM
  eeting ID: 98579493833\n\nMeeting Passcode: 169331\n\n\nInternational numb
  ers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193701Z
+DTSTAMP:20261103T004553Z
 EXDATE;TZID=America/New_York:20251225T103000
 EXDATE;TZID=America/New_York:20260101T103000
 EXDATE;TZID=America/New_York:20260312T103000
 EXDATE;TZID=America/New_York:20260625T103000
-LAST-MODIFIED:20261102T193701Z
+LAST-MODIFIED:20261103T004553Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98579493833?
  password=2af32413-a2a4-4ada-b064-ae8544c64c85
 ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
@@ -2480,7 +2480,7 @@ BEGIN:VEVENT
 UID:91459369501
 DTSTART;TZID=Europe/London:20250618T103000
 DTEND;TZID=Europe/London:20250618T110000
-CREATED:20261102T193800Z
+CREATED:20261103T004521Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Spring Bot\n
  \nWeekly Spring Bot project meeting\n\nWays to join meeting:\n\n1. Join fr
  om PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundati
@@ -2495,7 +2495,7 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Spring Bot\n
  or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 91459369501\
  n\nMeeting Passcode: 917791\n\n\nInternational numbers: https://zoom.us/u/
  alwnPIaVT\n
-DTSTAMP:20261102T193800Z
+DTSTAMP:20261103T004521Z
 EXDATE;TZID=Europe/London:20250827T103000
 EXDATE;TZID=Europe/London:20250924T103000
 EXDATE;TZID=Europe/London:20251112T103000
@@ -2515,7 +2515,7 @@ EXDATE;TZID=Europe/London:20260819T103000
 EXDATE;TZID=Europe/London:20261014T103000
 EXDATE;TZID=Europe/London:20261028T103000
 EXDATE;TZID=Europe/London:20261104T103000
-LAST-MODIFIED:20261102T193800Z
+LAST-MODIFIED:20261103T004521Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/91459369501?
  password=8e2f4c59-ed09-442a-8707-b2edc8d74a81
 ORGANIZER;CN=Spring Bot:MAILTO:meetings@lfx.dev
@@ -2557,7 +2557,7 @@ BEGIN:VEVENT
 UID:99768299180
 DTSTART;TZID=America/New_York:20261020T080000
 DTEND;TZID=America/New_York:20261020T090000
-CREATED:20261102T193843Z
+CREATED:20261103T004626Z
 DESCRIPTION:\nYou have been invited to a meeting for CDM\n\nGithub: https:/
  /github.com/finos/common-domain-model\n\nWays to join meeting:\n\n1. Join 
  from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfounda
@@ -2572,8 +2572,8 @@ DESCRIPTION:\nYou have been invited to a meeting for CDM\n\nGithub: https:/
  9 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 9976829918
  0\n\nMeeting Passcode: 453800\n\n\nInternational numbers: https://zoom.us/
  u/alwnPIaVT\n
-DTSTAMP:20261102T193843Z
-LAST-MODIFIED:20261102T193843Z
+DTSTAMP:20261103T004626Z
+LAST-MODIFIED:20261103T004626Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99768299180?
  password=5c2876ae-144a-47cd-b9d0-0afbd10c1d75
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
@@ -2615,7 +2615,7 @@ BEGIN:VEVENT
 UID:97499954668
 DTSTART;TZID=America/New_York:20250916T203000
 DTEND;TZID=America/New_York:20250916T213000
-CREATED:20261102T193839Z
+CREATED:20261103T004532Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  intech Open Source Foundation)\n\nA weekly working session for the Open Fi
  nancial LLM Leaderboard initiative. We discuss:\n- Progress updates on the
@@ -2633,8 +2633,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
   778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 
  855 703 8985 (Toll Free)\n\nMeeting ID: 97499954668\n\nMeeting Passcode: 9
  63765\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193839Z
-LAST-MODIFIED:20261102T193839Z
+DTSTAMP:20261103T004532Z
+LAST-MODIFIED:20261103T004532Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/97499954668?
  password=dbeea8fb-9611-4d7b-a0f4-366b36207a2b
 ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
@@ -2681,7 +2681,7 @@ BEGIN:VEVENT
 UID:94271033159
 DTSTART;TZID=America/New_York:20260429T100000
 DTEND;TZID=America/New_York:20260429T110000
-CREATED:20261102T193817Z
+CREATED:20261103T004611Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -2696,12 +2696,12 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  94271033159\n\nMeeting Passcode: 531000\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193817Z
+DTSTAMP:20261103T004611Z
 EXDATE;TZID=America/New_York:20260429T100000
 EXDATE;TZID=America/New_York:20260624T100000
 EXDATE;TZID=America/New_York:20260729T100000
 EXDATE;TZID=America/New_York:20260826T100000
-LAST-MODIFIED:20261102T193817Z
+LAST-MODIFIED:20261103T004611Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94271033159?
  password=0452bf20-88ad-423b-8b3b-a23c57524f09
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
@@ -2744,7 +2744,7 @@ BEGIN:VEVENT
 UID:93988274402
 DTSTART;TZID=America/New_York:20260408T090000
 DTEND;TZID=America/New_York:20260408T100000
-CREATED:20261102T193824Z
+CREATED:20261103T004604Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\nWorking Group Background:
   https://github.com/finos/common-domain-model/issues/3432\n\nWays to join 
@@ -2760,13 +2760,13 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  20 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMe
  eting ID: 93988274402\n\nMeeting Passcode: 288107\n\n\nInternational numbe
  rs: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193824Z
+DTSTAMP:20261103T004604Z
 EXDATE;TZID=America/New_York:20260513T090000
 EXDATE;TZID=America/New_York:20260610T090000
 EXDATE;TZID=America/New_York:20260708T090000
 EXDATE;TZID=America/New_York:20260812T090000
 EXDATE;TZID=America/New_York:20260909T090000
-LAST-MODIFIED:20261102T193824Z
+LAST-MODIFIED:20261103T004604Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/93988274402?
  password=cc529a12-6925-413d-a7a8-19ec7a37cfdc
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
@@ -2811,7 +2811,7 @@ BEGIN:VEVENT
 UID:95780953406:2026-09-24T10:30:00Z
 DTSTART;TZID=America/New_York:20260924T063000
 DTEND;TZID=America/New_York:20260924T070000
-CREATED:20261102T193817Z
+CREATED:20261103T004645Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   Controls\n\nThe mission of the Compliant Financial Infrastructure WG is t
  o help deliver implementations of the CCC standards across different compu
@@ -2831,9 +2831,9 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
  09 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 9578
  0953406\n\nMeeting Passcode: 424978\n\n\nInternational numbers: https://zo
  om.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193817Z
+DTSTAMP:20261103T004645Z
 EXDATE;TZID=America/New_York:20261105T063000
-LAST-MODIFIED:20261102T193817Z
+LAST-MODIFIED:20261103T004645Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95780953406?
  password=4be05216-d763-4eb3-8288-8fbb69ed298f
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
@@ -2880,7 +2880,7 @@ BEGIN:VEVENT
 UID:97085484379:2026-02-27T13:00:00Z
 DTSTART;TZID=America/New_York:20260227T080000
 DTEND;TZID=America/New_York:20260227T090000
-CREATED:20261102T193745Z
+CREATED:20261103T004656Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for TraderX\n\nM
  onthly TraderX project meeting.\n\nWays to join meeting:\n\n1. Join from P
  C\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundation.o
@@ -2895,8 +2895,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for TraderX\n\nM
  1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 97085484379\n\nM
  eeting Passcode: 654225\n\n\nInternational numbers: https://zoom.us/u/alwn
  PIaVT\n
-DTSTAMP:20261102T193745Z
-LAST-MODIFIED:20261102T193745Z
+DTSTAMP:20261103T004656Z
+LAST-MODIFIED:20261103T004656Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/97085484379?
  password=ec271ed7-f068-4e6d-bcd7-c3171d254b8e
 ORGANIZER;CN=TraderX:MAILTO:meetings@lfx.dev
@@ -2938,7 +2938,7 @@ BEGIN:VEVENT
 UID:94001587941:2026-10-12T14:00:00Z
 DTSTART;TZID=Europe/London:20261012T150000
 DTEND;TZID=Europe/London:20261012T180000
-CREATED:20261102T193743Z
+CREATED:20261103T004724Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Software Dev
  elopment Lifecycle Common Control Catalog\n\n\n\nWays to join meeting:\n\n
  1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.lin
@@ -2953,8 +2953,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Software Dev
   809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 94
  001587941\n\nMeeting Passcode: 193574\n\n\nInternational numbers: https://
  zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193743Z
-LAST-MODIFIED:20261102T193743Z
+DTSTAMP:20261103T004724Z
+LAST-MODIFIED:20261103T004724Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94001587941?
  password=e85f4fbd-7703-4628-b2b0-e454dcf966c8
 ORGANIZER;CN=Software Development Lifecycle Common Control Catalog:MAILTO:m
@@ -2997,7 +2997,7 @@ BEGIN:VEVENT
 UID:94001587941
 DTSTART;TZID=Europe/London:20260817T150000
 DTEND;TZID=Europe/London:20260817T180000
-CREATED:20261102T193743Z
+CREATED:20261103T004724Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Software Dev
  elopment Lifecycle Common Control Catalog\n\n\n\nWays to join meeting:\n\n
  1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.lin
@@ -3012,8 +3012,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Software Dev
   809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 94
  001587941\n\nMeeting Passcode: 193574\n\n\nInternational numbers: https://
  zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193743Z
-LAST-MODIFIED:20261102T193743Z
+DTSTAMP:20261103T004724Z
+LAST-MODIFIED:20261103T004724Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94001587941?
  password=e85f4fbd-7703-4628-b2b0-e454dcf966c8
 ORGANIZER;CN=Software Development Lifecycle Common Control Catalog:MAILTO:m
@@ -3056,7 +3056,7 @@ BEGIN:VEVENT
 UID:99354850498
 DTSTART;TZID=America/New_York:20260109T091500
 DTEND;TZID=America/New_York:20260109T100000
-CREATED:20261102T193800Z
+CREATED:20261103T004703Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Accessibilit
  y Theme Builder\n\nAccessibility Theme Builder project weekly meeting\n\nW
  ays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps
@@ -3071,10 +3071,10 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Accessibilit
  1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll
   Free)\n\nMeeting ID: 99354850498\n\nMeeting Passcode: 298461\n\n\nInterna
  tional numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193800Z
+DTSTAMP:20261103T004703Z
 EXDATE;TZID=America/New_York:20260417T091500
 EXDATE;TZID=America/New_York:20260710T091500
-LAST-MODIFIED:20261102T193800Z
+LAST-MODIFIED:20261103T004703Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99354850498?
  password=2545922e-1c6b-41b9-a73f-16695a10c24e
 ORGANIZER;CN=Accessibility Theme Builder:MAILTO:meetings@lfx.dev
@@ -3117,7 +3117,7 @@ BEGIN:VEVENT
 UID:96615992377
 DTSTART;TZID=America/New_York:20260219T100000
 DTEND;TZID=America/New_York:20260219T110000
-CREATED:20261102T193844Z
+CREATED:20261103T004455Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3\n\nFDC3
   Web Browsers Discussion Group\n\nWays to join meeting:\n\n1. Join from PC
  \, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundation.or
@@ -3132,8 +3132,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3\n\nFDC3
   587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 96615992377\n\nMe
  eting Passcode: 850963\n\n\nInternational numbers: https://zoom.us/u/alwnP
  IaVT\n
-DTSTAMP:20261102T193844Z
-LAST-MODIFIED:20261102T193844Z
+DTSTAMP:20261103T004455Z
+LAST-MODIFIED:20261103T004455Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96615992377?
  password=88ed4841-afa2-41a6-8de3-e246967e5566
 ORGANIZER;CN=FDC3:MAILTO:meetings@lfx.dev
@@ -3175,7 +3175,7 @@ BEGIN:VEVENT
 UID:99090239193
 DTSTART;TZID=America/New_York:20260106T110000
 DTEND;TZID=America/New_York:20260106T120000
-CREATED:20261102T193810Z
+CREATED:20261103T004747Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for AI Readiness
  \n\nAI Readiness SIG bi-weekly meeting\n\nWays to join meeting:\n\n1. Join
   from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfound
@@ -3190,7 +3190,7 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for AI Readiness
  99 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 990902391
  93\n\nMeeting Passcode: 092267\n\n\nInternational numbers: https://zoom.us
  /u/alwnPIaVT\n
-DTSTAMP:20261102T193810Z
+DTSTAMP:20261103T004747Z
 EXDATE;TZID=America/New_York:20260217T110000
 EXDATE;TZID=America/New_York:20260526T110000
 EXDATE;TZID=America/New_York:20260623T110000
@@ -3201,7 +3201,7 @@ EXDATE;TZID=America/New_York:20260901T110000
 EXDATE;TZID=America/New_York:20260929T110000
 EXDATE;TZID=America/New_York:20261013T110000
 EXDATE;TZID=America/New_York:20261027T110000
-LAST-MODIFIED:20261102T193810Z
+LAST-MODIFIED:20261103T004747Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99090239193?
  password=f3797488-6467-44c9-8976-9b50e42cbdff
 ORGANIZER;CN=AI Readiness:MAILTO:meetings@lfx.dev
@@ -3243,7 +3243,7 @@ BEGIN:VEVENT
 UID:98802575145:2026-08-10T13:00:00Z
 DTSTART;TZID=Europe/London:20260810T140000
 DTEND;TZID=Europe/London:20260810T144500
-CREATED:20261102T193832Z
+CREATED:20261103T004740Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  d Engineer Community\n\nAddressing diversity at the top of the engineering
   career ladder through mentoring\, allyship\, and inclusive practices — 
@@ -3262,8 +3262,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  8 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1
  099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 98802575145\n\nMeeting Pass
  code: 439455\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193832Z
-LAST-MODIFIED:20261102T193832Z
+DTSTAMP:20261103T004740Z
+LAST-MODIFIED:20261103T004740Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98802575145?
  password=a123e00b-a189-41a1-9aa6-95a4dd7695f7
 ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
@@ -3310,7 +3310,7 @@ BEGIN:VEVENT
 UID:93365601230:2026-02-26T18:00:00Z
 DTSTART;TZID=America/New_York:20260226T130000
 DTEND;TZID=America/New_York:20260226T140000
-CREATED:20261102T193946Z
+CREATED:20261103T004524Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  intech Open Source Foundation)\n\nFINOS Applied GenAI bi-weekly call\nGitH
  ub Repo (FINOS Labs):\nhttps://github.com/finos-labs/llm-exploration-proje
@@ -3326,8 +3326,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FINOS (The F
  71 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 898
  5 (Toll Free)\n\nMeeting ID: 93365601230\n\nMeeting Passcode: 160483\n\n\n
  International numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193946Z
-LAST-MODIFIED:20261102T193946Z
+DTSTAMP:20261103T004524Z
+LAST-MODIFIED:20261103T004524Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/93365601230?
  password=4ab2a8b6-6da5-400f-b56d-1b8f1f197b47
 ORGANIZER;CN=FINOS (The Fintech Open Source Foundation):MAILTO:meetings@lfx
@@ -3373,7 +3373,7 @@ BEGIN:VEVENT
 UID:96292319760:2026-10-26T14:00:00Z
 DTSTART;TZID=America/New_York:20261026T100000
 DTEND;TZID=America/New_York:20261026T110000
-CREATED:20261102T193826Z
+CREATED:20261103T004728Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Software Dev
  elopment Lifecycle Common Control Catalog\n\n\n\nWays to join meeting:\n\n
  1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.lin
@@ -3388,8 +3388,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Software Dev
   809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 96
  292319760\n\nMeeting Passcode: 289472\n\n\nInternational numbers: https://
  zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193826Z
-LAST-MODIFIED:20261102T193826Z
+DTSTAMP:20261103T004728Z
+LAST-MODIFIED:20261103T004728Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760?
  password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e
 ORGANIZER;CN=Software Development Lifecycle Common Control Catalog:MAILTO:m
@@ -3432,7 +3432,7 @@ BEGIN:VEVENT
 UID:99902967416
 DTSTART;TZID=America/New_York:20260410T100000
 DTEND;TZID=America/New_York:20260410T103000
-CREATED:20261102T193816Z
+CREATED:20261103T004447Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for OS-Climate\n
  \n\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n
  \nhttps://zoom-lfx.platform.linuxfoundation.org/meeting/99902967416?passwo
@@ -3446,14 +3446,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for OS-Climate\n
  71 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 898
  5 (Toll Free)\n\nMeeting ID: 99902967416\n\nMeeting Passcode: 753316\n\n\n
  International numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193816Z
+DTSTAMP:20261103T004447Z
 EXDATE;TZID=America/New_York:20260501T100000
 EXDATE;TZID=America/New_York:20260605T100000
 EXDATE;TZID=America/New_York:20260612T100000
 EXDATE;TZID=America/New_York:20260821T100000
 EXDATE;TZID=America/New_York:20260828T100000
 EXDATE;TZID=America/New_York:20261002T100000
-LAST-MODIFIED:20261102T193816Z
+LAST-MODIFIED:20261103T004447Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99902967416?
  password=2a353a40-77e6-40a6-86dd-87f3f62fa884
 ORGANIZER;CN=OS-Climate:MAILTO:meetings@lfx.dev
@@ -3495,7 +3495,7 @@ BEGIN:VEVENT
 UID:94159751957
 DTSTART;TZID=America/New_York:20260325T113000
 DTEND;TZID=America/New_York:20260325T123000
-CREATED:20261102T193802Z
+CREATED:20261103T033114Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  b: https://github.com/finos/common-domain-model\n\nWays to join meeting:\n
  \n1. Join from PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.l
@@ -3510,16 +3510,17 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for CDM\n\nGitHu
  38 809 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 
  94159751957\n\nMeeting Passcode: 208074\n\n\nInternational numbers: https:
  //zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193802Z
+DTSTAMP:20261103T033114Z
 EXDATE;TZID=America/New_York:20260701T113000
 EXDATE;TZID=America/New_York:20260909T113000
 EXDATE;TZID=America/New_York:20260923T113000
-LAST-MODIFIED:20261102T193802Z
+EXDATE;TZID=America/New_York:20261104T113000
+LAST-MODIFIED:20261103T033114Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94159751957?
  password=8a54da8a-9f42-4448-a8a9-246e545279cb
 ORGANIZER;CN=CDM:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=2;WKST=SU;BYDAY=WE
-SEQUENCE:5
+SEQUENCE:6
 SUMMARY:CDM Derivatives Working Group
 TZID:America/New_York
 TZNAME:America/New_York
@@ -3557,7 +3558,7 @@ BEGIN:VEVENT
 UID:95849833904:2026-02-09T16:00:00Z
 DTSTART;TZID=America/New_York:20260209T110000
 DTEND;TZID=America/New_York:20260209T120000
-CREATED:20261102T193819Z
+CREATED:20261103T004542Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Git Proxy\n\
  nGit Proxy Project Meeting\nAgenda:\n- Issues and PRs status\n- Share love
   and engage with contributors\n- Coordinate efforts\, ie label issues with
@@ -3575,8 +3576,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Git Proxy\n\
  588 or +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328
   1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 95849833904\n\nMeeting Pa
  sscode: 760681\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193819Z
-LAST-MODIFIED:20261102T193819Z
+DTSTAMP:20261103T004542Z
+LAST-MODIFIED:20261103T004542Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95849833904?
  password=99413314-d03a-4b1c-b682-1ede2c399595
 ORGANIZER;CN=Git Proxy:MAILTO:meetings@lfx.dev
@@ -3623,7 +3624,7 @@ BEGIN:VEVENT
 UID:94324343329:2026-09-30T15:00:00Z
 DTSTART;TZID=America/New_York:20260930T110000
 DTEND;TZID=America/New_York:20260930T113000
-CREATED:20261102T193836Z
+CREATED:20261103T004707Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Fluxnova\n\n
  Fluxnova - AI Working Group Meeting\n\nWays to join meeting:\n\n1. Join fr
  om PC\, Mac\, iPad\, or Android\n\nhttps://zoom-lfx.platform.linuxfoundati
@@ -3638,8 +3639,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Fluxnova\n\n
  or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 94324343329\
  n\nMeeting Passcode: 874153\n\n\nInternational numbers: https://zoom.us/u/
  alwnPIaVT\n
-DTSTAMP:20261102T193836Z
-LAST-MODIFIED:20261102T193836Z
+DTSTAMP:20261103T004707Z
+LAST-MODIFIED:20261103T004707Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94324343329?
  password=4fd47917-b89f-4c7c-8925-a8a4e5b54ab1
 ORGANIZER;CN=Fluxnova:MAILTO:meetings@lfx.dev
@@ -3681,7 +3682,7 @@ BEGIN:VEVENT
 UID:98975602417
 DTSTART;TZID=America/New_York:20251118T100000
 DTEND;TZID=America/New_York:20251118T110000
-CREATED:20261102T193923Z
+CREATED:20261103T004710Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Fluxnova\n\n
  \n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\n
  https://zoom-lfx.platform.linuxfoundation.org/meeting/98975602417?password
@@ -3695,8 +3696,8 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Fluxnova\n\n
   or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 
  (Toll Free)\n\nMeeting ID: 98975602417\n\nMeeting Passcode: 543887\n\n\nIn
  ternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193923Z
-LAST-MODIFIED:20261102T193923Z
+DTSTAMP:20261103T004710Z
+LAST-MODIFIED:20261103T004710Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/98975602417?
  password=8a1c796a-2eba-4f71-beeb-e3ecb7eb3450
 ORGANIZER;CN=Fluxnova:MAILTO:meetings@lfx.dev
@@ -3738,7 +3739,7 @@ BEGIN:VEVENT
 UID:99536057059
 DTSTART;TZID=America/New_York:20260204T100000
 DTEND;TZID=America/New_York:20260204T110000
-CREATED:20261102T193812Z
+CREATED:20261103T004517Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Open Source 
  Readiness Special Interest Group\n\nFINOS Open Source Readiness Special In
  terest Group.\nGithub: https://github.com/finos/open-source-readiness/issu
@@ -3754,9 +3755,9 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Open Source
  71 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 898
  5 (Toll Free)\n\nMeeting ID: 99536057059\n\nMeeting Passcode: 372322\n\n\n
  International numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193812Z
+DTSTAMP:20261103T004517Z
 EXDATE;TZID=America/New_York:20261104T100000
-LAST-MODIFIED:20261102T193812Z
+LAST-MODIFIED:20261103T004517Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/99536057059?
  password=2a772de5-8e26-4f8e-b026-97da76952ad6
 ORGANIZER;CN=Open Source Readiness Special Interest Group:MAILTO:meetings@l
@@ -3802,7 +3803,7 @@ BEGIN:VEVENT
 UID:95173610154
 DTSTART;TZID=Europe/London:20260826T160000
 DTEND;TZID=Europe/London:20260826T170000
-CREATED:20261102T193828Z
+CREATED:20261103T004539Z
 DESCRIPTION:\nYou have been invited to a meeting for Git Proxy\n\nSpecial m
  eeting of the Git Proxy community and maintainers to discuss our roadmap\n
  \nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\nht
@@ -3817,8 +3818,8 @@ DESCRIPTION:\nYou have been invited to a meeting for Git Proxy\n\nSpecial m
  r +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 (T
  oll Free)\n\nMeeting ID: 95173610154\n\nMeeting Passcode: 415841\n\n\nInte
  rnational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193828Z
-LAST-MODIFIED:20261102T193828Z
+DTSTAMP:20261103T004539Z
+LAST-MODIFIED:20261103T004539Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95173610154?
  password=42652580-53eb-40b7-9535-ed4d49ee534e
 ORGANIZER;CN=Git Proxy:MAILTO:meetings@lfx.dev
@@ -3860,7 +3861,7 @@ BEGIN:VEVENT
 UID:91949257192
 DTSTART;TZID=America/New_York:20251003T100000
 DTEND;TZID=America/New_York:20251003T103000
-CREATED:20261102T193833Z
+CREATED:20261103T004659Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for opengris\n\n
  \n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Android\n\n
  https://zoom-lfx.platform.linuxfoundation.org/meeting/91949257192?password
@@ -3874,9 +3875,9 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for opengris\n\n
   or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703 8985 
  (Toll Free)\n\nMeeting ID: 91949257192\n\nMeeting Passcode: 413345\n\n\nIn
  ternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261102T193833Z
+DTSTAMP:20261103T004659Z
 EXDATE;TZID=America/New_York:20251226T100000
-LAST-MODIFIED:20261102T193833Z
+LAST-MODIFIED:20261103T004659Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/91949257192?
  password=f8a27a59-811a-47af-b9a5-1216d77d2692
 ORGANIZER;CN=opengris:MAILTO:meetings@lfx.dev
