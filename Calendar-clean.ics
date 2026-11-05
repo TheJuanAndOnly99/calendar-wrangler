@@ -1732,7 +1732,7 @@ BEGIN:VEVENT
 UID:91001005768
 DTSTART;TZID=America/New_York:20260205T100000
 DTEND;TZID=America/New_York:20260205T110000
-CREATED:20261103T004451Z
+CREATED:20261105T123708Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3\n\nWelc
  ome to the "Use Cases and Workflows" discussion group for FDC3. The remit 
  of this discussion group is: \n - talking about existing or potential fina
@@ -1755,13 +1755,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for FDC3\n\nWelc
  +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 91001005768\n\n
  Meeting Passcode: 402734\n\n\nInternational numbers: https://zoom.us/u/alw
  nPIaVT\n
-DTSTAMP:20261103T004451Z
-LAST-MODIFIED:20261103T004451Z
+DTSTAMP:20261105T123708Z
+EXDATE;TZID=America/New_York:20261105T100000
+LAST-MODIFIED:20261105T123708Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/91001005768?
  password=0c878e0c-b8a4-42d3-9786-e8c1524d6d1c
 ORGANIZER;CN=FDC3:MAILTO:meetings@lfx.dev
 RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+1TH
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:FDC3 Use Cases and Workflows Discussion Group
 TZID:America/New_York
 TZNAME:America/New_York
