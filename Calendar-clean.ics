@@ -2581,7 +2581,7 @@ BEGIN:VEVENT
 UID:96292398629
 DTSTART;TZID=Europe/London:20260916T150000
 DTEND;TZID=Europe/London:20260916T163000
-CREATED:20261103T004735Z
+CREATED:20261112T160925Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  d Engineer Community\n\nMonthly meeting of the Distinguished Engineer Comm
  unity Monthly SIG\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad
@@ -2596,13 +2596,14 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Distinguishe
  r +1 778 907 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099
   or 855 703 8985 (Toll Free)\n\nMeeting ID: 96292398629\n\nMeeting Passcod
  e: 461304\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261103T004735Z
-LAST-MODIFIED:20261103T004735Z
+DTSTAMP:20261112T160925Z
+EXDATE;TZID=Europe/London:20261118T150000
+LAST-MODIFIED:20261112T160925Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/96292398629?
  password=ebd5ebad-0f4f-490d-aceb-659d47455ae3
 ORGANIZER;CN=Distinguished Engineer Community:MAILTO:meetings@lfx.dev
 RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+3WE
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY:Distinguished Engineer Community Monthly SIG Meeting
 TZID:Europe/London
 TZNAME:Europe/London
