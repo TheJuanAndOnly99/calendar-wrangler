@@ -1232,7 +1232,7 @@ BEGIN:VEVENT
 UID:94786708589
 DTSTART;TZID=America/New_York:20260226T120000
 DTEND;TZID=America/New_York:20260226T123000
-CREATED:20261103T004637Z
+CREATED:20261120T171241Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   Controls\n\nThe mission of the Compliant Financial Infrastructure WG is t
  o help deliver implementations of the CCC standards across different compu
@@ -1253,16 +1253,17 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
  328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 94786708589\n\nMeeting
   Passcode: 086087\n\n\nInternational numbers: https://zoom.us/u/alwnPIaVT\
  n
-DTSTAMP:20261103T004637Z
+DTSTAMP:20261120T171241Z
 EXDATE;TZID=America/New_York:20260528T120000
 EXDATE;TZID=America/New_York:20260625T120000
 EXDATE;TZID=America/New_York:20260723T120000
-LAST-MODIFIED:20261103T004637Z
+EXDATE;TZID=America/New_York:20261126T120000
+LAST-MODIFIED:20261120T171241Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/94786708589?
  password=292562aa-0bc9-4742-a150-1dd7a7586392
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
 RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+4TH
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:CCC Working Group: Compliant Financial Infrastructure (NA/LATAM)
 TZID:America/New_York
 TZNAME:America/New_York
@@ -3019,7 +3020,7 @@ BEGIN:VEVENT
 UID:95780953406:2026-09-24T10:30:00Z
 DTSTART;TZID=America/New_York:20260924T063000
 DTEND;TZID=America/New_York:20260924T070000
-CREATED:20261103T004645Z
+CREATED:20261120T171231Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
   Controls\n\nThe mission of the Compliant Financial Infrastructure WG is t
  o help deliver implementations of the CCC standards across different compu
@@ -3039,14 +3040,15 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for Common Cloud
  09 7799 or +1 587 328 1099 or 855 703 8985 (Toll Free)\n\nMeeting ID: 9578
  0953406\n\nMeeting Passcode: 424978\n\n\nInternational numbers: https://zo
  om.us/u/alwnPIaVT\n
-DTSTAMP:20261103T004645Z
+DTSTAMP:20261120T171231Z
 EXDATE;TZID=America/New_York:20261105T063000
-LAST-MODIFIED:20261103T004645Z
+EXDATE;TZID=America/New_York:20261126T063000
+LAST-MODIFIED:20261120T171231Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95780953406?
  password=4be05216-d763-4eb3-8288-8fbb69ed298f
 ORGANIZER;CN=Common Cloud Controls:MAILTO:meetings@lfx.dev
 RRULE:FREQ=WEEKLY;INTERVAL=1;WKST=SU;BYDAY=TH
-SEQUENCE:3
+SEQUENCE:4
 SUMMARY:CCC- Working Group: Compliant Financial Infrastructure (EU/APAC)
 TZID:America/New_York
 TZNAME:America/New_York
