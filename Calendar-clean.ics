@@ -2101,7 +2101,7 @@ BEGIN:VEVENT
 UID:95612628024:2025-12-23T16:00:00Z
 DTSTART;TZID=America/New_York:20251223T110000
 DTEND;TZID=America/New_York:20251223T120000
-CREATED:20261103T004550Z
+CREATED:20261124T134540Z
 DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
  ation\n\nMonthly Architecture as Code Working Group - DevOps Automation me
  eting.\n\nWays to join meeting:\n\n1. Join from PC\, Mac\, iPad\, or Andro
@@ -2116,16 +2116,17 @@ DESCRIPTION:\nYou have been invited to a recurring meeting for DevOps Autom
  7 2071 or +1 204 272 7920 or +1 438 809 7799 or +1 587 328 1099 or 855 703
   8985 (Toll Free)\n\nMeeting ID: 95612628024\n\nMeeting Passcode: 661526\n
  \n\nInternational numbers: https://zoom.us/u/alwnPIaVT\n
-DTSTAMP:20261103T004550Z
+DTSTAMP:20261124T134540Z
 EXDATE;TZID=America/New_York:20251223T110000
 EXDATE;TZID=America/New_York:20260623T110000
 EXDATE;TZID=America/New_York:20260922T110000
-LAST-MODIFIED:20261103T004550Z
+EXDATE;TZID=America/New_York:20261124T110000
+LAST-MODIFIED:20261124T134540Z
 LOCATION:https://zoom-lfx.platform.linuxfoundation.org/meeting/95612628024?
  password=bd0f263c-4fad-490f-8b36-56ff98932456
 ORGANIZER;CN=DevOps Automation:MAILTO:meetings@lfx.dev
 RRULE:FREQ=MONTHLY;INTERVAL=1;WKST=SU;BYDAY=+4TU
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Architecture as Code Working Group - DevOps Automation
 TZID:America/New_York
 TZNAME:America/New_York
